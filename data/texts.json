@@ -612,8 +612,28 @@
               "translation": null
             }
           ],
-          "title_pinyin": "huì shuōhuà de shū",
-          "title_english": "The Talking Book"
+          "title_segments": [
+            {
+              "text": "会",
+              "pinyin": "huì",
+              "translation": "can"
+            },
+            {
+              "text": "说话",
+              "pinyin": "shuōhuà",
+              "translation": "speak"
+            },
+            {
+              "text": "的",
+              "pinyin": "de",
+              "translation": "'s"
+            },
+            {
+              "text": "书",
+              "pinyin": "shū",
+              "translation": "book"
+            }
+          ]
         },
         {
           "id": "hsk1_historical_poet_tea",
@@ -1702,8 +1722,23 @@
               "translation": null
             }
           ],
-          "title_pinyin": "shīrén de chá",
-          "title_english": "The Poet's Tea"
+          "title_segments": [
+            {
+              "text": "诗人",
+              "pinyin": "shīrén",
+              "translation": "poet"
+            },
+            {
+              "text": "的",
+              "pinyin": "de",
+              "translation": "'s"
+            },
+            {
+              "text": "茶",
+              "pinyin": "chá",
+              "translation": "tea"
+            }
+          ]
         },
         {
           "id": "hsk1_magical_shadow_friend",
@@ -2742,8 +2777,28 @@
               "translation": null
             }
           ],
-          "title_pinyin": "wǒ de yǐngzi péngyou",
-          "title_english": "My Shadow Friend"
+          "title_segments": [
+            {
+              "text": "我",
+              "pinyin": "wǒ",
+              "translation": "my"
+            },
+            {
+              "text": "的",
+              "pinyin": "de",
+              "translation": "'s"
+            },
+            {
+              "text": "影子",
+              "pinyin": "yǐngzi",
+              "translation": "shadow"
+            },
+            {
+              "text": "朋友",
+              "pinyin": "péngyou",
+              "translation": "friend"
+            }
+          ]
         },
         {
           "id": "hsk1_comedy_reading_dog",
@@ -3787,8 +3842,23 @@
               "translation": null
             }
           ],
-          "title_pinyin": "dúshū de gǒu",
-          "title_english": "The Reading Dog"
+          "title_segments": [
+            {
+              "text": "读书",
+              "pinyin": "dúshū",
+              "translation": "reading"
+            },
+            {
+              "text": "的",
+              "pinyin": "de",
+              "translation": "'s"
+            },
+            {
+              "text": "狗",
+              "pinyin": "gǒu",
+              "translation": "dog"
+            }
+          ]
         },
         {
           "id": "hsk1_slice_of_life_new_neighbors",
@@ -4772,8 +4842,18 @@
               "translation": null
             }
           ],
-          "title_pinyin": "xīn línjū",
-          "title_english": "New Neighbors"
+          "title_segments": [
+            {
+              "text": "新",
+              "pinyin": "xīn",
+              "translation": "new"
+            },
+            {
+              "text": "邻居",
+              "pinyin": "línjū",
+              "translation": "neighbors"
+            }
+          ]
         }
       ]
     },
@@ -5789,8 +5869,23 @@
               "translation": null
             }
           ],
-          "title_pinyin": "cōngmíng de nàozhōng",
-          "title_english": "The Smart Alarm"
+          "title_segments": [
+            {
+              "text": "聪明",
+              "pinyin": "cōngmíng",
+              "translation": "smart"
+            },
+            {
+              "text": "的",
+              "pinyin": "de",
+              "translation": "'s"
+            },
+            {
+              "text": "闹钟",
+              "pinyin": "nàozhōng",
+              "translation": "alarm clock"
+            }
+          ]
         },
         {
           "id": "hsk2_historical_grandfather_map",
@@ -6764,8 +6859,23 @@
               "translation": null
             }
           ],
-          "title_pinyin": "yéye de dìtú",
-          "title_english": "Grandfather's Map"
+          "title_segments": [
+            {
+              "text": "爷爷",
+              "pinyin": "yéye",
+              "translation": "grandfather"
+            },
+            {
+              "text": "的",
+              "pinyin": "de",
+              "translation": "'s"
+            },
+            {
+              "text": "地图",
+              "pinyin": "dìtú",
+              "translation": "map"
+            }
+          ]
         },
         {
           "id": "hsk2_magical_magic_kitchen",
@@ -7854,8 +7964,18 @@
               "translation": null
             }
           ],
-          "title_pinyin": "mófǎ chúfáng",
-          "title_english": "The Magic Kitchen"
+          "title_segments": [
+            {
+              "text": "魔法",
+              "pinyin": "mófǎ",
+              "translation": "magic"
+            },
+            {
+              "text": "厨房",
+              "pinyin": "chúfáng",
+              "translation": "kitchen"
+            }
+          ]
         },
         {
           "id": "hsk2_comedy_wrong_class",
@@ -9114,8 +9234,28 @@
               "translation": null
             }
           ],
-          "title_pinyin": "shàng cuò le kè",
-          "title_english": "Wrong Class"
+          "title_segments": [
+            {
+              "text": "上",
+              "pinyin": "shàng",
+              "translation": "attend"
+            },
+            {
+              "text": "错",
+              "pinyin": "cuò",
+              "translation": "wrong"
+            },
+            {
+              "text": "了",
+              "pinyin": "le",
+              "translation": "(past tense)"
+            },
+            {
+              "text": "课",
+              "pinyin": "kè",
+              "translation": "class"
+            }
+          ]
         },
         {
           "id": "hsk2_mystery_lunch_thief",
@@ -10364,8 +10504,18 @@
               "translation": null
             }
           ],
-          "title_pinyin": "wǔfàn xiǎotōu",
-          "title_english": "Lunch Thief"
+          "title_segments": [
+            {
+              "text": "午饭",
+              "pinyin": "wǔfàn",
+              "translation": "lunch"
+            },
+            {
+              "text": "小偷",
+              "pinyin": "xiǎotōu",
+              "translation": "thief"
+            }
+          ]
         }
       ]
     },
@@ -11351,8 +11501,18 @@
               "translation": null
             }
           ],
-          "title_pinyin": "biāoqiān yǎnjìng",
-          "title_english": "The Label Glasses"
+          "title_segments": [
+            {
+              "text": "标签",
+              "pinyin": "biāoqiān",
+              "translation": "label"
+            },
+            {
+              "text": "眼镜",
+              "pinyin": "yǎnjìng",
+              "translation": "glasses"
+            }
+          ]
         },
         {
           "id": "hsk3-historical",
@@ -12381,8 +12541,23 @@
               "translation": null
             }
           ],
-          "title_pinyin": "jìn chéng - 1985",
-          "title_english": "Moving to the City - 1985"
+          "title_segments": [
+            {
+              "text": "进",
+              "pinyin": "jìn",
+              "translation": "enter"
+            },
+            {
+              "text": "城",
+              "pinyin": "chéng",
+              "translation": "city"
+            },
+            {
+              "text": " - 1985",
+              "pinyin": null,
+              "translation": null
+            }
+          ]
         },
         {
           "id": "hsk3-magical",
@@ -13686,8 +13861,23 @@
               "translation": null
             }
           ],
-          "title_pinyin": "chéngshí de zìxíngchē",
-          "title_english": "The Honest Bicycle"
+          "title_segments": [
+            {
+              "text": "诚实",
+              "pinyin": "chéngshí",
+              "translation": "honest"
+            },
+            {
+              "text": "的",
+              "pinyin": "de",
+              "translation": "'s"
+            },
+            {
+              "text": "自行车",
+              "pinyin": "zìxíngchē",
+              "translation": "bicycle"
+            }
+          ]
         },
         {
           "id": "hsk3-comedy",
@@ -15076,8 +15266,23 @@
               "translation": null
             }
           ],
-          "title_pinyin": "cuòwù de shǒujī",
-          "title_english": "Wrong Phone"
+          "title_segments": [
+            {
+              "text": "错误",
+              "pinyin": "cuòwù",
+              "translation": "wrong"
+            },
+            {
+              "text": "的",
+              "pinyin": "de",
+              "translation": "'s"
+            },
+            {
+              "text": "手机",
+              "pinyin": "shǒujī",
+              "translation": "phone"
+            }
+          ]
         },
         {
           "id": "hsk3-drama",
@@ -16516,8 +16721,18 @@
               "translation": null
             }
           ],
-          "title_pinyin": "yángtái huāyuán",
-          "title_english": "The Balcony Garden"
+          "title_segments": [
+            {
+              "text": "阳台",
+              "pinyin": "yángtái",
+              "translation": "balcony"
+            },
+            {
+              "text": "花园",
+              "pinyin": "huāyuán",
+              "translation": "garden"
+            }
+          ]
         }
       ]
     },
@@ -17663,8 +17878,23 @@
               "translation": null
             }
           ],
-          "title_pinyin": "míngtiān de chá",
-          "title_english": "Tea from Tomorrow"
+          "title_segments": [
+            {
+              "text": "明天",
+              "pinyin": "míngtiān",
+              "translation": "tomorrow"
+            },
+            {
+              "text": "的",
+              "pinyin": "de",
+              "translation": "'s"
+            },
+            {
+              "text": "茶",
+              "pinyin": "chá",
+              "translation": "tea"
+            }
+          ]
         },
         {
           "id": "hsk4-historical",
@@ -18813,8 +19043,23 @@
               "translation": null
             }
           ],
-          "title_pinyin": "shūfǎjiā de xuǎnzé",
-          "title_english": "The Calligrapher's Choice"
+          "title_segments": [
+            {
+              "text": "书法家",
+              "pinyin": "shūfǎjiā",
+              "translation": "calligrapher"
+            },
+            {
+              "text": "的",
+              "pinyin": "de",
+              "translation": "'s"
+            },
+            {
+              "text": "选择",
+              "pinyin": "xuǎnzé",
+              "translation": "choice"
+            }
+          ]
         },
         {
           "id": "hsk4-magical",
@@ -20138,8 +20383,18 @@
               "translation": null
             }
           ],
-          "title_pinyin": "jìyì cháguǎn",
-          "title_english": "The Memory Teahouse"
+          "title_segments": [
+            {
+              "text": "记忆",
+              "pinyin": "jìyì",
+              "translation": "memory"
+            },
+            {
+              "text": "茶馆",
+              "pinyin": "cháguǎn",
+              "translation": "teahouse"
+            }
+          ]
         },
         {
           "id": "hsk4-comedy",
@@ -21338,8 +21593,23 @@
               "translation": null
             }
           ],
-          "title_pinyin": "nǎinai wán wǎngluò",
-          "title_english": "Grandma Goes Digital"
+          "title_segments": [
+            {
+              "text": "奶奶",
+              "pinyin": "nǎinai",
+              "translation": "grandma"
+            },
+            {
+              "text": "玩",
+              "pinyin": "wán",
+              "translation": "plays"
+            },
+            {
+              "text": "网络",
+              "pinyin": "wǎngluò",
+              "translation": "internet"
+            }
+          ]
         },
         {
           "id": "hsk4-philosophical",
@@ -22683,8 +22953,18 @@
               "translation": null
             }
           ],
-          "title_pinyin": "gōngyuán guāncházhě",
-          "title_english": "The Park Observer"
+          "title_segments": [
+            {
+              "text": "公园",
+              "pinyin": "gōngyuán",
+              "translation": "park"
+            },
+            {
+              "text": "观察者",
+              "pinyin": "guāncházhě",
+              "translation": "observer"
+            }
+          ]
         }
       ]
     }

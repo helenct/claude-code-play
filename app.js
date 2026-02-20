@@ -68,6 +68,16 @@ function navigateToLevel(levelId) {
     }
 }
 
+// Render an array of word segments as hoverable spans
+function renderWords(segments) {
+    return segments.map(item => {
+        if (item.pinyin && item.translation) {
+            return `<span class="word" data-pinyin="${item.pinyin}" data-translation="${item.translation}">${item.text}</span>`;
+        }
+        return item.text;
+    }).join('');
+}
+
 // Show story selection view for a level
 function showStorySelection(level) {
     currentStory = null;
@@ -76,7 +86,7 @@ function showStorySelection(level) {
     const storyCards = level.stories.map(story => `
         <div class="story-card" onclick="navigateToStory('${story.id}')">
             <span class="genre-badge">${story.genre}</span>
-            <h3><span class="word" data-pinyin="${story.title_pinyin}" data-translation="${story.title_english}">${story.title}</span></h3>
+            <h3>${renderWords(story.title_segments)}</h3>
         </div>
     `).join('');
 
@@ -107,18 +117,12 @@ function navigateToStory(storyId) {
 function showText(story) {
     const appContainer = document.getElementById('app');
 
-    const textContent = story.content.map(item => {
-        if (item.pinyin && item.translation) {
-            return `<span class="word" data-pinyin="${item.pinyin}" data-translation="${item.translation}">${item.text}</span>`;
-        } else {
-            return item.text;
-        }
-    }).join('');
+    const textContent = renderWords(story.content);
 
     appContainer.innerHTML = `
         <div class="reading-view">
             <div class="reading-header">
-                <h2>${story.title}</h2>
+                <h2>${renderWords(story.title_segments)}</h2>
                 <span class="genre-badge">${story.genre}</span>
                 <p class="instruction">Hover over words to see pinyin and translation</p>
             </div>

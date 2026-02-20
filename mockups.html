@@ -1107,13 +1107,153 @@
   }
   .t10 .m-reading-term .sample-text .w:hover { color: #00ff78; }
   .t10 .above { border-color: #ffaa00; color: #ffcc44; }
+
+  /* ========================================
+     THEME 11: JADE SPLIT (Split Mono + Jade & Cloud)
+     ======================================== */
+  .t11 .frame {
+    min-height: 520px;
+    display: grid;
+    grid-template-columns: 280px 1fr;
+    background: #0f1f20;
+  }
+  .t11 .m-sidebar {
+    background: linear-gradient(180deg, #162828 0%, #0e1c1d 100%);
+    padding: 2rem 1.5rem;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+    border-right: 1px solid rgba(100,180,160,0.1);
+  }
+  .t11 .m-sidebar::before {
+    content: '';
+    position: absolute;
+    top: -20%; left: -20%;
+    width: 140%; height: 60%;
+    background: radial-gradient(ellipse, rgba(100,180,160,0.07) 0%, transparent 60%);
+    pointer-events: none;
+  }
+  .t11 .m-sidebar .logo {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 0.85rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    color: #8ac4b0;
+    margin-bottom: 2rem;
+    position: relative;
+  }
+  .t11 .m-sidebar .logo span {
+    display: block;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.6rem;
+    font-weight: 400;
+    color: #4a7a6a;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-top: 0.2rem;
+  }
+  .t11 .m-sidebar .level-nav {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    margin-bottom: 2rem;
+    position: relative;
+  }
+  .t11 .m-sidebar .lv-item {
+    padding: 0.5rem 0.8rem;
+    border-radius: 6px;
+    font-size: 0.75rem;
+    color: #4a7a6a;
+    font-weight: 500;
+    transition: all 0.2s;
+  }
+  .t11 .m-sidebar .lv-item.active {
+    background: rgba(100,180,160,0.1);
+    color: #a0dcc8;
+  }
+  .t11 .m-sidebar .stories-list {
+    flex: 1;
+    position: relative;
+  }
+  .t11 .m-sidebar .s-item {
+    padding: 0.6rem 0.8rem;
+    border-left: 2px solid transparent;
+    margin-bottom: 0.2rem;
+    transition: all 0.2s;
+  }
+  .t11 .m-sidebar .s-item.active {
+    border-left-color: #80c4a8;
+    background: rgba(100,180,160,0.08);
+  }
+  .t11 .m-sidebar .s-item .s-badge {
+    font-size: 0.55rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #3d6a5a;
+  }
+  .t11 .m-sidebar .s-item.active .s-badge { color: #6aaa90; }
+  .t11 .m-sidebar .s-item h4 {
+    font-family: 'Noto Sans SC', sans-serif;
+    font-size: 0.9rem;
+    color: #5a8a7a;
+    font-weight: 400;
+    margin-top: 0.1rem;
+  }
+  .t11 .m-sidebar .s-item.active h4 { color: #c0dcd0; }
+  .t11 .m-main {
+    background: linear-gradient(160deg, #1a2a2a 0%, #0f1f20 100%);
+    padding: 2.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .t11 .m-main::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background:
+      radial-gradient(ellipse at 70% 30%, rgba(100,180,160,0.06) 0%, transparent 50%),
+      radial-gradient(ellipse at 30% 80%, rgba(80,160,140,0.04) 0%, transparent 40%);
+    pointer-events: none;
+  }
+  .t11 .m-main .reading-title {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 2rem;
+    font-weight: 600;
+    color: #c8e8dc;
+    margin-bottom: 0.3rem;
+    position: relative;
+  }
+  .t11 .m-main .reading-meta {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #5a8a7a;
+    font-weight: 500;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid rgba(100,180,160,0.12);
+    position: relative;
+  }
+  .t11 .m-main .sample-text {
+    font-family: 'Noto Sans SC', sans-serif;
+    font-size: 1.4rem;
+    color: #a0c8b8;
+    line-height: 2.4;
+    position: relative;
+  }
+  .t11 .m-main .sample-text .w:hover { color: #c8e8dc; }
+  .t11 .above { border-color: #80c4a8; }
 </style>
 </head>
 <body>
 
 <div class="page-header">
   <h1>Theme Mockups</h1>
-  <p>10 directions for the Chinese Graded Reader aesthetic. Each shows nav, story cards, and reading text.</p>
+  <p>11 directions for the Chinese Graded Reader aesthetic. Each shows nav, story cards, and reading text.</p>
 </div>
 
 <!-- 1: INK WASH -->
@@ -1498,6 +1638,47 @@
         <div class="sample-text">
           <span class="w">我</span><span class="w">卖</span><span class="w">茶</span>。<span class="w">我</span><span class="w">的</span><span class="w">茶</span><span class="w">很</span><span class="w">好</span>。<span class="w">今天</span>，<span class="w">一</span><span class="w">个</span><span class="w above">诗人</span><span class="w">来</span><span class="w">了</span>。
         </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 11: JADE SPLIT -->
+<div class="mockup t11">
+  <div class="mockup-label">11. Jade Split <span class="tag">Split Mono layout + Jade & Cloud palette</span></div>
+  <div class="frame">
+    <div class="m-sidebar">
+      <div class="logo">中文读物 <span>Graded Reader</span></div>
+      <div class="level-nav">
+        <div class="lv-item active">HSK 1 &mdash; Beginner</div>
+        <div class="lv-item">HSK 2 &mdash; Elementary</div>
+        <div class="lv-item">HSK 3 &mdash; Intermediate</div>
+        <div class="lv-item">HSK 4 &mdash; Advanced</div>
+      </div>
+      <div class="stories-list">
+        <div class="s-item active">
+          <div class="s-badge">科幻</div>
+          <h4>诗人的茶</h4>
+        </div>
+        <div class="s-item">
+          <div class="s-badge">喜剧</div>
+          <h4>读书的狗</h4>
+        </div>
+        <div class="s-item">
+          <div class="s-badge">魔幻</div>
+          <h4>我的影子朋友</h4>
+        </div>
+        <div class="s-item">
+          <div class="s-badge">生活</div>
+          <h4>新邻居</h4>
+        </div>
+      </div>
+    </div>
+    <div class="m-main">
+      <div class="reading-title">诗人的茶</div>
+      <div class="reading-meta">科幻 &middot; HSK 1 &middot; 216 words</div>
+      <div class="sample-text">
+        <span class="w">我</span><span class="w">卖</span><span class="w">茶</span>。<span class="w">我</span><span class="w">的</span><span class="w">茶</span><span class="w">很</span><span class="w">好</span>。<span class="w">今天</span>，<span class="w">一</span><span class="w">个</span><span class="w above">诗人</span><span class="w">来</span><span class="w">了</span>。<span class="w">他</span><span class="w">说</span>：<span class="w">"</span><span class="w">你好</span>！<span class="w">"</span>
       </div>
     </div>
   </div>

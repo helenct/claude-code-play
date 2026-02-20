@@ -1,0 +1,1990 @@
+{
+  "level": "HSK2",
+  "stories": [
+    {
+      "id": "hsk2_scifi_smart_alarm",
+      "title": "聪明的闹钟",
+      "english_title": "The Smart Alarm",
+      "genre": "Sci-fi",
+      "hsk_level": 2,
+      "word_count": 520,
+      "text": [
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "translation": "I"
+        },
+        {
+          "word": "的",
+          "pinyin": "de",
+          "translation": "(possessive)"
+        },
+        {
+          "word": "手机",
+          "pinyin": "shǒujī",
+          "translation": "mobile phone"
+        },
+        {
+          "word": "闹钟",
+          "pinyin": "nàozhōng",
+          "translation": "alarm clock"
+        },
+        {
+          "word": "很",
+          "pinyin": "hěn",
+          "translation": "very"
+        },
+        {
+          "word": "奇怪",
+          "pinyin": "qíguài",
+          "translation": "strange"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "昨天",
+          "pinyin": "zuótiān",
+          "translation": "yesterday"
+        },
+        {
+          "word": "晚上",
+          "pinyin": "wǎnshang",
+          "translation": "evening"
+        },
+        {
+          "word": "，",
+          "pinyin": "",
+          "translation": ","
+        },
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "translation": "I"
+        },
+        {
+          "word": "想",
+          "pinyin": "xiǎng",
+          "translation": "want"
+        },
+        {
+          "word": "早上",
+          "pinyin": "zǎoshang",
+          "translation": "morning"
+        },
+        {
+          "word": "七",
+          "pinyin": "qī",
+          "translation": "seven"
+        },
+        {
+          "word": "点",
+          "pinyin": "diǎn",
+          "translation": "o'clock"
+        },
+        {
+          "word": "起床",
+          "pinyin": "qǐchuáng",
+          "translation": "get up"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "但是",
+          "pinyin": "dànshì",
+          "translation": "but"
+        },
+        {
+          "word": "，",
+          "pinyin": "",
+          "translation": ","
+        },
+        {
+          "word": "闹钟",
+          "pinyin": "nàozhōng",
+          "translation": "alarm"
+        },
+        {
+          "word": "六",
+          "pinyin": "liù",
+          "translation": "six"
+        },
+        {
+          "word": "点",
+          "pinyin": "diǎn",
+          "translation": "o'clock"
+        },
+        {
+          "word": "就",
+          "pinyin": "jiù",
+          "translation": "already"
+        },
+        {
+          "word": "响",
+          "pinyin": "xiǎng",
+          "translation": "ring/sound"
+        },
+        {
+          "word": "了",
+          "pinyin": "le",
+          "translation": "(completed action)"
+        },
+        {
+          "word": "！",
+          "pinyin": "",
+          "translation": "!"
+        },
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "translation": "I"
+        },
+        {
+          "word": "起床",
+          "pinyin": "qǐchuáng",
+          "translation": "get up"
+        },
+        {
+          "word": "了",
+          "pinyin": "le",
+          "translation": "(completed action)"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "很",
+          "pinyin": "hěn",
+          "translation": "very"
+        },
+        {
+          "word": "生气",
+          "pinyin": "shēngqì",
+          "translation": "angry"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "为什么",
+          "pinyin": "wèishénme",
+          "translation": "why"
+        },
+        {
+          "word": "这么",
+          "pinyin": "zhème",
+          "translation": "so"
+        },
+        {
+          "word": "早",
+          "pinyin": "zǎo",
+          "translation": "early"
+        },
+        {
+          "word": "？",
+          "pinyin": "",
+          "translation": "?"
+        },
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "translation": "I"
+        },
+        {
+          "word": "想",
+          "pinyin": "xiǎng",
+          "translation": "think"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "后来",
+          "pinyin": "hòulái",
+          "translation": "later"
+        },
+        {
+          "word": "，",
+          "pinyin": "",
+          "translation": ","
+        },
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "translation": "I"
+        },
+        {
+          "word": "发现",
+          "pinyin": "fāxiàn",
+          "translation": "discover"
+        },
+        {
+          "word": "：",
+          "pinyin": "",
+          "translation": ":"
+        },
+        {
+          "word": "公司",
+          "pinyin": "gōngsī",
+          "translation": "company"
+        },
+        {
+          "word": "今天",
+          "pinyin": "jīntiān",
+          "translation": "today"
+        },
+        {
+          "word": "有",
+          "pinyin": "yǒu",
+          "translation": "have"
+        },
+        {
+          "word": "重要",
+          "pinyin": "zhòngyào",
+          "translation": "important"
+        },
+        {
+          "word": "的",
+          "pinyin": "de",
+          "translation": "(particle)"
+        },
+        {
+          "word": "会议",
+          "pinyin": "huìyì",
+          "translation": "meeting"
+        },
+        {
+          "word": "！",
+          "pinyin": "",
+          "translation": "!"
+        },
+        {
+          "word": "六",
+          "pinyin": "liù",
+          "translation": "six"
+        },
+        {
+          "word": "点",
+          "pinyin": "diǎn",
+          "translation": "o'clock"
+        },
+        {
+          "word": "半",
+          "pinyin": "bàn",
+          "translation": "half"
+        },
+        {
+          "word": "开始",
+          "pinyin": "kāishǐ",
+          "translation": "start"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "translation": "I"
+        },
+        {
+          "word": "差点儿",
+          "pinyin": "chàdiǎnr",
+          "translation": "almost"
+        },
+        {
+          "word": "忘",
+          "pinyin": "wàng",
+          "translation": "forget"
+        },
+        {
+          "word": "了",
+          "pinyin": "le",
+          "translation": "(completed action)"
+        },
+        {
+          "word": "！",
+          "pinyin": "",
+          "translation": "!"
+        },
+        {
+          "word": "上",
+          "pinyin": "shàng",
+          "translation": "last"
+        },
+        {
+          "word": "星期",
+          "pinyin": "xīngqī",
+          "translation": "week"
+        },
+        {
+          "word": "，",
+          "pinyin": "",
+          "translation": ","
+        },
+        {
+          "word": "闹钟",
+          "pinyin": "nàozhōng",
+          "translation": "alarm"
+        },
+        {
+          "word": "又",
+          "pinyin": "yòu",
+          "translation": "again"
+        },
+        {
+          "word": "响",
+          "pinyin": "xiǎng",
+          "translation": "ring"
+        },
+        {
+          "word": "了",
+          "pinyin": "le",
+          "translation": "(completed action)"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "不是",
+          "pinyin": "bú shì",
+          "translation": "not"
+        },
+        {
+          "word": "早上",
+          "pinyin": "zǎoshang",
+          "translation": "morning"
+        },
+        {
+          "word": "，",
+          "pinyin": "",
+          "translation": ","
+        },
+        {
+          "word": "是",
+          "pinyin": "shì",
+          "translation": "is"
+        },
+        {
+          "word": "下午",
+          "pinyin": "xiàwǔ",
+          "translation": "afternoon"
+        },
+        {
+          "word": "三",
+          "pinyin": "sān",
+          "translation": "three"
+        },
+        {
+          "word": "点",
+          "pinyin": "diǎn",
+          "translation": "o'clock"
+        },
+        {
+          "word": "！",
+          "pinyin": "",
+          "translation": "!"
+        },
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "translation": "I"
+        },
+        {
+          "word": "在",
+          "pinyin": "zài",
+          "translation": "at"
+        },
+        {
+          "word": "睡觉",
+          "pinyin": "shuìjiào",
+          "translation": "sleep"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "为什么",
+          "pinyin": "wèishénme",
+          "translation": "why"
+        },
+        {
+          "word": "响",
+          "pinyin": "xiǎng",
+          "translation": "ring"
+        },
+        {
+          "word": "？",
+          "pinyin": "",
+          "translation": "?"
+        },
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "translation": "I"
+        },
+        {
+          "word": "很",
+          "pinyin": "hěn",
+          "translation": "very"
+        },
+        {
+          "word": "不",
+          "pinyin": "bù",
+          "translation": "not"
+        },
+        {
+          "word": "高兴",
+          "pinyin": "gāoxìng",
+          "translation": "happy"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "后来",
+          "pinyin": "hòulái",
+          "translation": "later"
+        },
+        {
+          "word": "，",
+          "pinyin": "",
+          "translation": ","
+        },
+        {
+          "word": "妈妈",
+          "pinyin": "māma",
+          "translation": "mom"
+        },
+        {
+          "word": "打",
+          "pinyin": "dǎ",
+          "translation": "make (a call)"
+        },
+        {
+          "word": "电话",
+          "pinyin": "diànhuà",
+          "translation": "phone call"
+        },
+        {
+          "word": "来",
+          "pinyin": "lái",
+          "translation": "come"
+        },
+        {
+          "word": "了",
+          "pinyin": "le",
+          "translation": "(completed action)"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "她",
+          "pinyin": "tā",
+          "translation": "she"
+        },
+        {
+          "word": "说",
+          "pinyin": "shuō",
+          "translation": "say"
+        },
+        {
+          "word": "她",
+          "pinyin": "tā",
+          "translation": "she"
+        },
+        {
+          "word": "身体",
+          "pinyin": "shēntǐ",
+          "translation": "body/health"
+        },
+        {
+          "word": "不",
+          "pinyin": "bù",
+          "translation": "not"
+        },
+        {
+          "word": "舒服",
+          "pinyin": "shūfu",
+          "translation": "comfortable"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "translation": "I"
+        },
+        {
+          "word": "马上",
+          "pinyin": "mǎshàng",
+          "translation": "immediately"
+        },
+        {
+          "word": "去",
+          "pinyin": "qù",
+          "translation": "go"
+        },
+        {
+          "word": "了",
+          "pinyin": "le",
+          "translation": "(completed action)"
+        },
+        {
+          "word": "医院",
+          "pinyin": "yīyuàn",
+          "translation": "hospital"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "幸好",
+          "pinyin": "xìnghǎo",
+          "translation": "fortunately"
+        },
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "translation": "I"
+        },
+        {
+          "word": "没有",
+          "pinyin": "méiyǒu",
+          "translation": "didn't"
+        },
+        {
+          "word": "睡",
+          "pinyin": "shuì",
+          "translation": "sleep"
+        },
+        {
+          "word": "太",
+          "pinyin": "tài",
+          "translation": "too"
+        },
+        {
+          "word": "多",
+          "pinyin": "duō",
+          "translation": "much"
+        },
+        {
+          "word": "！",
+          "pinyin": "",
+          "translation": "!"
+        },
+        {
+          "word": "今天",
+          "pinyin": "jīntiān",
+          "translation": "today"
+        },
+        {
+          "word": "早上",
+          "pinyin": "zǎoshang",
+          "translation": "morning"
+        },
+        {
+          "word": "，",
+          "pinyin": "",
+          "translation": ","
+        },
+        {
+          "word": "闹钟",
+          "pinyin": "nàozhōng",
+          "translation": "alarm"
+        },
+        {
+          "word": "又",
+          "pinyin": "yòu",
+          "translation": "again"
+        },
+        {
+          "word": "响",
+          "pinyin": "xiǎng",
+          "translation": "ring"
+        },
+        {
+          "word": "了",
+          "pinyin": "le",
+          "translation": "(completed action)"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "五",
+          "pinyin": "wǔ",
+          "translation": "five"
+        },
+        {
+          "word": "点",
+          "pinyin": "diǎn",
+          "translation": "o'clock"
+        },
+        {
+          "word": "半",
+          "pinyin": "bàn",
+          "translation": "half"
+        },
+        {
+          "word": "！",
+          "pinyin": "",
+          "translation": "!"
+        },
+        {
+          "word": "太",
+          "pinyin": "tài",
+          "translation": "too"
+        },
+        {
+          "word": "早",
+          "pinyin": "zǎo",
+          "translation": "early"
+        },
+        {
+          "word": "了",
+          "pinyin": "le",
+          "translation": "(change of state)"
+        },
+        {
+          "word": "！",
+          "pinyin": "",
+          "translation": "!"
+        },
+        {
+          "word": "但是",
+          "pinyin": "dànshì",
+          "translation": "but"
+        },
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "translation": "I"
+        },
+        {
+          "word": "起来",
+          "pinyin": "qǐlái",
+          "translation": "get up"
+        },
+        {
+          "word": "了",
+          "pinyin": "le",
+          "translation": "(completed action)"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "translation": "I"
+        },
+        {
+          "word": "看",
+          "pinyin": "kàn",
+          "translation": "look"
+        },
+        {
+          "word": "窗户",
+          "pinyin": "chuānghu",
+          "translation": "window"
+        },
+        {
+          "word": "外面",
+          "pinyin": "wàimiàn",
+          "translation": "outside"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "下雨",
+          "pinyin": "xiàyǔ",
+          "translation": "rain"
+        },
+        {
+          "word": "了",
+          "pinyin": "le",
+          "translation": "(completed action)"
+        },
+        {
+          "word": "！",
+          "pinyin": "",
+          "translation": "!"
+        },
+        {
+          "word": "很",
+          "pinyin": "hěn",
+          "translation": "very"
+        },
+        {
+          "word": "大",
+          "pinyin": "dà",
+          "translation": "big"
+        },
+        {
+          "word": "的",
+          "pinyin": "de",
+          "translation": "(particle)"
+        },
+        {
+          "word": "雨",
+          "pinyin": "yǔ",
+          "translation": "rain"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "路上",
+          "pinyin": "lùshang",
+          "translation": "on the road"
+        },
+        {
+          "word": "很",
+          "pinyin": "hěn",
+          "translation": "very"
+        },
+        {
+          "word": "多",
+          "pinyin": "duō",
+          "translation": "many"
+        },
+        {
+          "word": "水",
+          "pinyin": "shuǐ",
+          "translation": "water"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "如果",
+          "pinyin": "rúguǒ",
+          "translation": "if"
+        },
+        {
+          "word": "七",
+          "pinyin": "qī",
+          "translation": "seven"
+        },
+        {
+          "word": "点",
+          "pinyin": "diǎn",
+          "translation": "o'clock"
+        },
+        {
+          "word": "出门",
+          "pinyin": "chūmén",
+          "translation": "go out"
+        },
+        {
+          "word": "，",
+          "pinyin": "",
+          "translation": ","
+        },
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "translation": "I"
+        },
+        {
+          "word": "会",
+          "pinyin": "huì",
+          "translation": "will"
+        },
+        {
+          "word": "迟到",
+          "pinyin": "chídào",
+          "translation": "be late"
+        },
+        {
+          "word": "！",
+          "pinyin": "",
+          "translation": "!"
+        },
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "translation": "I"
+        },
+        {
+          "word": "开始",
+          "pinyin": "kāishǐ",
+          "translation": "start"
+        },
+        {
+          "word": "明白",
+          "pinyin": "míngbai",
+          "translation": "understand"
+        },
+        {
+          "word": "了",
+          "pinyin": "le",
+          "translation": "(completed action)"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "translation": "I"
+        },
+        {
+          "word": "的",
+          "pinyin": "de",
+          "translation": "(possessive)"
+        },
+        {
+          "word": "手机",
+          "pinyin": "shǒujī",
+          "translation": "phone"
+        },
+        {
+          "word": "闹钟",
+          "pinyin": "nàozhōng",
+          "translation": "alarm"
+        },
+        {
+          "word": "知道",
+          "pinyin": "zhīdào",
+          "translation": "know"
+        },
+        {
+          "word": "什么",
+          "pinyin": "shénme",
+          "translation": "what"
+        },
+        {
+          "word": "时候",
+          "pinyin": "shíhou",
+          "translation": "time/when"
+        },
+        {
+          "word": "重要",
+          "pinyin": "zhòngyào",
+          "translation": "important"
+        },
+        {
+          "word": "！",
+          "pinyin": "",
+          "translation": "!"
+        },
+        {
+          "word": "它",
+          "pinyin": "tā",
+          "translation": "it"
+        },
+        {
+          "word": "帮助",
+          "pinyin": "bāngzhù",
+          "translation": "help"
+        },
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "translation": "me"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "现在",
+          "pinyin": "xiànzài",
+          "translation": "now"
+        },
+        {
+          "word": "，",
+          "pinyin": "",
+          "translation": ","
+        },
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "translation": "I"
+        },
+        {
+          "word": "每天",
+          "pinyin": "měitiān",
+          "translation": "every day"
+        },
+        {
+          "word": "晚上",
+          "pinyin": "wǎnshang",
+          "translation": "evening"
+        },
+        {
+          "word": "都",
+          "pinyin": "dōu",
+          "translation": "all"
+        },
+        {
+          "word": "对",
+          "pinyin": "duì",
+          "translation": "to"
+        },
+        {
+          "word": "手机",
+          "pinyin": "shǒujī",
+          "translation": "phone"
+        },
+        {
+          "word": "说",
+          "pinyin": "shuō",
+          "translation": "say"
+        },
+        {
+          "word": "：",
+          "pinyin": "",
+          "translation": ":"
+        },
+        {
+          "word": "谢谢",
+          "pinyin": "xièxie",
+          "translation": "thank you"
+        },
+        {
+          "word": "你",
+          "pinyin": "nǐ",
+          "translation": "you"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "明天",
+          "pinyin": "míngtiān",
+          "translation": "tomorrow"
+        },
+        {
+          "word": "见",
+          "pinyin": "jiàn",
+          "translation": "see"
+        },
+        {
+          "word": "！",
+          "pinyin": "",
+          "translation": "!"
+        }
+      ]
+    },
+    {
+      "id": "hsk2_historical_grandfather_map",
+      "title": "爷爷的地图",
+      "english_title": "Grandfather's Map",
+      "genre": "Historical Fiction",
+      "hsk_level": 2,
+      "word_count": 515,
+      "text": [
+        {
+          "word": "上",
+          "pinyin": "shàng",
+          "translation": "last"
+        },
+        {
+          "word": "个",
+          "pinyin": "gè",
+          "translation": "(measure word)"
+        },
+        {
+          "word": "月",
+          "pinyin": "yuè",
+          "translation": "month"
+        },
+        {
+          "word": "，",
+          "pinyin": "",
+          "translation": ","
+        },
+        {
+          "word": "爷爷",
+          "pinyin": "yéye",
+          "translation": "grandfather"
+        },
+        {
+          "word": "过世",
+          "pinyin": "guòshì",
+          "translation": "pass away"
+        },
+        {
+          "word": "了",
+          "pinyin": "le",
+          "translation": "(completed action)"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "我们",
+          "pinyin": "wǒmen",
+          "translation": "we"
+        },
+        {
+          "word": "都",
+          "pinyin": "dōu",
+          "translation": "all"
+        },
+        {
+          "word": "很",
+          "pinyin": "hěn",
+          "translation": "very"
+        },
+        {
+          "word": "难过",
+          "pinyin": "nánguò",
+          "translation": "sad"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "今天",
+          "pinyin": "jīntiān",
+          "translation": "today"
+        },
+        {
+          "word": "，",
+          "pinyin": "",
+          "translation": ","
+        },
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "translation": "I"
+        },
+        {
+          "word": "在",
+          "pinyin": "zài",
+          "translation": "at"
+        },
+        {
+          "word": "他",
+          "pinyin": "tā",
+          "translation": "his"
+        },
+        {
+          "word": "的",
+          "pinyin": "de",
+          "translation": "(possessive)"
+        },
+        {
+          "word": "房间",
+          "pinyin": "fángjiān",
+          "translation": "room"
+        },
+        {
+          "word": "里",
+          "pinyin": "lǐ",
+          "translation": "inside"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "translation": "I"
+        },
+        {
+          "word": "在",
+          "pinyin": "zài",
+          "translation": "at"
+        },
+        {
+          "word": "找",
+          "pinyin": "zhǎo",
+          "translation": "look for"
+        },
+        {
+          "word": "东西",
+          "pinyin": "dōngxi",
+          "translation": "things"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "桌子",
+          "pinyin": "zhuōzi",
+          "translation": "table"
+        },
+        {
+          "word": "上",
+          "pinyin": "shàng",
+          "translation": "on"
+        },
+        {
+          "word": "有",
+          "pinyin": "yǒu",
+          "translation": "have"
+        },
+        {
+          "word": "一",
+          "pinyin": "yī",
+          "translation": "one"
+        },
+        {
+          "word": "张",
+          "pinyin": "zhāng",
+          "translation": "(measure word for flat objects)"
+        },
+        {
+          "word": "老",
+          "pinyin": "lǎo",
+          "translation": "old"
+        },
+        {
+          "word": "地图",
+          "pinyin": "dìtú",
+          "translation": "map"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "很",
+          "pinyin": "hěn",
+          "translation": "very"
+        },
+        {
+          "word": "旧",
+          "pinyin": "jiù",
+          "translation": "old/worn"
+        },
+        {
+          "word": "，",
+          "pinyin": "",
+          "translation": ","
+        },
+        {
+          "word": "颜色",
+          "pinyin": "yánsè",
+          "translation": "color"
+        },
+        {
+          "word": "也",
+          "pinyin": "yě",
+          "translation": "also"
+        },
+        {
+          "word": "不",
+          "pinyin": "bù",
+          "translation": "not"
+        },
+        {
+          "word": "好看",
+          "pinyin": "hǎokàn",
+          "translation": "good-looking"
+        },
+        {
+          "word": "了",
+          "pinyin": "le",
+          "translation": "(change of state)"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "上面",
+          "pinyin": "shàngmiàn",
+          "translation": "on it"
+        },
+        {
+          "word": "写",
+          "pinyin": "xiě",
+          "translation": "write"
+        },
+        {
+          "word": "着",
+          "pinyin": "zhe",
+          "translation": "(continuous state)"
+        },
+        {
+          "word": "：",
+          "pinyin": "",
+          "translation": ":"
+        },
+        {
+          "word": "1950",
+          "pinyin": "yī jiǔ wǔ líng",
+          "translation": "1950"
+        },
+        {
+          "word": "年",
+          "pinyin": "nián",
+          "translation": "year"
+        },
+        {
+          "word": "，",
+          "pinyin": "",
+          "translation": ","
+        },
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "translation": "I"
+        },
+        {
+          "word": "从",
+          "pinyin": "cóng",
+          "translation": "from"
+        },
+        {
+          "word": "南方",
+          "pinyin": "nánfāng",
+          "translation": "south"
+        },
+        {
+          "word": "来",
+          "pinyin": "lái",
+          "translation": "come"
+        },
+        {
+          "word": "北方",
+          "pinyin": "běifāng",
+          "translation": "north"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "地图",
+          "pinyin": "dìtú",
+          "translation": "map"
+        },
+        {
+          "word": "上",
+          "pinyin": "shàng",
+          "translation": "on"
+        },
+        {
+          "word": "有",
+          "pinyin": "yǒu",
+          "translation": "have"
+        },
+        {
+          "word": "红色",
+          "pinyin": "hóngsè",
+          "translation": "red"
+        },
+        {
+          "word": "的",
+          "pinyin": "de",
+          "translation": "(particle)"
+        },
+        {
+          "word": "线",
+          "pinyin": "xiàn",
+          "translation": "line"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "线",
+          "pinyin": "xiàn",
+          "translation": "line"
+        },
+        {
+          "word": "经过",
+          "pinyin": "jīngguò",
+          "translation": "pass through"
+        },
+        {
+          "word": "很",
+          "pinyin": "hěn",
+          "translation": "very"
+        },
+        {
+          "word": "多",
+          "pinyin": "duō",
+          "translation": "many"
+        },
+        {
+          "word": "地方",
+          "pinyin": "dìfang",
+          "translation": "places"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "每",
+          "pinyin": "měi",
+          "translation": "each"
+        },
+        {
+          "word": "个",
+          "pinyin": "gè",
+          "translation": "(measure word)"
+        },
+        {
+          "word": "地方",
+          "pinyin": "dìfang",
+          "translation": "place"
+        },
+        {
+          "word": "都",
+          "pinyin": "dōu",
+          "translation": "all"
+        },
+        {
+          "word": "有",
+          "pinyin": "yǒu",
+          "translation": "have"
+        },
+        {
+          "word": "小",
+          "pinyin": "xiǎo",
+          "translation": "small"
+        },
+        {
+          "word": "字",
+          "pinyin": "zì",
+          "translation": "characters"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "广州",
+          "pinyin": "Guǎngzhōu",
+          "translation": "Guangzhou"
+        },
+        {
+          "word": "：",
+          "pinyin": "",
+          "translation": ":"
+        },
+        {
+          "word": "出生",
+          "pinyin": "chūshēng",
+          "translation": "born"
+        },
+        {
+          "word": "的",
+          "pinyin": "de",
+          "translation": "(particle)"
+        },
+        {
+          "word": "地方",
+          "pinyin": "dìfang",
+          "translation": "place"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "长沙",
+          "pinyin": "Chángshā",
+          "translation": "Changsha"
+        },
+        {
+          "word": "：",
+          "pinyin": "",
+          "translation": ":"
+        },
+        {
+          "word": "认识",
+          "pinyin": "rènshi",
+          "translation": "meet"
+        },
+        {
+          "word": "奶奶",
+          "pinyin": "nǎinai",
+          "translation": "grandmother"
+        },
+        {
+          "word": "的",
+          "pinyin": "de",
+          "translation": "(particle)"
+        },
+        {
+          "word": "地方",
+          "pinyin": "dìfang",
+          "translation": "place"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "武汉",
+          "pinyin": "Wǔhàn",
+          "translation": "Wuhan"
+        },
+        {
+          "word": "：",
+          "pinyin": "",
+          "translation": ":"
+        },
+        {
+          "word": "第一",
+          "pinyin": "dìyī",
+          "translation": "first"
+        },
+        {
+          "word": "次",
+          "pinyin": "cì",
+          "translation": "time"
+        },
+        {
+          "word": "工作",
+          "pinyin": "gōngzuò",
+          "translation": "work"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "北京",
+          "pinyin": "Běijīng",
+          "translation": "Beijing"
+        },
+        {
+          "word": "：",
+          "pinyin": "",
+          "translation": ":"
+        },
+        {
+          "word": "新",
+          "pinyin": "xīn",
+          "translation": "new"
+        },
+        {
+          "word": "家",
+          "pinyin": "jiā",
+          "translation": "home"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "translation": "I"
+        },
+        {
+          "word": "看",
+          "pinyin": "kàn",
+          "translation": "look"
+        },
+        {
+          "word": "着",
+          "pinyin": "zhe",
+          "translation": "(continuous action)"
+        },
+        {
+          "word": "地图",
+          "pinyin": "dìtú",
+          "translation": "map"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "好像",
+          "pinyin": "hǎoxiàng",
+          "translation": "seem like"
+        },
+        {
+          "word": "看见",
+          "pinyin": "kànjiàn",
+          "translation": "see"
+        },
+        {
+          "word": "年轻",
+          "pinyin": "niánqīng",
+          "translation": "young"
+        },
+        {
+          "word": "的",
+          "pinyin": "de",
+          "translation": "(particle)"
+        },
+        {
+          "word": "爷爷",
+          "pinyin": "yéye",
+          "translation": "grandfather"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "他",
+          "pinyin": "tā",
+          "translation": "he"
+        },
+        {
+          "word": "走",
+          "pinyin": "zǒu",
+          "translation": "walk"
+        },
+        {
+          "word": "了",
+          "pinyin": "le",
+          "translation": "(completed action)"
+        },
+        {
+          "word": "这么",
+          "pinyin": "zhème",
+          "translation": "so"
+        },
+        {
+          "word": "远",
+          "pinyin": "yuǎn",
+          "translation": "far"
+        },
+        {
+          "word": "的",
+          "pinyin": "de",
+          "translation": "(particle)"
+        },
+        {
+          "word": "路",
+          "pinyin": "lù",
+          "translation": "road"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "经过",
+          "pinyin": "jīngguò",
+          "translation": "pass through"
+        },
+        {
+          "word": "这么",
+          "pinyin": "zhème",
+          "translation": "so"
+        },
+        {
+          "word": "多",
+          "pinyin": "duō",
+          "translation": "many"
+        },
+        {
+          "word": "城市",
+          "pinyin": "chéngshì",
+          "translation": "cities"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "他",
+          "pinyin": "tā",
+          "translation": "he"
+        },
+        {
+          "word": "一定",
+          "pinyin": "yídìng",
+          "translation": "must"
+        },
+        {
+          "word": "有",
+          "pinyin": "yǒu",
+          "translation": "have"
+        },
+        {
+          "word": "很",
+          "pinyin": "hěn",
+          "translation": "very"
+        },
+        {
+          "word": "多",
+          "pinyin": "duō",
+          "translation": "many"
+        },
+        {
+          "word": "故事",
+          "pinyin": "gùshi",
+          "translation": "stories"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "爸爸",
+          "pinyin": "bàba",
+          "translation": "dad"
+        },
+        {
+          "word": "走",
+          "pinyin": "zǒu",
+          "translation": "walk"
+        },
+        {
+          "word": "进来",
+          "pinyin": "jìnlái",
+          "translation": "come in"
+        },
+        {
+          "word": "了",
+          "pinyin": "le",
+          "translation": "(completed action)"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "他",
+          "pinyin": "tā",
+          "translation": "he"
+        },
+        {
+          "word": "说",
+          "pinyin": "shuō",
+          "translation": "say"
+        },
+        {
+          "word": "：",
+          "pinyin": "",
+          "translation": ":"
+        },
+        {
+          "word": "你",
+          "pinyin": "nǐ",
+          "translation": "your"
+        },
+        {
+          "word": "爷爷",
+          "pinyin": "yéye",
+          "translation": "grandfather"
+        },
+        {
+          "word": "常常",
+          "pinyin": "chángcháng",
+          "translation": "often"
+        },
+        {
+          "word": "跟",
+          "pinyin": "gēn",
+          "translation": "with"
+        },
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "translation": "me"
+        },
+        {
+          "word": "说",
+          "pinyin": "shuō",
+          "translation": "say"
+        },
+        {
+          "word": "这些",
+          "pinyin": "zhèxiē",
+          "translation": "these"
+        },
+        {
+          "word": "故事",
+          "pinyin": "gùshi",
+          "translation": "stories"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "那",
+          "pinyin": "nà",
+          "translation": "that"
+        },
+        {
+          "word": "时候",
+          "pinyin": "shíhou",
+          "translation": "time"
+        },
+        {
+          "word": "的",
+          "pinyin": "de",
+          "translation": "(particle)"
+        },
+        {
+          "word": "生活",
+          "pinyin": "shēnghuó",
+          "translation": "life"
+        },
+        {
+          "word": "很",
+          "pinyin": "hěn",
+          "translation": "very"
+        },
+        {
+          "word": "不",
+          "pinyin": "bù",
+          "translation": "not"
+        },
+        {
+          "word": "容易",
+          "pinyin": "róngyì",
+          "translation": "easy"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "但是",
+          "pinyin": "dànshì",
+          "translation": "but"
+        },
+        {
+          "word": "他",
+          "pinyin": "tā",
+          "translation": "he"
+        },
+        {
+          "word": "很",
+          "pinyin": "hěn",
+          "translation": "very"
+        },
+        {
+          "word": "努力",
+          "pinyin": "nǔlì",
+          "translation": "work hard"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "translation": "I"
+        },
+        {
+          "word": "问",
+          "pinyin": "wèn",
+          "translation": "ask"
+        },
+        {
+          "word": "：",
+          "pinyin": "",
+          "translation": ":"
+        },
+        {
+          "word": "我们",
+          "pinyin": "wǒmen",
+          "translation": "we"
+        },
+        {
+          "word": "可以",
+          "pinyin": "kěyǐ",
+          "translation": "can"
+        },
+        {
+          "word": "一起",
+          "pinyin": "yìqǐ",
+          "translation": "together"
+        },
+        {
+          "word": "去",
+          "pinyin": "qù",
+          "translation": "go"
+        },
+        {
+          "word": "这些",
+          "pinyin": "zhèxiē",
+          "translation": "these"
+        },
+        {
+          "word": "地方",
+          "pinyin": "dìfang",
+          "translation": "places"
+        },
+        {
+          "word": "吗",
+          "pinyin": "ma",
+          "translation": "(question particle)"
+        },
+        {
+          "word": "？",
+          "pinyin": "",
+          "translation": "?"
+        },
+        {
+          "word": "爸爸",
+          "pinyin": "bàba",
+          "translation": "dad"
+        },
+        {
+          "word": "笑",
+          "pinyin": "xiào",
+          "translation": "smile"
+        },
+        {
+          "word": "了",
+          "pinyin": "le",
+          "translation": "(completed action)"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "好",
+          "pinyin": "hǎo",
+          "translation": "good/okay"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "我们",
+          "pinyin": "wǒmen",
+          "translation": "we"
+        },
+        {
+          "word": "下",
+          "pinyin": "xià",
+          "translation": "next"
+        },
+        {
+          "word": "个",
+          "pinyin": "gè",
+          "translation": "(measure word)"
+        },
+        {
+          "word": "月",
+          "pinyin": "yuè",
+          "translation": "month"
+        },
+        {
+          "word": "就",
+          "pinyin": "jiù",
+          "translation": "then"
+        },
+        {
+          "word": "去",
+          "pinyin": "qù",
+          "translation": "go"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        },
+        {
+          "word": "带",
+          "pinyin": "dài",
+          "translation": "bring"
+        },
+        {
+          "word": "着",
+          "pinyin": "zhe",
+          "translation": "(continuous state)"
+        },
+        {
+          "word": "这",
+          "pinyin": "zhè",
+          "translation": "this"
+        },
+        {
+          "word": "张",
+          "pinyin": "zhāng",
+          "translation": "(measure word)"
+        },
+        {
+          "word": "地图",
+          "pinyin": "dìtú",
+          "translation": "map"
+        },
+        {
+          "word": "。",
+          "pinyin": "",
+          "translation": "."
+        }
+      ]
+    }
+  ]
+}

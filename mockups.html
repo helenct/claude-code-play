@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chinese Graded Reader - Theme Mockups</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;600&family=Noto+Serif+SC:wght@400;600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Inter', sans-serif;
+    background: #f0f0f0;
+    padding: 2rem;
+    color: #333;
+  }
+  h1 { text-align: center; margin-bottom: 0.5rem; font-size: 1.6rem; }
+  .intro { text-align: center; color: #666; margin-bottom: 2rem; font-size: 0.95rem; }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+    gap: 2rem;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+
+  /* Each mockup card */
+  .mockup {
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+  }
+  .mockup-label {
+    padding: 0.6rem 1rem;
+    font-weight: 600;
+    font-size: 0.85rem;
+    background: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+  }
+  .mockup-label span { opacity: 0.6; font-weight: 400; }
+
+  /* Inner frame simulating the app */
+  .frame {
+    padding: 0;
+    min-height: 360px;
+    display: flex;
+    flex-direction: column;
+  }
+  .frame .m-header {
+    padding: 1rem 1.2rem;
+    text-align: center;
+  }
+  .frame .m-header h2 {
+    font-size: 1.2rem;
+    margin-bottom: 0.15rem;
+  }
+  .frame .m-header p {
+    font-size: 0.7rem;
+    opacity: 0.7;
+  }
+  .frame .m-body {
+    padding: 0.8rem 1.2rem 1.2rem;
+    flex: 1;
+  }
+  .frame .m-card {
+    padding: 0.8rem 1rem;
+    border-radius: 8px;
+    margin-bottom: 0.6rem;
+  }
+  .frame .m-badge {
+    display: inline-block;
+    padding: 0.1rem 0.4rem;
+    border-radius: 3px;
+    font-size: 0.6rem;
+    font-weight: 600;
+    margin-bottom: 0.3rem;
+  }
+  .frame .m-title {
+    font-size: 1rem;
+    margin-bottom: 0.15rem;
+  }
+  .frame .m-text {
+    font-size: 0.95rem;
+    line-height: 1.9;
+    margin-top: 0.6rem;
+  }
+  .frame .m-word {
+    cursor: default;
+    padding-bottom: 1px;
+  }
+  .frame .m-word-above {
+    cursor: default;
+    padding-bottom: 1px;
+  }
+
+  /* ===== THEME 1: Ink & Paper ===== */
+  .t1 .frame { background: #f7f3ec; }
+  .t1 .m-header { background: #2c2c2c; color: #f7f3ec; }
+  .t1 .m-header h2 { font-family: 'Noto Serif SC', serif; }
+  .t1 .m-header p { color: #b8b0a0; }
+  .t1 .m-body { color: #2c2c2c; }
+  .t1 .m-card { background: #fff; border: 1px solid #e0d8cc; }
+  .t1 .m-badge { background: #2c2c2c; color: #f7f3ec; }
+  .t1 .m-title { font-family: 'Noto Serif SC', serif; }
+  .t1 .m-text { font-family: 'Noto Serif SC', serif; color: #3a3a3a; }
+  .t1 .m-word:hover { color: #8b4513; }
+  .t1 .m-word-above { border-bottom: 2px dotted #c0713a; }
+
+  /* ===== THEME 2: Porcelain Blue ===== */
+  .t2 .frame { background: #f8f9fc; }
+  .t2 .m-header { background: #1a3a5c; color: #fff; }
+  .t2 .m-header h2 { font-family: 'Noto Serif SC', serif; }
+  .t2 .m-header p { color: #8baac8; }
+  .t2 .m-body { color: #1a3a5c; }
+  .t2 .m-card { background: #fff; border: 1px solid #c8d8e8; }
+  .t2 .m-badge { background: #2d5f8a; color: #fff; }
+  .t2 .m-title { font-family: 'Noto Serif SC', serif; color: #1a3a5c; }
+  .t2 .m-text { font-family: 'Noto Sans SC', sans-serif; color: #2a4a6a; }
+  .t2 .m-word:hover { color: #2d5f8a; }
+  .t2 .m-word-above { border-bottom: 2px dotted #d4883a; }
+
+  /* ===== THEME 3: Tea House ===== */
+  .t3 .frame { background: #f5efe6; }
+  .t3 .m-header { background: #5c3d2e; color: #f5efe6; }
+  .t3 .m-header h2 { font-family: 'Noto Serif SC', serif; }
+  .t3 .m-header p { color: #c4a882; }
+  .t3 .m-body { color: #3e2b1e; }
+  .t3 .m-card { background: #faf6f0; border: 1px solid #e0d0bc; }
+  .t3 .m-badge { background: #7a5a3e; color: #f5efe6; }
+  .t3 .m-title { font-family: 'Noto Serif SC', serif; color: #3e2b1e; }
+  .t3 .m-text { font-family: 'Noto Serif SC', serif; color: #4a3828; }
+  .t3 .m-word:hover { color: #7a5a3e; }
+  .t3 .m-word-above { border-bottom: 2px dotted #c47830; }
+
+  /* ===== THEME 4: Bamboo Study ===== */
+  .t4 .frame { background: #f2f5f0; }
+  .t4 .m-header { background: #3a4a38; color: #eef2ec; }
+  .t4 .m-header h2 { font-family: 'Noto Serif SC', serif; }
+  .t4 .m-header p { color: #a0b498; }
+  .t4 .m-body { color: #2a3a28; }
+  .t4 .m-card { background: #fafcf8; border: 1px solid #d0dcc8; }
+  .t4 .m-badge { background: #4a6a44; color: #fff; }
+  .t4 .m-title { font-family: 'Noto Serif SC', serif; color: #2a3a28; }
+  .t4 .m-text { font-family: 'Noto Sans SC', sans-serif; color: #3a4a38; }
+  .t4 .m-word:hover { color: #4a6a44; }
+  .t4 .m-word-above { border-bottom: 2px dotted #b8862e; }
+
+  /* ===== THEME 5: Night Reader ===== */
+  .t5 .frame { background: #1a1a2e; }
+  .t5 .m-header { background: #0f0f1a; color: #e8dcc8; }
+  .t5 .m-header h2 { font-family: 'Noto Serif SC', serif; color: #f0e6d2; }
+  .t5 .m-header p { color: #8a7e6a; }
+  .t5 .m-body { color: #d4c8b0; }
+  .t5 .m-card { background: #242440; border: 1px solid #3a3a5a; }
+  .t5 .m-badge { background: #c49a4a; color: #1a1a2e; }
+  .t5 .m-title { font-family: 'Noto Serif SC', serif; color: #e8dcc8; }
+  .t5 .m-text { font-family: 'Noto Sans SC', sans-serif; color: #c4b898; }
+  .t5 .m-word:hover { color: #e8c878; }
+  .t5 .m-word-above { border-bottom: 2px dotted #c49a4a; }
+
+  /* ===== THEME 6: Warm Paper ===== */
+  .t6 .frame { background: #f8f0e3; }
+  .t6 .m-header { background: #f8f0e3; color: #5a4a3a; border-bottom: 2px solid #e0d0bc; }
+  .t6 .m-header h2 { font-family: 'Source Serif 4', 'Noto Serif SC', serif; }
+  .t6 .m-header p { color: #9a8a78; }
+  .t6 .m-body { color: #3a3028; }
+  .t6 .m-card { background: #fff8ee; border: 1px solid #e8dcc8; }
+  .t6 .m-badge { background: #8a6a4a; color: #fff; }
+  .t6 .m-title { font-family: 'Noto Serif SC', serif; color: #4a3a2a; }
+  .t6 .m-text { font-family: 'Noto Serif SC', serif; color: #4a3a2a; }
+  .t6 .m-word:hover { color: #8a6a4a; }
+  .t6 .m-word-above { border-bottom: 2px dotted #c0783a; }
+
+  /* ===== THEME 7: Minimalist Mono ===== */
+  .t7 .frame { background: #fff; }
+  .t7 .m-header { background: #fff; color: #111; border-bottom: 1px solid #e0e0e0; }
+  .t7 .m-header h2 { font-family: 'Inter', 'Noto Sans SC', sans-serif; font-weight: 600; }
+  .t7 .m-header p { color: #999; }
+  .t7 .m-body { color: #111; }
+  .t7 .m-card { background: #fafafa; border: 1px solid #e8e8e8; }
+  .t7 .m-badge { background: #111; color: #fff; }
+  .t7 .m-title { font-family: 'Noto Sans SC', sans-serif; font-weight: 600; }
+  .t7 .m-text { font-family: 'Noto Sans SC', sans-serif; color: #222; }
+  .t7 .m-word:hover { color: #e53935; }
+  .t7 .m-word-above { border-bottom: 2px dotted #e53935; }
+
+  /* ===== THEME 8: Garden Stone ===== */
+  .t8 .frame { background: #eceae4; }
+  .t8 .m-header { background: #5a5a52; color: #eceae4; }
+  .t8 .m-header h2 { font-family: 'Noto Serif SC', serif; }
+  .t8 .m-header p { color: #b0aea4; }
+  .t8 .m-body { color: #3a3a34; }
+  .t8 .m-card { background: #f5f4f0; border: 1px solid #d8d6ce; }
+  .t8 .m-badge { background: #6a7a5a; color: #fff; }
+  .t8 .m-title { font-family: 'Noto Serif SC', serif; color: #3a3a34; }
+  .t8 .m-text { font-family: 'Noto Serif SC', serif; color: #4a4a44; }
+  .t8 .m-word:hover { color: #6a7a5a; }
+  .t8 .m-word-above { border-bottom: 2px dotted #b8862e; }
+
+  /* ===== THEME 9: Silk Red ===== */
+  .t9 .frame { background: #faf6f4; }
+  .t9 .m-header { background: #6b2c2c; color: #faf0ec; }
+  .t9 .m-header h2 { font-family: 'Noto Serif SC', serif; }
+  .t9 .m-header p { color: #c8a090; }
+  .t9 .m-body { color: #3a2020; }
+  .t9 .m-card { background: #fff; border: 1px solid #e8d4cc; }
+  .t9 .m-badge { background: #8b3a3a; color: #fff; }
+  .t9 .m-title { font-family: 'Noto Serif SC', serif; color: #4a2020; }
+  .t9 .m-text { font-family: 'Noto Serif SC', serif; color: #4a2828; }
+  .t9 .m-word:hover { color: #8b3a3a; }
+  .t9 .m-word-above { border-bottom: 2px dotted #c07830; }
+
+  /* ===== THEME 10: Soft Slate ===== */
+  .t10 .frame { background: #f4f5f7; }
+  .t10 .m-header { background: #f4f5f7; color: #2d3748; border-bottom: 2px solid #e2e4e8; }
+  .t10 .m-header h2 { font-family: 'Noto Sans SC', sans-serif; font-weight: 600; }
+  .t10 .m-header p { color: #8a92a0; }
+  .t10 .m-body { color: #2d3748; }
+  .t10 .m-card { background: #fff; border: 1px solid #e2e4e8; }
+  .t10 .m-badge { background: #4a6fa5; color: #fff; }
+  .t10 .m-title { font-family: 'Noto Sans SC', sans-serif; font-weight: 600; color: #2d3748; }
+  .t10 .m-text { font-family: 'Noto Sans SC', sans-serif; color: #3a4558; }
+  .t10 .m-word:hover { color: #4a6fa5; }
+  .t10 .m-word-above { border-bottom: 2px dotted #d4883a; }
+</style>
+</head>
+<body>
+
+<h1>Theme Mockups</h1>
+<p class="intro">Each card previews how the app would look. Hover over Chinese text to test feel.</p>
+
+<div class="grid">
+
+  <!-- 1 -->
+  <div class="mockup t1">
+    <div class="mockup-label">1. Ink & Paper <span>Calligraphy-inspired, minimal</span></div>
+    <div class="frame">
+      <div class="m-header">
+        <h2>Chinese Graded Reader</h2>
+        <p>Practice reading Chinese at your level</p>
+      </div>
+      <div class="m-body">
+        <div class="m-card">
+          <div class="m-badge">科幻</div>
+          <div class="m-title">诗人的茶</div>
+        </div>
+        <div class="m-card">
+          <div class="m-badge">喜剧</div>
+          <div class="m-title">读书的狗</div>
+        </div>
+        <div class="m-text">
+          <span class="m-word">我</span><span class="m-word">卖</span><span class="m-word">茶</span>。<span class="m-word">我</span><span class="m-word">的</span><span class="m-word">茶</span><span class="m-word">很</span><span class="m-word">好</span>。<span class="m-word">今天</span>，<span class="m-word">一</span><span class="m-word">个</span><span class="m-word-above">诗人</span><span class="m-word">来</span><span class="m-word">了</span>。
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 2 -->
+  <div class="mockup t2">
+    <div class="mockup-label">2. Porcelain Blue <span>Classic blue-and-white</span></div>
+    <div class="frame">
+      <div class="m-header">
+        <h2>Chinese Graded Reader</h2>
+        <p>Practice reading Chinese at your level</p>
+      </div>
+      <div class="m-body">
+        <div class="m-card">
+          <div class="m-badge">科幻</div>
+          <div class="m-title">诗人的茶</div>
+        </div>
+        <div class="m-card">
+          <div class="m-badge">喜剧</div>
+          <div class="m-title">读书的狗</div>
+        </div>
+        <div class="m-text">
+          <span class="m-word">我</span><span class="m-word">卖</span><span class="m-word">茶</span>。<span class="m-word">我</span><span class="m-word">的</span><span class="m-word">茶</span><span class="m-word">很</span><span class="m-word">好</span>。<span class="m-word">今天</span>，<span class="m-word">一</span><span class="m-word">个</span><span class="m-word-above">诗人</span><span class="m-word">来</span><span class="m-word">了</span>。
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 3 -->
+  <div class="mockup t3">
+    <div class="mockup-label">3. Tea House <span>Warm amber, earthy</span></div>
+    <div class="frame">
+      <div class="m-header">
+        <h2>Chinese Graded Reader</h2>
+        <p>Practice reading Chinese at your level</p>
+      </div>
+      <div class="m-body">
+        <div class="m-card">
+          <div class="m-badge">科幻</div>
+          <div class="m-title">诗人的茶</div>
+        </div>
+        <div class="m-card">
+          <div class="m-badge">喜剧</div>
+          <div class="m-title">读书的狗</div>
+        </div>
+        <div class="m-text">
+          <span class="m-word">我</span><span class="m-word">卖</span><span class="m-word">茶</span>。<span class="m-word">我</span><span class="m-word">的</span><span class="m-word">茶</span><span class="m-word">很</span><span class="m-word">好</span>。<span class="m-word">今天</span>，<span class="m-word">一</span><span class="m-word">个</span><span class="m-word-above">诗人</span><span class="m-word">来</span><span class="m-word">了</span>。
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4 -->
+  <div class="mockup t4">
+    <div class="mockup-label">4. Bamboo Study <span>Natural greens, scholar's room</span></div>
+    <div class="frame">
+      <div class="m-header">
+        <h2>Chinese Graded Reader</h2>
+        <p>Practice reading Chinese at your level</p>
+      </div>
+      <div class="m-body">
+        <div class="m-card">
+          <div class="m-badge">科幻</div>
+          <div class="m-title">诗人的茶</div>
+        </div>
+        <div class="m-card">
+          <div class="m-badge">喜剧</div>
+          <div class="m-title">读书的狗</div>
+        </div>
+        <div class="m-text">
+          <span class="m-word">我</span><span class="m-word">卖</span><span class="m-word">茶</span>。<span class="m-word">我</span><span class="m-word">的</span><span class="m-word">茶</span><span class="m-word">很</span><span class="m-word">好</span>。<span class="m-word">今天</span>，<span class="m-word">一</span><span class="m-word">个</span><span class="m-word-above">诗人</span><span class="m-word">来</span><span class="m-word">了</span>。
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 5 -->
+  <div class="mockup t5">
+    <div class="mockup-label">5. Night Reader <span>Dark mode, warm glow</span></div>
+    <div class="frame">
+      <div class="m-header">
+        <h2>Chinese Graded Reader</h2>
+        <p>Practice reading Chinese at your level</p>
+      </div>
+      <div class="m-body">
+        <div class="m-card">
+          <div class="m-badge">科幻</div>
+          <div class="m-title">诗人的茶</div>
+        </div>
+        <div class="m-card">
+          <div class="m-badge">喜剧</div>
+          <div class="m-title">读书的狗</div>
+        </div>
+        <div class="m-text">
+          <span class="m-word">我</span><span class="m-word">卖</span><span class="m-word">茶</span>。<span class="m-word">我</span><span class="m-word">的</span><span class="m-word">茶</span><span class="m-word">很</span><span class="m-word">好</span>。<span class="m-word">今天</span>，<span class="m-word">一</span><span class="m-word">个</span><span class="m-word-above">诗人</span><span class="m-word">来</span><span class="m-word">了</span>。
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 6 -->
+  <div class="mockup t6">
+    <div class="mockup-label">6. Warm Paper <span>Old book, sepia tones</span></div>
+    <div class="frame">
+      <div class="m-header">
+        <h2>Chinese Graded Reader</h2>
+        <p>Practice reading Chinese at your level</p>
+      </div>
+      <div class="m-body">
+        <div class="m-card">
+          <div class="m-badge">科幻</div>
+          <div class="m-title">诗人的茶</div>
+        </div>
+        <div class="m-card">
+          <div class="m-badge">喜剧</div>
+          <div class="m-title">读书的狗</div>
+        </div>
+        <div class="m-text">
+          <span class="m-word">我</span><span class="m-word">卖</span><span class="m-word">茶</span>。<span class="m-word">我</span><span class="m-word">的</span><span class="m-word">茶</span><span class="m-word">很</span><span class="m-word">好</span>。<span class="m-word">今天</span>，<span class="m-word">一</span><span class="m-word">个</span><span class="m-word-above">诗人</span><span class="m-word">来</span><span class="m-word">了</span>。
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 7 -->
+  <div class="mockup t7">
+    <div class="mockup-label">7. Minimalist Mono <span>Clean, Swiss-inspired</span></div>
+    <div class="frame">
+      <div class="m-header">
+        <h2>Chinese Graded Reader</h2>
+        <p>Practice reading Chinese at your level</p>
+      </div>
+      <div class="m-body">
+        <div class="m-card">
+          <div class="m-badge">科幻</div>
+          <div class="m-title">诗人的茶</div>
+        </div>
+        <div class="m-card">
+          <div class="m-badge">喜剧</div>
+          <div class="m-title">读书的狗</div>
+        </div>
+        <div class="m-text">
+          <span class="m-word">我</span><span class="m-word">卖</span><span class="m-word">茶</span>。<span class="m-word">我</span><span class="m-word">的</span><span class="m-word">茶</span><span class="m-word">很</span><span class="m-word">好</span>。<span class="m-word">今天</span>，<span class="m-word">一</span><span class="m-word">个</span><span class="m-word-above">诗人</span><span class="m-word">来</span><span class="m-word">了</span>。
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 8 -->
+  <div class="mockup t8">
+    <div class="mockup-label">8. Garden Stone <span>Quiet grays, moss accents</span></div>
+    <div class="frame">
+      <div class="m-header">
+        <h2>Chinese Graded Reader</h2>
+        <p>Practice reading Chinese at your level</p>
+      </div>
+      <div class="m-body">
+        <div class="m-card">
+          <div class="m-badge">科幻</div>
+          <div class="m-title">诗人的茶</div>
+        </div>
+        <div class="m-card">
+          <div class="m-badge">喜剧</div>
+          <div class="m-title">读书的狗</div>
+        </div>
+        <div class="m-text">
+          <span class="m-word">我</span><span class="m-word">卖</span><span class="m-word">茶</span>。<span class="m-word">我</span><span class="m-word">的</span><span class="m-word">茶</span><span class="m-word">很</span><span class="m-word">好</span>。<span class="m-word">今天</span>，<span class="m-word">一</span><span class="m-word">个</span><span class="m-word-above">诗人</span><span class="m-word">来</span><span class="m-word">了</span>。
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 9 -->
+  <div class="mockup t9">
+    <div class="mockup-label">9. Silk Red <span>Restrained crimson, elegant</span></div>
+    <div class="frame">
+      <div class="m-header">
+        <h2>Chinese Graded Reader</h2>
+        <p>Practice reading Chinese at your level</p>
+      </div>
+      <div class="m-body">
+        <div class="m-card">
+          <div class="m-badge">科幻</div>
+          <div class="m-title">诗人的茶</div>
+        </div>
+        <div class="m-card">
+          <div class="m-badge">喜剧</div>
+          <div class="m-title">读书的狗</div>
+        </div>
+        <div class="m-text">
+          <span class="m-word">我</span><span class="m-word">卖</span><span class="m-word">茶</span>。<span class="m-word">我</span><span class="m-word">的</span><span class="m-word">茶</span><span class="m-word">很</span><span class="m-word">好</span>。<span class="m-word">今天</span>，<span class="m-word">一</span><span class="m-word">个</span><span class="m-word-above">诗人</span><span class="m-word">来</span><span class="m-word">了</span>。
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 10 -->
+  <div class="mockup t10">
+    <div class="mockup-label">10. Soft Slate <span>Cool gray, modern clarity</span></div>
+    <div class="frame">
+      <div class="m-header">
+        <h2>Chinese Graded Reader</h2>
+        <p>Practice reading Chinese at your level</p>
+      </div>
+      <div class="m-body">
+        <div class="m-card">
+          <div class="m-badge">科幻</div>
+          <div class="m-title">诗人的茶</div>
+        </div>
+        <div class="m-card">
+          <div class="m-badge">喜剧</div>
+          <div class="m-title">读书的狗</div>
+        </div>
+        <div class="m-text">
+          <span class="m-word">我</span><span class="m-word">卖</span><span class="m-word">茶</span>。<span class="m-word">我</span><span class="m-word">的</span><span class="m-word">茶</span><span class="m-word">很</span><span class="m-word">好</span>。<span class="m-word">今天</span>，<span class="m-word">一</span><span class="m-word">个</span><span class="m-word-above">诗人</span><span class="m-word">来</span><span class="m-word">了</span>。
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+</body>
+</html>

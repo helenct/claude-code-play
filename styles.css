@@ -188,12 +188,33 @@ main {
 .word {
     position: relative;
     cursor: help;
-    border-bottom: 1px dotted #667eea;
+    border-bottom: 1px solid rgba(102, 126, 234, 0.3);
     transition: color 0.2s ease;
 }
 
 .word:hover {
     color: #667eea;
+}
+
+/* Above-level words: dotted underline in a distinct color */
+.word.above-level {
+    border-bottom: 2px dotted #e67e22;
+}
+
+.word.above-level:hover {
+    color: #e67e22;
+}
+
+/* Above-level hint in instruction text */
+.above-level-hint {
+    border-bottom: 2px dotted #e67e22;
+}
+
+/* Genre badge as hoverable word (override word styles when combined) */
+.genre-badge.word {
+    border-bottom: none;
+    cursor: help;
+    font-size: 0.85rem;
 }
 
 .word[data-pinyin]:hover::after {

@@ -28,6 +28,32 @@ async function loadData() {
     }
 }
 
+// Get HSK level number from level ID (e.g., "hsk2" -> 2)
+function getLevelNumber(levelId) {
+    return parseInt(levelId.replace('hsk', ''), 10);
+}
+
+// Render an array of word segments as hoverable spans
+// hskLevel: optional number (1-4) to flag above-level words
+function renderWords(segments, hskLevel) {
+    return segments.map(item => {
+        if (item.pinyin && item.translation) {
+            const aboveClass = hskLevel && isAboveLevel(item.text, hskLevel) ? ' above-level' : '';
+            return `<span class="word${aboveClass}" data-pinyin="${item.pinyin}" data-translation="${item.translation}">${item.text}</span>`;
+        }
+        return item.text;
+    }).join('');
+}
+
+// Render a genre badge with Chinese text and hover tooltip
+function renderGenreBadge(genre) {
+    const data = GENRE_DATA[genre];
+    if (data) {
+        return `<span class="genre-badge word" data-pinyin="${data.pinyin}" data-translation="${data.english}">${data.chinese}</span>`;
+    }
+    return `<span class="genre-badge">${genre}</span>`;
+}
+
 // Show level selection view
 function showLevelSelection() {
     currentLevel = null;
@@ -68,25 +94,16 @@ function navigateToLevel(levelId) {
     }
 }
 
-// Render an array of word segments as hoverable spans
-function renderWords(segments) {
-    return segments.map(item => {
-        if (item.pinyin && item.translation) {
-            return `<span class="word" data-pinyin="${item.pinyin}" data-translation="${item.translation}">${item.text}</span>`;
-        }
-        return item.text;
-    }).join('');
-}
-
 // Show story selection view for a level
 function showStorySelection(level) {
     currentStory = null;
     const appContainer = document.getElementById('app');
+    const hskLevel = getLevelNumber(level.id);
 
     const storyCards = level.stories.map(story => `
         <div class="story-card" onclick="navigateToStory('${story.id}')">
-            <span class="genre-badge">${story.genre}</span>
-            <h3>${renderWords(story.title_segments)}</h3>
+            ${renderGenreBadge(story.genre)}
+            <h3>${renderWords(story.title_segments, hskLevel)}</h3>
         </div>
     `).join('');
 
@@ -116,15 +133,16 @@ function navigateToStory(storyId) {
 // Show text reading view
 function showText(story) {
     const appContainer = document.getElementById('app');
+    const hskLevel = getLevelNumber(currentLevel.id);
 
-    const textContent = renderWords(story.content);
+    const textContent = renderWords(story.content, hskLevel);
 
     appContainer.innerHTML = `
         <div class="reading-view">
             <div class="reading-header">
-                <h2>${renderWords(story.title_segments)}</h2>
-                <span class="genre-badge">${story.genre}</span>
-                <p class="instruction">Hover over words to see pinyin and translation</p>
+                <h2>${renderWords(story.title_segments, hskLevel)}</h2>
+                ${renderGenreBadge(story.genre)}
+                <p class="instruction">Hover over words to see pinyin and translation. <span class="above-level-hint">Dotted underline</span> = above level.</p>
             </div>
             <div class="text-content">
                 ${textContent}

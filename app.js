@@ -6,7 +6,7 @@ let currentStory = null;
 // Initialize the application
 document.addEventListener('DOMContentLoaded', async () => {
     await loadData();
-    showLevelSelection();
+    initApp();
 });
 
 // Load data from JSON file
@@ -20,7 +20,7 @@ async function loadData() {
     } catch (error) {
         console.error('Error loading data:', error);
         document.getElementById('app').innerHTML = `
-            <div style="background: white; padding: 2rem; border-radius: 12px; text-align: center;">
+            <div style="padding: 2rem; text-align: center; grid-column: 1/-1;">
                 <h2 style="color: #e74c3c;">Error Loading Data</h2>
                 <p>Failed to load the texts. Please make sure the data file exists.</p>
             </div>
@@ -34,7 +34,6 @@ function getLevelNumber(levelId) {
 }
 
 // Render an array of word segments as hoverable spans
-// hskLevel: optional number (1-4) to flag above-level words
 function renderWords(segments, hskLevel) {
     return segments.map(item => {
         if (item.pinyin && item.translation) {
@@ -54,15 +53,12 @@ function renderGenreBadge(genre) {
     return `<span class="genre-badge">${genre}</span>`;
 }
 
-// Show level selection view
-function showLevelSelection() {
-    currentLevel = null;
-    currentStory = null;
-    const appContainer = document.getElementById('app');
+// ── New sidebar/pane navigation model ──
 
+function initApp() {
     if (!appData || !appData.levels) {
-        appContainer.innerHTML = `
-            <div style="background: white; padding: 2rem; border-radius: 12px; text-align: center;">
+        document.getElementById('app').innerHTML = `
+            <div style="padding: 2rem; text-align: center;">
                 <h2 style="color: #e74c3c;">Error</h2>
                 <p>Unable to load content. Please refresh the page.</p>
             </div>
@@ -70,84 +66,98 @@ function showLevelSelection() {
         return;
     }
 
-    const levelCards = appData.levels.map(level => `
-        <div class="level-card" onclick="navigateToLevel('${level.id}')">
-            <h2>${level.name}</h2>
-            <p class="description">${level.description}</p>
-            <p class="story-count">${level.stories.length} stories</p>
-        </div>
-    `).join('');
-
-    appContainer.innerHTML = `
-        <div class="level-selection">
-            ${levelCards}
+    const app = document.getElementById('app');
+    app.innerHTML = `
+        <nav class="sidebar">
+            <div class="sidebar-logo">
+                <h1>中文分级阅读</h1>
+                <div class="subtitle">Chinese Graded Reader</div>
+            </div>
+            <div class="level-nav" id="level-nav"></div>
+            <div class="story-list-section" id="story-list-section">
+                <div class="story-list-heading">Stories</div>
+                <div id="story-list"></div>
+            </div>
+        </nav>
+        <div class="main-pane" id="main-pane">
+            <div class="main-pane-empty">Select a story to begin reading</div>
         </div>
     `;
+
+    renderLevelNav();
+    // Auto-select first level
+    selectLevel(appData.levels[0].id);
 }
 
-// Navigate to a specific level's story list
-function navigateToLevel(levelId) {
+function renderLevelNav() {
+    const container = document.getElementById('level-nav');
+    container.innerHTML = appData.levels.map(level => {
+        const count = level.stories.length;
+        return `<button class="lv-item" data-level="${level.id}" onclick="selectLevel('${level.id}')">
+            ${level.name}<span class="story-count">(${count})</span>
+        </button>`;
+    }).join('');
+}
+
+function selectLevel(levelId) {
     const level = appData.levels.find(l => l.id === levelId);
-    if (level) {
-        currentLevel = level;
-        showStorySelection(level);
+    if (!level) return;
+    currentLevel = level;
+
+    // Update active level highlight
+    document.querySelectorAll('.lv-item').forEach(el => {
+        el.classList.toggle('active', el.dataset.level === levelId);
+    });
+
+    renderStoryList(level);
+
+    // Auto-select first story
+    if (level.stories.length > 0) {
+        selectStory(level.stories[0].id);
     }
 }
 
-// Show story selection view for a level
-function showStorySelection(level) {
-    currentStory = null;
-    const appContainer = document.getElementById('app');
+function renderStoryList(level) {
+    const container = document.getElementById('story-list');
     const hskLevel = getLevelNumber(level.id);
 
-    const storyCards = level.stories.map(story => `
-        <div class="story-card" onclick="navigateToStory('${story.id}')">
-            ${renderGenreBadge(story.genre)}
-            <h3>${renderWords(story.title_segments, hskLevel)}</h3>
-        </div>
-    `).join('');
-
-    appContainer.innerHTML = `
-        <div class="story-selection">
-            <div class="section-header">
-                <h2>${level.name}</h2>
-                <p class="description">${level.description}</p>
-            </div>
-            <div class="story-grid">
-                ${storyCards}
-            </div>
-            <button class="back-button" onclick="showLevelSelection()">Back to Levels</button>
-        </div>
-    `;
+    container.innerHTML = level.stories.map(story => {
+        const genreSegments = GENRE_DATA[story.genre];
+        const genreText = genreSegments ? genreSegments.map(s => s.text).join('') : story.genre;
+        return `<button class="story-item" data-story="${story.id}" onclick="selectStory('${story.id}')">
+            ${story.title}<span class="story-genre">${genreText}</span>
+        </button>`;
+    }).join('');
 }
 
-// Navigate to a specific story
-function navigateToStory(storyId) {
+function selectStory(storyId) {
     const story = currentLevel.stories.find(s => s.id === storyId);
-    if (story) {
-        currentStory = story;
-        showText(story);
-    }
+    if (!story) return;
+    currentStory = story;
+
+    // Update active story highlight
+    document.querySelectorAll('.story-item').forEach(el => {
+        el.classList.toggle('active', el.dataset.story === storyId);
+    });
+
+    renderReading(story);
 }
 
-// Show text reading view
-function showText(story) {
-    const appContainer = document.getElementById('app');
+function renderReading(story) {
+    const pane = document.getElementById('main-pane');
     const hskLevel = getLevelNumber(currentLevel.id);
-
     const textContent = renderWords(story.content, hskLevel);
 
-    appContainer.innerHTML = `
-        <div class="reading-view">
-            <div class="reading-header">
-                <h2>${renderWords(story.title_segments, hskLevel)}</h2>
-                ${renderGenreBadge(story.genre)}
-                <p class="instruction">Hover over words to see pinyin and translation. <span class="above-level-hint">Dotted underline</span> = above level.</p>
-            </div>
-            <div class="text-content">
-                ${textContent}
-            </div>
-            <button class="back-button" onclick="showStorySelection(currentLevel)">Back to Stories</button>
+    pane.innerHTML = `
+        <h2 class="reading-title">${renderWords(story.title_segments, hskLevel)}</h2>
+        <div class="reading-meta">
+            ${renderGenreBadge(story.genre)}
+            <span>${currentLevel.name}</span>
+        </div>
+        <hr class="reading-divider">
+        <p class="reading-instruction">Hover over words to see pinyin and translation. <span class="above-level-hint">Dotted underline</span> = above your level.</p>
+        <div class="text-content">
+            ${textContent}
         </div>
     `;
 }

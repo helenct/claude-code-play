@@ -76,8 +76,7 @@ function showStorySelection(level) {
     const storyCards = level.stories.map(story => `
         <div class="story-card" onclick="navigateToStory('${story.id}')">
             <span class="genre-badge">${story.genre}</span>
-            <h3>${story.title}</h3>
-            ${story.description ? `<p class="description">${story.description}</p>` : ''}
+            <h3><span class="word" data-pinyin="${story.title_pinyin}" data-translation="${story.title_english}">${story.title}</span></h3>
         </div>
     `).join('');
 

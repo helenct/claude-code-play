@@ -611,7 +611,9 @@
               "pinyin": null,
               "translation": null
             }
-          ]
+          ],
+          "title_pinyin": "huì shuōhuà de shū",
+          "title_english": "The Talking Book"
         },
         {
           "id": "hsk1_historical_poet_tea",
@@ -1699,7 +1701,9 @@
               "pinyin": null,
               "translation": null
             }
-          ]
+          ],
+          "title_pinyin": "shīrén de chá",
+          "title_english": "The Poet's Tea"
         },
         {
           "id": "hsk1_magical_shadow_friend",
@@ -2737,7 +2741,9 @@
               "pinyin": null,
               "translation": null
             }
-          ]
+          ],
+          "title_pinyin": "wǒ de yǐngzi péngyou",
+          "title_english": "My Shadow Friend"
         },
         {
           "id": "hsk1_comedy_reading_dog",
@@ -3780,7 +3786,9 @@
               "pinyin": null,
               "translation": null
             }
-          ]
+          ],
+          "title_pinyin": "dúshū de gǒu",
+          "title_english": "The Reading Dog"
         },
         {
           "id": "hsk1_slice_of_life_new_neighbors",
@@ -4763,7 +4771,9 @@
               "pinyin": null,
               "translation": null
             }
-          ]
+          ],
+          "title_pinyin": "xīn línjū",
+          "title_english": "New Neighbors"
         }
       ]
     },
@@ -5778,7 +5788,9 @@
               "pinyin": null,
               "translation": null
             }
-          ]
+          ],
+          "title_pinyin": "cōngmíng de nàozhōng",
+          "title_english": "The Smart Alarm"
         },
         {
           "id": "hsk2_historical_grandfather_map",
@@ -6751,7 +6763,9 @@
               "pinyin": null,
               "translation": null
             }
-          ]
+          ],
+          "title_pinyin": "yéye de dìtú",
+          "title_english": "Grandfather's Map"
         },
         {
           "id": "hsk2_magical_magic_kitchen",
@@ -7839,7 +7853,9 @@
               "pinyin": null,
               "translation": null
             }
-          ]
+          ],
+          "title_pinyin": "mófǎ chúfáng",
+          "title_english": "The Magic Kitchen"
         },
         {
           "id": "hsk2_comedy_wrong_class",
@@ -9097,7 +9113,9 @@
               "pinyin": null,
               "translation": null
             }
-          ]
+          ],
+          "title_pinyin": "shàng cuò le kè",
+          "title_english": "Wrong Class"
         },
         {
           "id": "hsk2_mystery_lunch_thief",
@@ -10345,7 +10363,9 @@
               "pinyin": null,
               "translation": null
             }
-          ]
+          ],
+          "title_pinyin": "wǔfàn xiǎotōu",
+          "title_english": "Lunch Thief"
         }
       ]
     },
@@ -11330,7 +11350,9 @@
               "pinyin": null,
               "translation": null
             }
-          ]
+          ],
+          "title_pinyin": "biāoqiān yǎnjìng",
+          "title_english": "The Label Glasses"
         },
         {
           "id": "hsk3-historical",
@@ -12358,7 +12380,9 @@
               "pinyin": null,
               "translation": null
             }
-          ]
+          ],
+          "title_pinyin": "jìn chéng - 1985",
+          "title_english": "Moving to the City - 1985"
         },
         {
           "id": "hsk3-magical",
@@ -13661,7 +13685,9 @@
               "pinyin": null,
               "translation": null
             }
-          ]
+          ],
+          "title_pinyin": "chéngshí de zìxíngchē",
+          "title_english": "The Honest Bicycle"
         },
         {
           "id": "hsk3-comedy",
@@ -15049,7 +15075,9 @@
               "pinyin": null,
               "translation": null
             }
-          ]
+          ],
+          "title_pinyin": "cuòwù de shǒujī",
+          "title_english": "Wrong Phone"
         },
         {
           "id": "hsk3-drama",
@@ -16487,7 +16515,9 @@
               "pinyin": null,
               "translation": null
             }
-          ]
+          ],
+          "title_pinyin": "yángtái huāyuán",
+          "title_english": "The Balcony Garden"
         }
       ]
     },
@@ -17632,7 +17662,9 @@
               "pinyin": null,
               "translation": null
             }
-          ]
+          ],
+          "title_pinyin": "míngtiān de chá",
+          "title_english": "Tea from Tomorrow"
         },
         {
           "id": "hsk4-historical",
@@ -18780,7 +18812,9 @@
               "pinyin": null,
               "translation": null
             }
-          ]
+          ],
+          "title_pinyin": "shūfǎjiā de xuǎnzé",
+          "title_english": "The Calligrapher's Choice"
         },
         {
           "id": "hsk4-magical",
@@ -20103,7 +20137,9 @@
               "pinyin": null,
               "translation": null
             }
-          ]
+          ],
+          "title_pinyin": "jìyì cháguǎn",
+          "title_english": "The Memory Teahouse"
         },
         {
           "id": "hsk4-comedy",
@@ -21301,7 +21337,9 @@
               "pinyin": null,
               "translation": null
             }
-          ]
+          ],
+          "title_pinyin": "nǎinai wán wǎngluò",
+          "title_english": "Grandma Goes Digital"
         },
         {
           "id": "hsk4-philosophical",
@@ -22644,7 +22682,9 @@
               "pinyin": null,
               "translation": null
             }
-          ]
+          ],
+          "title_pinyin": "gōngyuán guāncházhě",
+          "title_english": "The Park Observer"
         }
       ]
     }

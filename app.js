@@ -45,11 +45,11 @@ function renderWords(segments, hskLevel) {
     }).join('');
 }
 
-// Render a genre badge with Chinese text and hover tooltip
+// Render a genre badge with word-segmented Chinese text
 function renderGenreBadge(genre) {
-    const data = GENRE_DATA[genre];
-    if (data) {
-        return `<span class="genre-badge word" data-pinyin="${data.pinyin}" data-translation="${data.english}">${data.chinese}</span>`;
+    const segments = GENRE_DATA[genre];
+    if (segments) {
+        return `<span class="genre-badge">${renderWords(segments)}</span>`;
     }
     return `<span class="genre-badge">${genre}</span>`;
 }

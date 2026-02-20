@@ -188,7 +188,6 @@ main {
 .word {
     position: relative;
     cursor: help;
-    border-bottom: 1px solid rgba(102, 126, 234, 0.3);
     transition: color 0.2s ease;
 }
 
@@ -210,11 +209,13 @@ main {
     border-bottom: 2px dotted #e67e22;
 }
 
-/* Genre badge as hoverable word (override word styles when combined) */
-.genre-badge.word {
-    border-bottom: none;
-    cursor: help;
-    font-size: 0.85rem;
+/* Words inside genre badges inherit badge text color */
+.genre-badge .word {
+    color: inherit;
+}
+
+.genre-badge .word:hover {
+    color: rgba(255, 255, 255, 0.8);
 }
 
 .word[data-pinyin]:hover::after {

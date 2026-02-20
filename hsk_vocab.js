@@ -137,15 +137,15 @@ function isAboveLevel(word, hskLevel) {
     return !HSK_CUMULATIVE[hskLevel].has(word);
 }
 
-// Genre names in Chinese with pinyin and English
+// Genre names as word segments (same format as title_segments)
 const GENRE_DATA = {
-    "Sci-Fi":              { chinese: "科幻", pinyin: "kēhuàn", english: "Sci-Fi" },
-    "Sci-fi":              { chinese: "科幻", pinyin: "kēhuàn", english: "Sci-Fi" },
-    "Historical Fiction":  { chinese: "历史小说", pinyin: "lìshǐ xiǎoshuō", english: "Historical Fiction" },
-    "Magical Realism":     { chinese: "魔幻现实", pinyin: "móhuàn xiànshí", english: "Magical Realism" },
-    "Comedy":              { chinese: "喜剧", pinyin: "xǐjù", english: "Comedy" },
-    "Slice of Life":       { chinese: "生活", pinyin: "shēnghuó", english: "Slice of Life" },
-    "Mystery":             { chinese: "推理", pinyin: "tuīlǐ", english: "Mystery" },
-    "Drama":               { chinese: "戏剧", pinyin: "xìjù", english: "Drama" },
-    "Philosophical":       { chinese: "哲理", pinyin: "zhélǐ", english: "Philosophical" }
+    "Sci-Fi":             [{ text: "科幻", pinyin: "kēhuàn", translation: "sci-fi" }],
+    "Sci-fi":             [{ text: "科幻", pinyin: "kēhuàn", translation: "sci-fi" }],
+    "Historical Fiction": [{ text: "历史", pinyin: "lìshǐ", translation: "history" }, { text: "小说", pinyin: "xiǎoshuō", translation: "fiction" }],
+    "Magical Realism":    [{ text: "魔幻", pinyin: "móhuàn", translation: "magical" }, { text: "现实", pinyin: "xiànshí", translation: "realism" }],
+    "Comedy":             [{ text: "喜剧", pinyin: "xǐjù", translation: "comedy" }],
+    "Slice of Life":      [{ text: "生活", pinyin: "shēnghuó", translation: "slice of life" }],
+    "Mystery":            [{ text: "推理", pinyin: "tuīlǐ", translation: "mystery" }],
+    "Drama":              [{ text: "戏剧", pinyin: "xìjù", translation: "drama" }],
+    "Philosophical":      [{ text: "哲理", pinyin: "zhélǐ", translation: "philosophical" }]
 };

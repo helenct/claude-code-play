@@ -3,8 +3,15 @@
 
 ## Current State
 
-All 20 stories are integrated into the app with a three-screen navigation flow:
-Level Selection -> Story Selection -> Reading View
+All 20 stories are integrated into the app. The UI uses the **Jade Split** theme — a persistent two-pane sidebar layout with a dark teal sidebar and light mint reading pane.
+
+**Live site:** https://helenct.github.io/claude-code-play/
+
+### Navigation Model
+- Dark teal sidebar: logo, HSK level nav (vertical stack), scrollable story list
+- Light mint main pane: story title, genre badge, instruction text, word-segmented content
+- Selecting a level populates the story list and auto-selects the first story
+- Selecting a story renders it in the reading pane
 
 ### Known Issue
 - 会说话的书 (HSK 1, Sci-Fi) is incomplete (~120 word entries vs ~200+ for other stories). The full version was never finished during story creation.
@@ -44,15 +51,16 @@ All story data lives in `data/texts.json`.
 ## File Structure
 ```
 claude-code-play/
-├── index.html
-├── app.js
-├── styles.css
+├── index.html              (Google Fonts + app shell)
+├── app.js                  (sidebar/pane navigation logic)
+├── styles.css              (Jade Split theme)
+├── hsk_vocab.js            (HSK 1-4 vocab sets, above-level detection)
 ├── data/
 │   └── texts.json          (all 20 stories, canonical data source)
 ├── PROJECT_STATUS.md
 ├── README.md
-├── IMPLEMENTATION_GUIDE.md  (story creation reference)
-├── STORIES_SUMMARY.md       (story outlines)
+├── IMPLEMENTATION_GUIDE.md (story creation reference)
+├── STORIES_SUMMARY.md      (story outlines)
 └── TEST_INSTRUCTIONS.md
 ```
 
@@ -64,4 +72,3 @@ Punctuation: `{"text": "。", "pinyin": null, "translation": null}`
 - Complete the 会说话的书 story
 - Add touch support for mobile (tap instead of hover for tooltips)
 - Add progress tracking / bookmarking
-- Consider deploying to GitHub Pages

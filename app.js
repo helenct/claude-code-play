@@ -53,7 +53,7 @@ function renderGenreBadge(genre) {
     return `<span class="genre-badge">${genre}</span>`;
 }
 
-// ── New sidebar/pane navigation model ──
+// ── Sidebar/pane navigation ──
 
 function initApp() {
     if (!appData || !appData.levels) {
@@ -119,8 +119,6 @@ function selectLevel(levelId) {
 
 function renderStoryList(level) {
     const container = document.getElementById('story-list');
-    const hskLevel = getLevelNumber(level.id);
-
     container.innerHTML = level.stories.map(story => {
         const genreSegments = GENRE_DATA[story.genre];
         const genreText = genreSegments ? genreSegments.map(s => s.text).join('') : story.genre;

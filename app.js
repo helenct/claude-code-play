@@ -1,6 +1,7 @@
 // Application state
 let appData = null;
 let currentLevel = null;
+let currentStory = null;
 
 // Initialize the application
 document.addEventListener('DOMContentLoaded', async () => {
@@ -30,9 +31,9 @@ async function loadData() {
 // Show level selection view
 function showLevelSelection() {
     currentLevel = null;
+    currentStory = null;
     const appContainer = document.getElementById('app');
 
-    // Check if data is loaded
     if (!appData || !appData.levels) {
         appContainer.innerHTML = `
             <div style="background: white; padding: 2rem; border-radius: 12px; text-align: center;">
@@ -46,8 +47,8 @@ function showLevelSelection() {
     const levelCards = appData.levels.map(level => `
         <div class="level-card" onclick="navigateToLevel('${level.id}')">
             <h2>${level.name}</h2>
-            <div class="text-title">${level.title}</div>
             <p class="description">${level.description}</p>
+            <p class="story-count">${level.stories.length} stories</p>
         </div>
     `).join('');
 
@@ -58,31 +59,59 @@ function showLevelSelection() {
     `;
 }
 
-// Navigate to a specific level
+// Navigate to a specific level's story list
 function navigateToLevel(levelId) {
     const level = appData.levels.find(l => l.id === levelId);
     if (level) {
         currentLevel = level;
-        showText(level);
+        showStorySelection(level);
     }
 }
 
-// Navigate back to level selection
-function navigateBack() {
-    showLevelSelection();
+// Show story selection view for a level
+function showStorySelection(level) {
+    currentStory = null;
+    const appContainer = document.getElementById('app');
+
+    const storyCards = level.stories.map(story => `
+        <div class="story-card" onclick="navigateToStory('${story.id}')">
+            <span class="genre-badge">${story.genre}</span>
+            <h3>${story.title}</h3>
+            ${story.description ? `<p class="description">${story.description}</p>` : ''}
+        </div>
+    `).join('');
+
+    appContainer.innerHTML = `
+        <div class="story-selection">
+            <div class="section-header">
+                <h2>${level.name}</h2>
+                <p class="description">${level.description}</p>
+            </div>
+            <div class="story-grid">
+                ${storyCards}
+            </div>
+            <button class="back-button" onclick="showLevelSelection()">Back to Levels</button>
+        </div>
+    `;
+}
+
+// Navigate to a specific story
+function navigateToStory(storyId) {
+    const story = currentLevel.stories.find(s => s.id === storyId);
+    if (story) {
+        currentStory = story;
+        showText(story);
+    }
 }
 
 // Show text reading view
-function showText(level) {
+function showText(story) {
     const appContainer = document.getElementById('app');
 
-    // Generate text with hoverable words
-    const textContent = level.content.map(item => {
+    const textContent = story.content.map(item => {
         if (item.pinyin && item.translation) {
-            // Hoverable word
             return `<span class="word" data-pinyin="${item.pinyin}" data-translation="${item.translation}">${item.text}</span>`;
         } else {
-            // Punctuation or non-hoverable text
             return item.text;
         }
     }).join('');
@@ -90,13 +119,14 @@ function showText(level) {
     appContainer.innerHTML = `
         <div class="reading-view">
             <div class="reading-header">
-                <h2>${level.title}</h2>
+                <h2>${story.title}</h2>
+                <span class="genre-badge">${story.genre}</span>
                 <p class="instruction">Hover over words to see pinyin and translation</p>
             </div>
             <div class="text-content">
                 ${textContent}
             </div>
-            <button class="back-button" onclick="navigateBack()">Back to Levels</button>
+            <button class="back-button" onclick="showStorySelection(currentLevel)">Back to Stories</button>
         </div>
     `;
 }

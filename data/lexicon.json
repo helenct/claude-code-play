@@ -1,0 +1,9438 @@
+{
+  "的": {
+    "pinyin": "de",
+    "freq_rank": 1,
+    "pos": "u",
+    "level": 1,
+    "meanings": [
+      "'s",
+      "(particle)",
+      "(possessive)",
+      "of"
+    ]
+  },
+  "我": {
+    "pinyin": "wǒ",
+    "freq_rank": 2,
+    "pos": "r",
+    "level": 1,
+    "meanings": [
+      "I",
+      "I/me",
+      "me",
+      "my"
+    ]
+  },
+  "你": {
+    "pinyin": "nǐ",
+    "freq_rank": 3,
+    "pos": "r",
+    "level": 1,
+    "meanings": [
+      "you",
+      "your",
+      "you (informal, as opposed to polite 您[nin2])"
+    ]
+  },
+  "是": {
+    "pinyin": "shì",
+    "freq_rank": 4,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "am",
+      "are",
+      "be",
+      "is",
+      "of",
+      "to be",
+      "yes"
+    ]
+  },
+  "了": {
+    "pinyin": "le",
+    "freq_rank": 5,
+    "pos": "y",
+    "level": 1,
+    "meanings": [
+      "(change of state)",
+      "(completed action)",
+      "(particle)",
+      "(past marker)",
+      "(past tense)"
+    ]
+  },
+  "不": {
+    "pinyin": "bù",
+    "freq_rank": 6,
+    "pos": "d",
+    "level": 1,
+    "meanings": [
+      "not",
+      "no"
+    ]
+  },
+  "在": {
+    "pinyin": "zài",
+    "freq_rank": 7,
+    "pos": "p",
+    "level": 1,
+    "meanings": [
+      "(progressive marker)",
+      "at",
+      "in",
+      "on",
+      "(located) at",
+      "(to be) in",
+      "to exist",
+      "in the middle of doing sth"
+    ]
+  },
+  "他": {
+    "pinyin": "tā",
+    "freq_rank": 8,
+    "pos": "r",
+    "level": 1,
+    "meanings": [
+      "he",
+      "him",
+      "his"
+    ]
+  },
+  "我们": {
+    "pinyin": "wǒmen",
+    "freq_rank": 9,
+    "pos": "r",
+    "level": 1,
+    "meanings": [
+      "our",
+      "us",
+      "we",
+      "ourselves"
+    ]
+  },
+  "好": {
+    "pinyin": "hǎo",
+    "freq_rank": 10,
+    "pos": "a",
+    "level": 1,
+    "meanings": [
+      "good",
+      "good/hello",
+      "good/okay",
+      "have to",
+      "hello",
+      "well",
+      "proper",
+      "good to"
+    ]
+  },
+  "有": {
+    "pinyin": "yǒu",
+    "freq_rank": 11,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "has",
+      "have",
+      "there is",
+      "there was",
+      "to have",
+      "there are",
+      "to exist",
+      "to be"
+    ]
+  },
+  "这": {
+    "pinyin": "zhè",
+    "freq_rank": 12,
+    "pos": "r",
+    "level": 1,
+    "meanings": [
+      "this",
+      "these"
+    ]
+  },
+  "就": {
+    "pinyin": "jiù",
+    "freq_rank": 13,
+    "pos": "d",
+    "level": 1,
+    "meanings": [
+      "already",
+      "just",
+      "then",
+      "at once",
+      "right away",
+      "only",
+      "just (emphasis)",
+      "as early as"
+    ]
+  },
+  "会": {
+    "pinyin": "huì",
+    "freq_rank": 14,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "(result complement)",
+      "can",
+      "can/will",
+      "will",
+      "would",
+      "be possible",
+      "be able to",
+      "to assemble"
+    ]
+  },
+  "吗": {
+    "pinyin": "ma",
+    "freq_rank": 15,
+    "pos": "y",
+    "level": 1,
+    "meanings": [
+      "(question particle)",
+      "morphine"
+    ]
+  },
+  "要": {
+    "pinyin": "yào",
+    "freq_rank": 16,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "must",
+      "should",
+      "want",
+      "demand",
+      "ask",
+      "request",
+      "coerce"
+    ]
+  },
+  "什么": {
+    "pinyin": "shénme",
+    "freq_rank": 17,
+    "pos": "r",
+    "level": 1,
+    "meanings": [
+      "what",
+      "what?",
+      "who?",
+      "something",
+      "anything"
+    ]
+  },
+  "说": {
+    "pinyin": "shuō",
+    "freq_rank": 18,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "said",
+      "say",
+      "speak",
+      "tell",
+      "telling",
+      "to say",
+      "told",
+      "to canvass"
+    ]
+  },
+  "她": {
+    "pinyin": "tā",
+    "freq_rank": 19,
+    "pos": "r",
+    "level": 1,
+    "meanings": [
+      "her",
+      "she"
+    ]
+  },
+  "想": {
+    "pinyin": "xiǎng",
+    "freq_rank": 20,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "think",
+      "want",
+      "to think",
+      "to believe",
+      "to suppose",
+      "to wish",
+      "to want"
+    ]
+  },
+  "一": {
+    "pinyin": "yī",
+    "freq_rank": 21,
+    "pos": "m",
+    "level": 1,
+    "meanings": [
+      "one",
+      "1",
+      "single",
+      "a (article)",
+      "as soon as"
+    ]
+  },
+  "很": {
+    "pinyin": "hěn",
+    "freq_rank": 22,
+    "pos": "d",
+    "level": 1,
+    "meanings": [
+      "very",
+      "quite",
+      "awfully"
+    ]
+  },
+  "知道": {
+    "pinyin": "zhīdao",
+    "freq_rank": 23,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "know",
+      "to know",
+      "be aware of"
+    ]
+  },
+  "人": {
+    "pinyin": "rén",
+    "freq_rank": 24,
+    "pos": "n",
+    "level": 1,
+    "meanings": [
+      "people",
+      "person",
+      "man"
+    ]
+  },
+  "吧": {
+    "pinyin": "ba",
+    "freq_rank": 25,
+    "pos": "y",
+    "level": 1,
+    "meanings": [
+      "(suggestion particle)",
+      "dumb"
+    ]
+  },
+  "那": {
+    "pinyin": "nà",
+    "freq_rank": 26,
+    "pos": "r",
+    "level": 1,
+    "meanings": [
+      "that",
+      "how",
+      "which"
+    ]
+  },
+  "来": {
+    "pinyin": "lái",
+    "freq_rank": 27,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "(complement)",
+      "(directional complement)",
+      "came",
+      "come",
+      "in",
+      "to come",
+      "to arrive",
+      "to come round"
+    ]
+  },
+  "都": {
+    "pinyin": "dōu",
+    "freq_rank": 28,
+    "pos": "d",
+    "level": 1,
+    "meanings": [
+      "all",
+      "both",
+      "even",
+      "both (if two things are involved)",
+      "entirely (due to) each",
+      "already"
+    ]
+  },
+  "个": {
+    "pinyin": "gè",
+    "freq_rank": 29,
+    "pos": "q",
+    "level": 1,
+    "meanings": [
+      "(measure word)",
+      "individual",
+      "this",
+      "that",
+      "size",
+      "classifier for people or objects in general"
+    ]
+  },
+  "能": {
+    "pinyin": "néng",
+    "freq_rank": 30,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "can",
+      "may",
+      "capable",
+      "energy",
+      "able"
+    ]
+  },
+  "去": {
+    "pinyin": "qù",
+    "freq_rank": 31,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "go",
+      "to go",
+      "to leave",
+      "to remove",
+      "fourth tone of putonghua"
+    ]
+  },
+  "没": {
+    "pinyin": "méi",
+    "freq_rank": 32,
+    "pos": "d",
+    "level": 1,
+    "meanings": [
+      "not",
+      "have not"
+    ]
+  },
+  "和": {
+    "pinyin": "hé",
+    "freq_rank": 33,
+    "pos": "cc",
+    "level": 1,
+    "meanings": [
+      "and",
+      "and/with",
+      "with",
+      "together with",
+      "sum",
+      "union"
+    ]
+  },
+  "他们": {
+    "pinyin": "tāmen",
+    "freq_rank": 34,
+    "pos": "r",
+    "level": 1,
+    "meanings": [
+      "them",
+      "they"
+    ]
+  },
+  "到": {
+    "pinyin": "dào",
+    "freq_rank": 35,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "(complement)",
+      "(result complement)",
+      "arrive",
+      "to",
+      "to (a place)",
+      "until (a time)",
+      "up to",
+      "to go"
+    ]
+  },
+  "对": {
+    "pinyin": "duì",
+    "freq_rank": 36,
+    "pos": "p",
+    "level": 1,
+    "meanings": [
+      "(measure word)",
+      "correct",
+      "in",
+      "to",
+      "yes/correct",
+      "couple",
+      "pair",
+      "to be opposite"
+    ]
+  },
+  "也": {
+    "pinyin": "yě",
+    "freq_rank": 37,
+    "pos": "d",
+    "level": 1,
+    "meanings": [
+      "also",
+      "too"
+    ]
+  },
+  "还": {
+    "pinyin": "hái",
+    "freq_rank": 39,
+    "pos": "d",
+    "level": 1,
+    "meanings": [
+      "also",
+      "even",
+      "still",
+      "still in progress",
+      "still more",
+      "yet",
+      "even more"
+    ]
+  },
+  "让": {
+    "pinyin": "ràng",
+    "freq_rank": 41,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "let",
+      "made",
+      "make",
+      "makes",
+      "to yield",
+      "to permit",
+      "to let sb do sth",
+      "to have sb do sth"
+    ]
+  },
+  "做": {
+    "pinyin": "zuò",
+    "freq_rank": 42,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "cooking",
+      "do",
+      "do/make",
+      "made",
+      "make",
+      "try",
+      "to do",
+      "to make"
+    ]
+  },
+  "给": {
+    "pinyin": "gěi",
+    "freq_rank": 43,
+    "pos": "p",
+    "level": 1,
+    "meanings": [
+      "for",
+      "give",
+      "to",
+      "for the benefit of",
+      "to give",
+      "to allow"
+    ]
+  },
+  "一个": {
+    "pinyin": "yīgè",
+    "freq_rank": 44,
+    "pos": "mq",
+    "level": 1,
+    "meanings": [
+      "one",
+      "a",
+      "an"
+    ]
+  },
+  "上": {
+    "pinyin": "shǎng",
+    "freq_rank": 45,
+    "pos": "f",
+    "level": 1,
+    "meanings": [
+      "(result complement)",
+      "apply",
+      "attend",
+      "last",
+      "on",
+      "up onto",
+      "on top",
+      "upon"
+    ]
+  },
+  "你们": {
+    "pinyin": "nǐmen",
+    "freq_rank": 46,
+    "pos": "r",
+    "level": 1,
+    "meanings": [
+      "you all",
+      "you (plural)"
+    ]
+  },
+  "过": {
+    "pinyin": "guò",
+    "freq_rank": 47,
+    "pos": "u",
+    "level": 1,
+    "meanings": [
+      "(experience marker)",
+      "(particle)",
+      "(past experience)",
+      "pass",
+      "to cross",
+      "to go over",
+      "to pass (time)",
+      "to celebrate (a holiday)"
+    ]
+  },
+  "没有": {
+    "pinyin": "méiyǒu",
+    "freq_rank": 48,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "didn't",
+      "haven't",
+      "hasn't",
+      "doesn't exist",
+      "to not have",
+      "to not be"
+    ]
+  },
+  "看": {
+    "pinyin": "kàn",
+    "freq_rank": 50,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "at",
+      "look",
+      "look at",
+      "look/read",
+      "looked",
+      "read",
+      "see",
+      "to read"
+    ]
+  },
+  "真": {
+    "pinyin": "zhēn",
+    "freq_rank": 51,
+    "pos": "d",
+    "level": 1,
+    "meanings": [
+      "really",
+      "true",
+      "truly",
+      "indeed",
+      "real"
+    ]
+  },
+  "着": {
+    "pinyin": "zhe",
+    "freq_rank": 52,
+    "pos": "u",
+    "level": 1,
+    "meanings": [
+      "(continuous action)",
+      "(continuous state)",
+      "(particle)",
+      "catch",
+      "receive",
+      "suffer"
+    ]
+  },
+  "事": {
+    "pinyin": "shì",
+    "freq_rank": 53,
+    "pos": "n",
+    "level": 1,
+    "meanings": [
+      "events",
+      "matter",
+      "thing",
+      "things",
+      "item",
+      "work",
+      "affair"
+    ]
+  },
+  "这个": {
+    "pinyin": "zhège",
+    "freq_rank": 54,
+    "pos": "r",
+    "level": 1,
+    "meanings": [
+      "this",
+      "this one"
+    ]
+  },
+  "怎么": {
+    "pinyin": "zěnme",
+    "freq_rank": 55,
+    "pos": "r",
+    "level": 1,
+    "meanings": [
+      "how",
+      "no matter how",
+      "how?",
+      "what?",
+      "why?"
+    ]
+  },
+  "现在": {
+    "pinyin": "xiànzài",
+    "freq_rank": 56,
+    "pos": "t",
+    "level": 1,
+    "meanings": [
+      "now",
+      "present",
+      "at present",
+      "modern",
+      "current",
+      "nowadays"
+    ]
+  },
+  "可以": {
+    "pinyin": "kěyǐ",
+    "freq_rank": 57,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "can",
+      "could",
+      "may",
+      "possible",
+      "able to"
+    ]
+  },
+  "点": {
+    "pinyin": "diǎn",
+    "freq_rank": 58,
+    "pos": "qt",
+    "level": 1,
+    "meanings": [
+      "o'clock",
+      "order",
+      "point",
+      "dot",
+      "speck",
+      "drop",
+      "decimal point"
+    ]
+  },
+  "呢": {
+    "pinyin": "ne",
+    "freq_rank": 59,
+    "pos": "y",
+    "level": 1,
+    "meanings": [
+      "(question particle)"
+    ]
+  },
+  "但": {
+    "pinyin": "dàn",
+    "freq_rank": 64,
+    "pos": "c",
+    "level": 1,
+    "meanings": [
+      "but",
+      "yet",
+      "however",
+      "only",
+      "merely"
+    ]
+  },
+  "走": {
+    "pinyin": "zǒu",
+    "freq_rank": 66,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "leave",
+      "walk",
+      "to walk",
+      "to go",
+      "to run",
+      "to move (of vehicle)",
+      "to visit"
+    ]
+  },
+  "太": {
+    "pinyin": "tài",
+    "freq_rank": 67,
+    "pos": "d",
+    "level": 1,
+    "meanings": [
+      "too",
+      "too/very",
+      "very",
+      "highest",
+      "greatest",
+      "too (much)",
+      "extremely"
+    ]
+  },
+  "这样": {
+    "pinyin": "zhèyàng",
+    "freq_rank": 68,
+    "pos": "r",
+    "level": 1,
+    "meanings": [
+      "like this",
+      "such",
+      "this way",
+      "this (kind of, sort of)"
+    ]
+  },
+  "里": {
+    "pinyin": "lǐ",
+    "freq_rank": 69,
+    "pos": "f",
+    "level": 1,
+    "meanings": [
+      "in",
+      "inside",
+      "Chinese mile (approx. 0.5 km)",
+      "neighborhood",
+      "hometown",
+      "surname Li"
+    ]
+  },
+  "跟": {
+    "pinyin": "gēn",
+    "freq_rank": 70,
+    "pos": "p",
+    "level": 1,
+    "meanings": [
+      "with",
+      "heel",
+      "to follow closely",
+      "to go with",
+      "to marry sb (of woman)"
+    ]
+  },
+  "告诉": {
+    "pinyin": "gàosu",
+    "freq_rank": 71,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "tell",
+      "told",
+      "to tell",
+      "to inform",
+      "to let know"
+    ]
+  },
+  "因为": {
+    "pinyin": "yīnwèi",
+    "freq_rank": 72,
+    "pos": "p",
+    "level": 1,
+    "meanings": [
+      "because",
+      "owing to",
+      "on account of"
+    ]
+  },
+  "再": {
+    "pinyin": "zài",
+    "freq_rank": 74,
+    "pos": "d",
+    "level": 1,
+    "meanings": [
+      "again",
+      "once more",
+      "re-",
+      "second",
+      "another"
+    ]
+  },
+  "听": {
+    "pinyin": "tīng",
+    "freq_rank": 75,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "listen",
+      "listening",
+      "to listen",
+      "to hear",
+      "to obey",
+      "a can (loan from English tin)",
+      "classifier for canned beverages"
+    ]
+  },
+  "这里": {
+    "pinyin": "zhèlǐ",
+    "freq_rank": 76,
+    "pos": "r",
+    "level": 1,
+    "meanings": [
+      "here"
+    ]
+  },
+  "快": {
+    "pinyin": "kuài",
+    "freq_rank": 77,
+    "pos": "a",
+    "level": 1,
+    "meanings": [
+      "fast",
+      "rapid",
+      "quick",
+      "speed",
+      "rate",
+      "soon"
+    ]
+  },
+  "谁": {
+    "pinyin": "shuí",
+    "freq_rank": 78,
+    "pos": "r",
+    "level": 1,
+    "meanings": [
+      "who",
+      "also pronounced shui2"
+    ]
+  },
+  "但是": {
+    "pinyin": "dànshì",
+    "freq_rank": 79,
+    "pos": "c",
+    "level": 1,
+    "meanings": [
+      "but",
+      "however"
+    ]
+  },
+  "多": {
+    "pinyin": "duō",
+    "freq_rank": 80,
+    "pos": "a",
+    "level": 1,
+    "meanings": [
+      "many",
+      "more",
+      "much",
+      "a lot of",
+      "numerous",
+      "multi-"
+    ]
+  },
+  "用": {
+    "pinyin": "yòng",
+    "freq_rank": 81,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "use",
+      "with",
+      "to use"
+    ]
+  },
+  "时候": {
+    "pinyin": "shíhou",
+    "freq_rank": 82,
+    "pos": "n",
+    "level": 1,
+    "meanings": [
+      "time",
+      "time/when",
+      "when",
+      "length of time",
+      "moment",
+      "period"
+    ]
+  },
+  "下": {
+    "pinyin": "xià",
+    "freq_rank": 83,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "(directional complement)",
+      "(measure word)",
+      "down",
+      "next",
+      "play",
+      "under",
+      "downwards",
+      "below"
+    ]
+  },
+  "已经": {
+    "pinyin": "yǐjīng",
+    "freq_rank": 84,
+    "pos": "d",
+    "level": 1,
+    "meanings": [
+      "already"
+    ]
+  },
+  "谢谢": {
+    "pinyin": "xièxie",
+    "freq_rank": 85,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "thank you",
+      "to thank",
+      "thanks"
+    ]
+  },
+  "为什么": {
+    "pinyin": "wèishénme",
+    "freq_rank": 86,
+    "pos": "r",
+    "level": 1,
+    "meanings": [
+      "why",
+      "why?",
+      "for what reason?"
+    ]
+  },
+  "觉得": {
+    "pinyin": "juéde",
+    "freq_rank": 87,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "feel",
+      "felt",
+      "think",
+      "to think",
+      "to feel"
+    ]
+  },
+  "天": {
+    "pinyin": "tiān",
+    "freq_rank": 88,
+    "pos": "qt",
+    "level": 1,
+    "meanings": [
+      "day",
+      "days",
+      "sky",
+      "heaven"
+    ]
+  },
+  "像": {
+    "pinyin": "xiàng",
+    "freq_rank": 89,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "like",
+      "(look) like",
+      "similar (to)",
+      "appearance",
+      "to appear",
+      "to seem"
+    ]
+  },
+  "这么": {
+    "pinyin": "zhème",
+    "freq_rank": 90,
+    "pos": "r",
+    "level": 1,
+    "meanings": [
+      "so",
+      "so much",
+      "this much",
+      "how much?",
+      "this way",
+      "like this"
+    ]
+  },
+  "它": {
+    "pinyin": "tā",
+    "freq_rank": 91,
+    "pos": "r",
+    "level": 1,
+    "meanings": [
+      "it",
+      "it (used for things)"
+    ]
+  },
+  "从": {
+    "pinyin": "cōng",
+    "freq_rank": 92,
+    "pos": "p",
+    "level": 1,
+    "meanings": [
+      "from",
+      "lax",
+      "yielding",
+      "unhurried"
+    ]
+  },
+  "先生": {
+    "pinyin": "xiānsheng",
+    "freq_rank": 93,
+    "pos": "n",
+    "level": 1,
+    "meanings": [
+      "Mr.",
+      "sir",
+      "mister",
+      "teacher"
+    ]
+  },
+  "找": {
+    "pinyin": "zhǎo",
+    "freq_rank": 94,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "find",
+      "found",
+      "look for",
+      "to try to find",
+      "to look for",
+      "to call on sb",
+      "to find",
+      "to seek"
+    ]
+  },
+  "最": {
+    "pinyin": "zuì",
+    "freq_rank": 95,
+    "pos": "d",
+    "level": 1,
+    "meanings": [
+      "most",
+      "the most",
+      "-est"
+    ]
+  },
+  "喜欢": {
+    "pinyin": "xǐhuan",
+    "freq_rank": 96,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "like",
+      "to like",
+      "to be fond of"
+    ]
+  },
+  "大": {
+    "pinyin": "dà",
+    "freq_rank": 99,
+    "pos": "a",
+    "level": 1,
+    "meanings": [
+      "big",
+      "loud",
+      "huge",
+      "large",
+      "major",
+      "great"
+    ]
+  },
+  "需要": {
+    "pinyin": "xūyào",
+    "freq_rank": 101,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "need",
+      "needs",
+      "to need",
+      "to want",
+      "to demand",
+      "to require"
+    ]
+  },
+  "次": {
+    "pinyin": "cì",
+    "freq_rank": 104,
+    "pos": "qv",
+    "level": 1,
+    "meanings": [
+      "time",
+      "next in sequence",
+      "second",
+      "the second (day, time etc)",
+      "secondary",
+      "vice-"
+    ]
+  },
+  "出": {
+    "pinyin": "chū",
+    "freq_rank": 105,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "out",
+      "to go out",
+      "to come out",
+      "to occur",
+      "to produce",
+      "to go beyond"
+    ]
+  },
+  "那么": {
+    "pinyin": "nàme",
+    "freq_rank": 106,
+    "pos": "r",
+    "level": 1,
+    "meanings": [
+      "that",
+      "like that",
+      "in that way",
+      "or so",
+      "so",
+      "so very much"
+    ]
+  },
+  "那个": {
+    "pinyin": "nèigè",
+    "freq_rank": 108,
+    "pos": "r",
+    "level": 1,
+    "meanings": [
+      "that",
+      "that one"
+    ]
+  },
+  "话": {
+    "pinyin": "huà",
+    "freq_rank": 111,
+    "pos": "n",
+    "level": 1,
+    "meanings": [
+      "words",
+      "dialect",
+      "language",
+      "spoken words",
+      "speech",
+      "talk"
+    ]
+  },
+  "东西": {
+    "pinyin": "dōngxi",
+    "freq_rank": 114,
+    "pos": "n",
+    "level": 1,
+    "meanings": [
+      "something",
+      "thing",
+      "things",
+      "east and west"
+    ]
+  },
+  "孩子": {
+    "pinyin": "háizi",
+    "freq_rank": 116,
+    "pos": "n",
+    "level": 1,
+    "meanings": [
+      "child"
+    ]
+  },
+  "这些": {
+    "pinyin": "zhèxiē",
+    "freq_rank": 119,
+    "pos": "r",
+    "level": 1,
+    "meanings": [
+      "these"
+    ]
+  },
+  "才": {
+    "pinyin": "cái",
+    "freq_rank": 120,
+    "pos": "d",
+    "level": 1,
+    "meanings": [
+      "just",
+      "only then",
+      "ability",
+      "talent",
+      "endowment",
+      "gift",
+      "an expert"
+    ]
+  },
+  "两": {
+    "pinyin": "liǎng",
+    "freq_rank": 121,
+    "pos": "m",
+    "level": 1,
+    "meanings": [
+      "two",
+      "both",
+      "ounce",
+      "some",
+      "a few"
+    ]
+  },
+  "错": {
+    "pinyin": "cuò",
+    "freq_rank": 122,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "wrong",
+      "mistake",
+      "error",
+      "blunder",
+      "fault",
+      "cross"
+    ]
+  },
+  "还有": {
+    "pinyin": "háiyǒu",
+    "freq_rank": 123,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "also",
+      "also have",
+      "furthermore",
+      "in addition",
+      "still"
+    ]
+  },
+  "小": {
+    "pinyin": "xiǎo",
+    "freq_rank": 125,
+    "pos": "a",
+    "level": 1,
+    "meanings": [
+      "little",
+      "small",
+      "small/little",
+      "tiny",
+      "few",
+      "young"
+    ]
+  },
+  "中": {
+    "pinyin": "zhōng",
+    "freq_rank": 126,
+    "pos": "f",
+    "level": 1,
+    "meanings": [
+      "in",
+      "within",
+      "among",
+      "middle",
+      "center"
+    ]
+  },
+  "叫": {
+    "pinyin": "jiào",
+    "freq_rank": 127,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "be called",
+      "call",
+      "called",
+      "meow",
+      "to call",
+      "to yell",
+      "to order",
+      "to ask"
+    ]
+  },
+  "等": {
+    "pinyin": "děng",
+    "freq_rank": 130,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "wait",
+      "class",
+      "rank",
+      "grade",
+      "equal to",
+      "same as"
+    ]
+  },
+  "问题": {
+    "pinyin": "wèntí",
+    "freq_rank": 131,
+    "pos": "n",
+    "level": 1,
+    "meanings": [
+      "problem",
+      "question",
+      "issue",
+      "topic"
+    ]
+  },
+  "一起": {
+    "pinyin": "yīqǐ",
+    "freq_rank": 132,
+    "pos": "s",
+    "level": 1,
+    "meanings": [
+      "together"
+    ]
+  },
+  "拿": {
+    "pinyin": "ná",
+    "freq_rank": 133,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "take",
+      "took",
+      "to hold",
+      "to seize",
+      "to catch",
+      "to apprehend",
+      "to take"
+    ]
+  },
+  "更": {
+    "pinyin": "gēng",
+    "freq_rank": 134,
+    "pos": "d",
+    "level": 1,
+    "meanings": [
+      "even more",
+      "more",
+      "to change"
+    ]
+  },
+  "开始": {
+    "pinyin": "kāishǐ",
+    "freq_rank": 135,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "begin",
+      "beginning",
+      "start",
+      "to begin",
+      "to start",
+      "initial"
+    ]
+  },
+  "帮": {
+    "pinyin": "bāng",
+    "freq_rank": 136,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "help",
+      "to help",
+      "to assist",
+      "to support",
+      "for sb (i.e. as a help)",
+      "hired (as worker)"
+    ]
+  },
+  "打": {
+    "pinyin": "dá",
+    "freq_rank": 137,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "call",
+      "coming",
+      "make (a call)",
+      "practice",
+      "dozen"
+    ]
+  },
+  "带": {
+    "pinyin": "dài",
+    "freq_rank": 139,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "bring",
+      "brought",
+      "band",
+      "belt",
+      "girdle",
+      "ribbon",
+      "tire"
+    ]
+  },
+  "时间": {
+    "pinyin": "shíjiān",
+    "freq_rank": 140,
+    "pos": "n",
+    "level": 1,
+    "meanings": [
+      "time",
+      "period"
+    ]
+  },
+  "年": {
+    "pinyin": "nián",
+    "freq_rank": 141,
+    "pos": "qt",
+    "level": 1,
+    "meanings": [
+      "year",
+      "years"
+    ]
+  },
+  "请": {
+    "pinyin": "qǐng",
+    "freq_rank": 142,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "invite",
+      "to ask",
+      "to invite",
+      "please (do sth)",
+      "to treat (to a meal etc)",
+      "to request"
+    ]
+  },
+  "回": {
+    "pinyin": "huí",
+    "freq_rank": 143,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "back",
+      "reply",
+      "return",
+      "to circle",
+      "to go back",
+      "to turn around",
+      "to answer",
+      "to return"
+    ]
+  },
+  "工作": {
+    "pinyin": "gōngzuò",
+    "freq_rank": 144,
+    "pos": "vn",
+    "level": 1,
+    "meanings": [
+      "work",
+      "job",
+      "construction",
+      "task"
+    ]
+  },
+  "然后": {
+    "pinyin": "ránhòu",
+    "freq_rank": 145,
+    "pos": "c",
+    "level": 1,
+    "meanings": [
+      "then",
+      "after",
+      "then (afterwards)",
+      "after that",
+      "afterwards"
+    ]
+  },
+  "当": {
+    "pinyin": "dāng",
+    "freq_rank": 146,
+    "pos": "p",
+    "level": 1,
+    "meanings": [
+      "as",
+      "become",
+      "when",
+      "to be",
+      "to act as",
+      "manage",
+      "withstand"
+    ]
+  },
+  "见": {
+    "pinyin": "jiàn",
+    "freq_rank": 147,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "saw",
+      "see",
+      "to see",
+      "to meet",
+      "to appear (to be sth)",
+      "to interview"
+    ]
+  },
+  "钱": {
+    "pinyin": "qián",
+    "freq_rank": 148,
+    "pos": "n",
+    "level": 1,
+    "meanings": [
+      "money",
+      "coin",
+      "surname Qian"
+    ]
+  },
+  "一样": {
+    "pinyin": "yīyàng",
+    "freq_rank": 150,
+    "pos": "u",
+    "level": 1,
+    "meanings": [
+      "same",
+      "like",
+      "equal to",
+      "the same as",
+      "just like"
+    ]
+  },
+  "就是": {
+    "pinyin": "jiùshì",
+    "freq_rank": 152,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "is exactly",
+      "precisely",
+      "exactly",
+      "even",
+      "if",
+      "just like"
+    ]
+  },
+  "家": {
+    "pinyin": "jiā",
+    "freq_rank": 157,
+    "pos": "n",
+    "level": 1,
+    "meanings": [
+      "(measure word)",
+      "family/home",
+      "home",
+      "furniture",
+      "tool"
+    ]
+  },
+  "朋友": {
+    "pinyin": "péngyou",
+    "freq_rank": 166,
+    "pos": "n",
+    "level": 1,
+    "meanings": [
+      "friend",
+      "friends"
+    ]
+  },
+  "妈妈": {
+    "pinyin": "māma",
+    "freq_rank": 167,
+    "pos": "n",
+    "level": 1,
+    "meanings": [
+      "mom",
+      "mother",
+      "mama",
+      "mommy"
+    ]
+  },
+  "今天": {
+    "pinyin": "jīntiān",
+    "freq_rank": 174,
+    "pos": "t",
+    "level": 1,
+    "meanings": [
+      "today",
+      "at the present",
+      "now"
+    ]
+  },
+  "爸爸": {
+    "pinyin": "bàba",
+    "freq_rank": 190,
+    "pos": "n",
+    "level": 1,
+    "meanings": [
+      "dad",
+      "(informal) father"
+    ]
+  },
+  "问": {
+    "pinyin": "wèn",
+    "freq_rank": 201,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "ask",
+      "asked",
+      "to ask"
+    ]
+  },
+  "住": {
+    "pinyin": "zhù",
+    "freq_rank": 209,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "live",
+      "to live",
+      "to dwell",
+      "to stay",
+      "to reside",
+      "to stop"
+    ]
+  },
+  "新": {
+    "pinyin": "xīn",
+    "freq_rank": 229,
+    "pos": "a",
+    "level": 1,
+    "meanings": [
+      "new",
+      "newly",
+      "abbr. for Xinjiang 新疆",
+      "meso- (chem.)"
+    ]
+  },
+  "高兴": {
+    "pinyin": "gāoxìng",
+    "freq_rank": 236,
+    "pos": "a",
+    "level": 1,
+    "meanings": [
+      "happy",
+      "glad",
+      "willing (to do sth)",
+      "in a cheerful mood"
+    ]
+  },
+  "买": {
+    "pinyin": "mǎi",
+    "freq_rank": 246,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "bought",
+      "buy"
+    ]
+  },
+  "名字": {
+    "pinyin": "míngzi",
+    "freq_rank": 259,
+    "pos": "n",
+    "level": 1,
+    "meanings": [
+      "name",
+      "name (of a person or thing)"
+    ]
+  },
+  "认识": {
+    "pinyin": "rènshi",
+    "freq_rank": 260,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "meet",
+      "recognize",
+      "to know",
+      "to recognize",
+      "to be familiar with",
+      "acquainted with sth",
+      "knowledge"
+    ]
+  },
+  "坐": {
+    "pinyin": "zuò",
+    "freq_rank": 261,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "sit",
+      "take",
+      "to sit",
+      "to take a seat",
+      "to take (a bus, airplane etc)"
+    ]
+  },
+  "喝": {
+    "pinyin": "hē",
+    "freq_rank": 264,
+    "pos": "g",
+    "level": 1,
+    "meanings": [
+      "drink",
+      "to drink",
+      "(interj.) My goodness!"
+    ]
+  },
+  "写": {
+    "pinyin": "xiě",
+    "freq_rank": 269,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "write",
+      "written",
+      "to write"
+    ]
+  },
+  "玩": {
+    "pinyin": "wán",
+    "freq_rank": 282,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "play",
+      "plays",
+      "toy",
+      "sth used for amusement",
+      "curio or antique (Taiwan pr. wan4)",
+      "to play",
+      "to have fun"
+    ]
+  },
+  "出去": {
+    "pinyin": "chūqù",
+    "freq_rank": 310,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "go out",
+      "to go out"
+    ]
+  },
+  "看见": {
+    "pinyin": "kànjiàn",
+    "freq_rank": 312,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "see",
+      "to see",
+      "to catch sight of"
+    ]
+  },
+  "本": {
+    "pinyin": "běn",
+    "freq_rank": 338,
+    "pos": "r",
+    "level": 1,
+    "meanings": [
+      "(measure word for books)",
+      "(measure word)",
+      "roots or stems of plants",
+      "origin",
+      "source",
+      "this",
+      "the current"
+    ]
+  },
+  "明天": {
+    "pinyin": "míngtiān",
+    "freq_rank": 352,
+    "pos": "t",
+    "level": 1,
+    "meanings": [
+      "tomorrow"
+    ]
+  },
+  "多少": {
+    "pinyin": "duōshao",
+    "freq_rank": 360,
+    "pos": "r",
+    "level": 1,
+    "meanings": [
+      "how much",
+      "number",
+      "amount",
+      "somewhat"
+    ]
+  },
+  "晚上": {
+    "pinyin": "wǎnshang",
+    "freq_rank": 368,
+    "pos": "t",
+    "level": 1,
+    "meanings": [
+      "evening",
+      "in the evening"
+    ]
+  },
+  "块": {
+    "pinyin": "kuài",
+    "freq_rank": 372,
+    "pos": "q",
+    "level": 1,
+    "meanings": [
+      "(currency measure)",
+      "lump (of earth)",
+      "chunk",
+      "piece",
+      "classifier for pieces of cloth, cake, soap etc"
+    ]
+  },
+  "回家": {
+    "pinyin": "huíjiā",
+    "freq_rank": 373,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "return home",
+      "to return home"
+    ]
+  },
+  "说话": {
+    "pinyin": "shuōhuà",
+    "freq_rank": 383,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "speak",
+      "to speak",
+      "to talk",
+      "to say",
+      "to gossip",
+      "to tell stories"
+    ]
+  },
+  "学校": {
+    "pinyin": "xuéxiào",
+    "freq_rank": 447,
+    "pos": "n",
+    "level": 1,
+    "meanings": [
+      "school",
+      "CL:所[suo3]"
+    ]
+  },
+  "书": {
+    "pinyin": "shū",
+    "freq_rank": 464,
+    "pos": "n",
+    "level": 1,
+    "meanings": [
+      "book",
+      "books",
+      "letter",
+      "same as 书经 Book of History"
+    ]
+  },
+  "五": {
+    "pinyin": "wǔ",
+    "freq_rank": 563,
+    "pos": "m",
+    "level": 1,
+    "meanings": [
+      "five",
+      "5"
+    ]
+  },
+  "昨天": {
+    "pinyin": "zuótiān",
+    "freq_rank": 704,
+    "pos": "t",
+    "level": 1,
+    "meanings": [
+      "yesterday"
+    ]
+  },
+  "老师": {
+    "pinyin": "lǎoshī",
+    "freq_rank": 804,
+    "pos": "n",
+    "level": 1,
+    "meanings": [
+      "teacher"
+    ]
+  },
+  "学生": {
+    "pinyin": "xuésheng",
+    "freq_rank": 1022,
+    "pos": "n",
+    "level": 1,
+    "meanings": [
+      "student",
+      "students",
+      "school child"
+    ]
+  },
+  "下午": {
+    "pinyin": "xiàwǔ",
+    "freq_rank": 1026,
+    "pos": "t",
+    "level": 1,
+    "meanings": [
+      "afternoon",
+      "p.m."
+    ]
+  },
+  "字": {
+    "pinyin": "zì",
+    "freq_rank": 1138,
+    "pos": "n",
+    "level": 1,
+    "meanings": [
+      "character",
+      "characters",
+      "characters/words",
+      "letter",
+      "symbol",
+      "word"
+    ]
+  },
+  "学习": {
+    "pinyin": "xuéxí",
+    "freq_rank": 1218,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "study",
+      "to study",
+      "to learn"
+    ]
+  },
+  "你好": {
+    "pinyin": "nǐhǎo",
+    "freq_rank": 2021,
+    "pos": "v",
+    "level": 1,
+    "meanings": [
+      "hello"
+    ]
+  },
+  "不是": {
+    "pinyin": "bùshi",
+    "freq_rank": 4941,
+    "pos": "c",
+    "level": 1,
+    "meanings": [
+      "are not",
+      "is not",
+      "not",
+      "no"
+    ]
+  },
+  "得": {
+    "pinyin": "de",
+    "freq_rank": 49,
+    "pos": "u",
+    "level": 2,
+    "meanings": [
+      "(complement marker)",
+      "(particle)",
+      "to obtain",
+      "to get",
+      "to gain",
+      "to catch (a disease)",
+      "proper"
+    ]
+  },
+  "如果": {
+    "pinyin": "rúguǒ",
+    "freq_rank": 60,
+    "pos": "c",
+    "level": 2,
+    "meanings": [
+      "if",
+      "in case",
+      "in the event that"
+    ]
+  },
+  "只": {
+    "pinyin": "zhǐ",
+    "freq_rank": 61,
+    "pos": "d",
+    "level": 2,
+    "meanings": [
+      "(measure word for animals)",
+      "(measure word)",
+      "only"
+    ]
+  },
+  "自己": {
+    "pinyin": "zìjǐ",
+    "freq_rank": 73,
+    "pos": "r",
+    "level": 2,
+    "meanings": [
+      "herself",
+      "himself",
+      "one's own",
+      "oneself",
+      "own",
+      "self"
+    ]
+  },
+  "起来": {
+    "pinyin": "qǐlai",
+    "freq_rank": 117,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "get up",
+      "up",
+      "beginning or continuing an action",
+      "upward movement",
+      "stand up"
+    ]
+  },
+  "又": {
+    "pinyin": "yòu",
+    "freq_rank": 124,
+    "pos": "d",
+    "level": 2,
+    "meanings": [
+      "again",
+      "(once) again",
+      "also",
+      "both... and..."
+    ]
+  },
+  "事情": {
+    "pinyin": "shìqíng",
+    "freq_rank": 151,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "thing",
+      "things",
+      "affair",
+      "matter",
+      "business"
+    ]
+  },
+  "吃": {
+    "pinyin": "chī",
+    "freq_rank": 153,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "eat",
+      "to eat",
+      "to have one's meal",
+      "to eradicate",
+      "to destroy",
+      "to absorb"
+    ]
+  },
+  "所有": {
+    "pinyin": "suǒyǒu",
+    "freq_rank": 154,
+    "pos": "b",
+    "level": 2,
+    "meanings": [
+      "all",
+      "to have",
+      "to possess",
+      "to own"
+    ]
+  },
+  "开": {
+    "pinyin": "kāi",
+    "freq_rank": 155,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "bloom",
+      "departed",
+      "to open",
+      "to start",
+      "to turn on",
+      "to write out (a medical prescription)",
+      "to operate (vehicle)"
+    ]
+  },
+  "非常": {
+    "pinyin": "fēicháng",
+    "freq_rank": 158,
+    "pos": "d",
+    "level": 2,
+    "meanings": [
+      "very",
+      "unusual",
+      "extraordinary",
+      "extreme",
+      "exceptional"
+    ]
+  },
+  "看到": {
+    "pinyin": "kàndào",
+    "freq_rank": 159,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "saw",
+      "see",
+      "note"
+    ]
+  },
+  "那些": {
+    "pinyin": "nàxiē",
+    "freq_rank": 161,
+    "pos": "r",
+    "level": 2,
+    "meanings": [
+      "those"
+    ]
+  },
+  "相信": {
+    "pinyin": "xiāngxìn",
+    "freq_rank": 168,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "believe",
+      "be convinced (that something is true)",
+      "to accept sth as true"
+    ]
+  },
+  "明白": {
+    "pinyin": "míngbai",
+    "freq_rank": 175,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "understand",
+      "understood",
+      "clear",
+      "obvious",
+      "unequivocal",
+      "to understand",
+      "to realize"
+    ]
+  },
+  "一直": {
+    "pinyin": "yīzhí",
+    "freq_rank": 176,
+    "pos": "d",
+    "level": 2,
+    "meanings": [
+      "always",
+      "straight (in a straight line)",
+      "continuously",
+      "from the beginning of ... up to ...",
+      "all along"
+    ]
+  },
+  "看看": {
+    "pinyin": "kànkan",
+    "freq_rank": 177,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "look around",
+      "look at",
+      "to take a look at",
+      "to examine",
+      "to survey",
+      "(coll.) pretty soon"
+    ]
+  },
+  "车": {
+    "pinyin": "chē",
+    "freq_rank": 178,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "bike",
+      "vehicle",
+      "car",
+      "CL:?|辆[liang4]",
+      "machine",
+      "to shape with a lathe"
+    ]
+  },
+  "时": {
+    "pinyin": "shí",
+    "freq_rank": 179,
+    "pos": "g",
+    "level": 2,
+    "meanings": [
+      "when",
+      "o'clock",
+      "time",
+      "hour",
+      "season"
+    ]
+  },
+  "地方": {
+    "pinyin": "dìfang",
+    "freq_rank": 181,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "place",
+      "places",
+      "region",
+      "regional (away from the central administration)"
+    ]
+  },
+  "发生": {
+    "pinyin": "fāshēng",
+    "freq_rank": 184,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "happen",
+      "happened",
+      "to happen",
+      "to occur",
+      "to take place",
+      "to break out"
+    ]
+  },
+  "几": {
+    "pinyin": "jī",
+    "freq_rank": 185,
+    "pos": "m",
+    "level": 2,
+    "meanings": [
+      "few",
+      "several",
+      "almost",
+      "small table"
+    ]
+  },
+  "准备": {
+    "pinyin": "zhǔnbèi",
+    "freq_rank": 187,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "prepare",
+      "preparation"
+    ]
+  },
+  "找到": {
+    "pinyin": "zhǎodào",
+    "freq_rank": 188,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "find",
+      "find (what one was searching for)",
+      "succeeded in finding"
+    ]
+  },
+  "后": {
+    "pinyin": "hòu",
+    "freq_rank": 189,
+    "pos": "f",
+    "level": 2,
+    "meanings": [
+      "after",
+      "back",
+      "behind",
+      "rear",
+      "afterwards"
+    ]
+  },
+  "一切": {
+    "pinyin": "yīqiè",
+    "freq_rank": 191,
+    "pos": "r",
+    "level": 2,
+    "meanings": [
+      "everything"
+    ]
+  },
+  "比": {
+    "pinyin": "bǐ",
+    "freq_rank": 193,
+    "pos": "p",
+    "level": 2,
+    "meanings": [
+      "than",
+      "to compare",
+      "to contrast",
+      "to gesture (with hands)",
+      "ratio",
+      "abbr. for Belgium 比利fB|比利时"
+    ]
+  },
+  "感觉": {
+    "pinyin": "gǎnjué",
+    "freq_rank": 194,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "feel",
+      "feeling",
+      "to feel",
+      "to become aware of",
+      "sense",
+      "perception"
+    ]
+  },
+  "只是": {
+    "pinyin": "zhǐshì",
+    "freq_rank": 196,
+    "pos": "d",
+    "level": 2,
+    "meanings": [
+      "just",
+      "only",
+      "merely",
+      "simply",
+      "but"
+    ]
+  },
+  "怎么样": {
+    "pinyin": "zěnmeyàng",
+    "freq_rank": 197,
+    "pos": "r",
+    "level": 2,
+    "meanings": [
+      "how",
+      "how?",
+      "how about?",
+      "how was it?",
+      "how are things?"
+    ]
+  },
+  "不要": {
+    "pinyin": "bùyào",
+    "freq_rank": 199,
+    "pos": "d",
+    "level": 2,
+    "meanings": [
+      "not want",
+      "don't!",
+      "must not"
+    ]
+  },
+  "对不起": {
+    "pinyin": "duìbuqǐ",
+    "freq_rank": 200,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "sorry",
+      "I'm sorry",
+      "pardon me",
+      "forgive me"
+    ]
+  },
+  "离开": {
+    "pinyin": "líkāi",
+    "freq_rank": 202,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "leave",
+      "to depart",
+      "to leave"
+    ]
+  },
+  "一定": {
+    "pinyin": "yīdìng",
+    "freq_rank": 204,
+    "pos": "d",
+    "level": 2,
+    "meanings": [
+      "definitely",
+      "must",
+      "surely",
+      "certainly",
+      "necessarily",
+      "fixed",
+      "a certain (extent etc)"
+    ]
+  },
+  "还是": {
+    "pinyin": "háishì",
+    "freq_rank": 206,
+    "pos": "c",
+    "level": 2,
+    "meanings": [
+      "or",
+      "still",
+      "nevertheless"
+    ]
+  },
+  "发现": {
+    "pinyin": "fāxiàn",
+    "freq_rank": 207,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "discover",
+      "discovered",
+      "discovery",
+      "to find",
+      "to discover"
+    ]
+  },
+  "件": {
+    "pinyin": "jiàn",
+    "freq_rank": 210,
+    "pos": "q",
+    "level": 2,
+    "meanings": [
+      "(measure word)",
+      "item",
+      "component",
+      "classifier for events, things, clothes etc"
+    ]
+  },
+  "而且": {
+    "pinyin": "érqiě",
+    "freq_rank": 212,
+    "pos": "c",
+    "level": 2,
+    "meanings": [
+      "but also",
+      "not only ... but also",
+      "as well as",
+      "moreover",
+      "in addition",
+      "furthermore"
+    ]
+  },
+  "必须": {
+    "pinyin": "bìxū",
+    "freq_rank": 214,
+    "pos": "d",
+    "level": 2,
+    "meanings": [
+      "must",
+      "to have to"
+    ]
+  },
+  "意思": {
+    "pinyin": "yìsi",
+    "freq_rank": 215,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "interesting",
+      "meaning",
+      "idea",
+      "opinion",
+      "wish",
+      "desire"
+    ]
+  },
+  "放": {
+    "pinyin": "fàng",
+    "freq_rank": 216,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "put",
+      "to release",
+      "to free",
+      "to let go",
+      "to put",
+      "to place"
+    ]
+  },
+  "电话": {
+    "pinyin": "diànhuà",
+    "freq_rank": 219,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "phone",
+      "phone call",
+      "phone calls",
+      "telephone"
+    ]
+  },
+  "为了": {
+    "pinyin": "wèile",
+    "freq_rank": 220,
+    "pos": "p",
+    "level": 2,
+    "meanings": [
+      "in order to",
+      "for the purpose of",
+      "so as to"
+    ]
+  },
+  "第一": {
+    "pinyin": "dìyī",
+    "freq_rank": 223,
+    "pos": "m",
+    "level": 2,
+    "meanings": [
+      "first",
+      "number one"
+    ]
+  },
+  "地": {
+    "pinyin": "de",
+    "freq_rank": 225,
+    "pos": "u",
+    "level": 2,
+    "meanings": [
+      "(adverb marker)",
+      "(particle)",
+      "-ly"
+    ]
+  },
+  "进": {
+    "pinyin": "jìn",
+    "freq_rank": 226,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "enter",
+      "into",
+      "to advance",
+      "to enter",
+      "to come in"
+    ]
+  },
+  "大家": {
+    "pinyin": "dàjiā",
+    "freq_rank": 228,
+    "pos": "r",
+    "level": 2,
+    "meanings": [
+      "everyone",
+      "authority"
+    ]
+  },
+  "您": {
+    "pinyin": "nín",
+    "freq_rank": 230,
+    "pos": "r",
+    "level": 2,
+    "meanings": [
+      "you",
+      "your",
+      "you (polite, as opposed to informal 你[ni3])"
+    ]
+  },
+  "一些": {
+    "pinyin": "yīxiē",
+    "freq_rank": 232,
+    "pos": "mq",
+    "level": 2,
+    "meanings": [
+      "a bit",
+      "some",
+      "a few",
+      "a little"
+    ]
+  },
+  "三": {
+    "pinyin": "sān",
+    "freq_rank": 233,
+    "pos": "m",
+    "level": 2,
+    "meanings": [
+      "three",
+      "3"
+    ]
+  },
+  "那里": {
+    "pinyin": "nàli",
+    "freq_rank": 234,
+    "pos": "r",
+    "level": 2,
+    "meanings": [
+      "there",
+      "that place"
+    ]
+  },
+  "以为": {
+    "pinyin": "yǐwéi",
+    "freq_rank": 235,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "think",
+      "to believe",
+      "to think",
+      "to consider erroneously",
+      "to assume (wrongly)"
+    ]
+  },
+  "老": {
+    "pinyin": "lǎo",
+    "freq_rank": 238,
+    "pos": "a",
+    "level": 2,
+    "meanings": [
+      "old",
+      "old (of people)",
+      "venerable (person)",
+      "experienced",
+      "of long standing",
+      "always"
+    ]
+  },
+  "位": {
+    "pinyin": "wèi",
+    "freq_rank": 239,
+    "pos": "q",
+    "level": 2,
+    "meanings": [
+      "(measure word for people)",
+      "(measure word)",
+      "position",
+      "location",
+      "classifier for people",
+      "place",
+      "seat"
+    ]
+  },
+  "过来": {
+    "pinyin": "guòlái",
+    "freq_rank": 240,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "come over",
+      "to come over",
+      "to manage",
+      "to handle",
+      "to be able to take care of",
+      "also pr. guo4lai5"
+    ]
+  },
+  "先": {
+    "pinyin": "xiān",
+    "freq_rank": 242,
+    "pos": "d",
+    "level": 2,
+    "meanings": [
+      "first",
+      "early",
+      "prior",
+      "former",
+      "in advance"
+    ]
+  },
+  "生活": {
+    "pinyin": "shēnghuó",
+    "freq_rank": 244,
+    "pos": "vn",
+    "level": 2,
+    "meanings": [
+      "life",
+      "live",
+      "activity",
+      "to live"
+    ]
+  },
+  "种": {
+    "pinyin": "zhǒng",
+    "freq_rank": 247,
+    "pos": "q",
+    "level": 2,
+    "meanings": [
+      "(measure word)",
+      "plant",
+      "planted",
+      "planting",
+      "abbr. for 物种, genus",
+      "race",
+      "seed",
+      "breed"
+    ]
+  },
+  "医生": {
+    "pinyin": "yīshēng",
+    "freq_rank": 248,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "doctor"
+    ]
+  },
+  "最后": {
+    "pinyin": "zuìhòu",
+    "freq_rank": 249,
+    "pos": "f",
+    "level": 2,
+    "meanings": [
+      "last",
+      "final",
+      "finally",
+      "ultimate"
+    ]
+  },
+  "很多": {
+    "pinyin": "hěnduō",
+    "freq_rank": 254,
+    "pos": "m",
+    "level": 2,
+    "meanings": [
+      "many",
+      "very many",
+      "very much",
+      "great (quantity)"
+    ]
+  },
+  "这种": {
+    "pinyin": "zhèzhǒng",
+    "freq_rank": 256,
+    "pos": "r",
+    "level": 2,
+    "meanings": [
+      "this kind",
+      "this",
+      "this kind of",
+      "this sort of",
+      "this type of"
+    ]
+  },
+  "今晚": {
+    "pinyin": "jīnwǎn",
+    "freq_rank": 262,
+    "pos": "t",
+    "level": 2,
+    "meanings": [
+      "tonight"
+    ]
+  },
+  "其他": {
+    "pinyin": "qítā",
+    "freq_rank": 263,
+    "pos": "r",
+    "level": 2,
+    "meanings": [
+      "other",
+      "the others",
+      "else",
+      "other than (that person)",
+      "in addition to the person mentioned above"
+    ]
+  },
+  "记得": {
+    "pinyin": "jìde",
+    "freq_rank": 265,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "remember",
+      "to remember"
+    ]
+  },
+  "与": {
+    "pinyin": "yú",
+    "freq_rank": 267,
+    "pos": "p",
+    "level": 2,
+    "meanings": [
+      "and"
+    ]
+  },
+  "过去": {
+    "pinyin": "guòqu",
+    "freq_rank": 272,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "go over",
+      "past",
+      "(in the) past",
+      "former",
+      "previous",
+      "to go over",
+      "to pass by"
+    ]
+  },
+  "哪里": {
+    "pinyin": "nǎlǐ",
+    "freq_rank": 273,
+    "pos": "r",
+    "level": 2,
+    "meanings": [
+      "where",
+      "where?",
+      "somewhere",
+      "anywhere",
+      "wherever",
+      "nowhere (negative answer to question)"
+    ]
+  },
+  "却": {
+    "pinyin": "què",
+    "freq_rank": 275,
+    "pos": "d",
+    "level": 2,
+    "meanings": [
+      "but",
+      "yet",
+      "however",
+      "while",
+      "to go back"
+    ]
+  },
+  "担心": {
+    "pinyin": "dānxīn",
+    "freq_rank": 277,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "worries",
+      "anxious",
+      "worried",
+      "uneasy",
+      "to worry",
+      "to be anxious"
+    ]
+  },
+  "继续": {
+    "pinyin": "jìxù",
+    "freq_rank": 278,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "continue",
+      "to continue",
+      "to proceed with",
+      "to go on with"
+    ]
+  },
+  "下来": {
+    "pinyin": "xiàlai",
+    "freq_rank": 284,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "(directional complement)",
+      "to come down",
+      "to be harvested (of crops)",
+      "to be over (of a period of time)",
+      "to go among the masses (said of leaders)"
+    ]
+  },
+  "成": {
+    "pinyin": "chéng",
+    "freq_rank": 285,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "(result complement)",
+      "became",
+      "finish",
+      "complete",
+      "accomplish",
+      "become",
+      "turn into"
+    ]
+  },
+  "条": {
+    "pinyin": "tiáo",
+    "freq_rank": 286,
+    "pos": "q",
+    "level": 2,
+    "meanings": [
+      "(measure word)",
+      "strip",
+      "item",
+      "article",
+      "clause (of law or treaty)"
+    ]
+  },
+  "够": {
+    "pinyin": "gòu",
+    "freq_rank": 287,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "enough",
+      "to reach",
+      "to be enough"
+    ]
+  },
+  "父亲": {
+    "pinyin": "fùqīn",
+    "freq_rank": 288,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "father",
+      "also pr. with light tone [fu4 qin5]"
+    ]
+  },
+  "跑": {
+    "pinyin": "páo",
+    "freq_rank": 290,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "run",
+      "to run",
+      "to escape",
+      "race"
+    ]
+  },
+  "月": {
+    "pinyin": "yuè",
+    "freq_rank": 291,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "month",
+      "moon"
+    ]
+  },
+  "早": {
+    "pinyin": "zǎo",
+    "freq_rank": 292,
+    "pos": "ad",
+    "level": 2,
+    "meanings": [
+      "early",
+      "morning"
+    ]
+  },
+  "完全": {
+    "pinyin": "wánquán",
+    "freq_rank": 295,
+    "pos": "ad",
+    "level": 2,
+    "meanings": [
+      "completely",
+      "complete",
+      "whole",
+      "totally",
+      "entirely"
+    ]
+  },
+  "狗": {
+    "pinyin": "gǒu",
+    "freq_rank": 299,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "dog"
+    ]
+  },
+  "世界": {
+    "pinyin": "shìjiè",
+    "freq_rank": 301,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "world"
+    ]
+  },
+  "小时": {
+    "pinyin": "xiǎoshí",
+    "freq_rank": 302,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "hours",
+      "hour"
+    ]
+  },
+  "重要": {
+    "pinyin": "zhòngyào",
+    "freq_rank": 303,
+    "pos": "a",
+    "level": 2,
+    "meanings": [
+      "important",
+      "significant",
+      "major"
+    ]
+  },
+  "别人": {
+    "pinyin": "biérén",
+    "freq_rank": 305,
+    "pos": "r",
+    "level": 2,
+    "meanings": [
+      "others",
+      "someone else's",
+      "other people",
+      "other person"
+    ]
+  },
+  "头": {
+    "pinyin": "tóu",
+    "freq_rank": 307,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "(measure word)",
+      "head",
+      "hair style",
+      "the top",
+      "end",
+      "beginning or end"
+    ]
+  },
+  "机会": {
+    "pinyin": "jīhuì",
+    "freq_rank": 308,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "opportunities",
+      "opportunity",
+      "chance",
+      "occasion"
+    ]
+  },
+  "岁": {
+    "pinyin": "suì",
+    "freq_rank": 309,
+    "pos": "qt",
+    "level": 2,
+    "meanings": [
+      "years old",
+      "year",
+      "classifier for years old"
+    ]
+  },
+  "好像": {
+    "pinyin": "hǎoxiàng",
+    "freq_rank": 316,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "as if",
+      "seem like",
+      "to seem like"
+    ]
+  },
+  "得到": {
+    "pinyin": "dédào",
+    "freq_rank": 317,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "gain",
+      "to get",
+      "to obtain",
+      "to receive"
+    ]
+  },
+  "完": {
+    "pinyin": "wán",
+    "freq_rank": 319,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "finish",
+      "to finish",
+      "to be over",
+      "whole",
+      "complete",
+      "entire"
+    ]
+  },
+  "张": {
+    "pinyin": "zhāng",
+    "freq_rank": 320,
+    "pos": "q",
+    "level": 2,
+    "meanings": [
+      "(measure word for flat objects)",
+      "(measure word)",
+      "surname Zhang"
+    ]
+  },
+  "漂亮": {
+    "pinyin": "piàoliang",
+    "freq_rank": 323,
+    "pos": "a",
+    "level": 2,
+    "meanings": [
+      "beautiful",
+      "pretty"
+    ]
+  },
+  "接": {
+    "pinyin": "jiē",
+    "freq_rank": 325,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "answered",
+      "to receive",
+      "to answer (the phone)",
+      "to meet or welcome sb",
+      "to connect",
+      "to catch"
+    ]
+  },
+  "变": {
+    "pinyin": "biàn",
+    "freq_rank": 334,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "become",
+      "change",
+      "to change",
+      "to become different",
+      "to transform",
+      "to vary",
+      "rebellion"
+    ]
+  },
+  "关系": {
+    "pinyin": "guānxì",
+    "freq_rank": 335,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "matter",
+      "relation",
+      "relationship",
+      "to concern",
+      "to affect",
+      "to have to do with"
+    ]
+  },
+  "马上": {
+    "pinyin": "mǎshàng",
+    "freq_rank": 339,
+    "pos": "d",
+    "level": 2,
+    "meanings": [
+      "immediately",
+      "at once",
+      "right away",
+      "lit. on horseback",
+      "mounted"
+    ]
+  },
+  "决定": {
+    "pinyin": "juédìng",
+    "freq_rank": 340,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "decide",
+      "decision",
+      "to decide (to do something)",
+      "to determine",
+      "to resolve"
+    ]
+  },
+  "关于": {
+    "pinyin": "guānyú",
+    "freq_rank": 343,
+    "pos": "p",
+    "level": 2,
+    "meanings": [
+      "about",
+      "pertaining to",
+      "concerning",
+      "regarding",
+      "with regards to"
+    ]
+  },
+  "里面": {
+    "pinyin": "lǐmiàn",
+    "freq_rank": 347,
+    "pos": "f",
+    "level": 2,
+    "meanings": [
+      "inside",
+      "#"
+    ]
+  },
+  "份": {
+    "pinyin": "fèn",
+    "freq_rank": 348,
+    "pos": "q",
+    "level": 2,
+    "meanings": [
+      "(measure word for portions)",
+      "(measure word)",
+      "part",
+      "share",
+      "portion",
+      "copy"
+    ]
+  },
+  "每": {
+    "pinyin": "měi",
+    "freq_rank": 349,
+    "pos": "r",
+    "level": 2,
+    "meanings": [
+      "each",
+      "every"
+    ]
+  },
+  "了解": {
+    "pinyin": "liǎojiě",
+    "freq_rank": 351,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "understand",
+      "to understand",
+      "to realize",
+      "to find out"
+    ]
+  },
+  "公司": {
+    "pinyin": "gōngsī",
+    "freq_rank": 355,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "company",
+      "(business) company",
+      "firm",
+      "corporation",
+      "incorporated"
+    ]
+  },
+  "成为": {
+    "pinyin": "chéngwéi",
+    "freq_rank": 356,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "become",
+      "to become",
+      "to turn into"
+    ]
+  },
+  "帮助": {
+    "pinyin": "bāngzhù",
+    "freq_rank": 358,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "help",
+      "assistance",
+      "aid",
+      "to help",
+      "to assist"
+    ]
+  },
+  "名": {
+    "pinyin": "míng",
+    "freq_rank": 362,
+    "pos": "q",
+    "level": 2,
+    "meanings": [
+      "famous",
+      "name",
+      "noun (part of speech)",
+      "place (e.g. among winners)",
+      "classifier for people"
+    ]
+  },
+  "它们": {
+    "pinyin": "tāmen",
+    "freq_rank": 363,
+    "pos": "r",
+    "level": 2,
+    "meanings": [
+      "them",
+      "they",
+      "they (for inanimate objects)"
+    ]
+  },
+  "总": {
+    "pinyin": "zǒng",
+    "freq_rank": 364,
+    "pos": "d",
+    "level": 2,
+    "meanings": [
+      "always",
+      "to assemble",
+      "gather",
+      "total",
+      "overall"
+    ]
+  },
+  "留": {
+    "pinyin": "liú",
+    "freq_rank": 374,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "stay",
+      "leave (message)",
+      "to retain",
+      "to stay",
+      "to remain",
+      "to keep"
+    ]
+  },
+  "周": {
+    "pinyin": "zhōu",
+    "freq_rank": 375,
+    "pos": "qt",
+    "level": 2,
+    "meanings": [
+      "week",
+      "bestow alms"
+    ]
+  },
+  "停": {
+    "pinyin": "tíng",
+    "freq_rank": 380,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "stop",
+      "stopped",
+      "to stop",
+      "to halt",
+      "to park (a car)"
+    ]
+  },
+  "不能": {
+    "pinyin": "bùnéng",
+    "freq_rank": 381,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "cannot",
+      "must not",
+      "should not"
+    ]
+  },
+  "另": {
+    "pinyin": "lìng",
+    "freq_rank": 384,
+    "pos": "r",
+    "level": 2,
+    "meanings": [
+      "other",
+      "another",
+      "separate",
+      "separately"
+    ]
+  },
+  "心": {
+    "pinyin": "xīn",
+    "freq_rank": 385,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "heart",
+      "mind"
+    ]
+  },
+  "花": {
+    "pinyin": "huā",
+    "freq_rank": 386,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "flowers",
+      "flower",
+      "blossom",
+      "to spend (money, time)",
+      "fancy pattern",
+      "surname Hua"
+    ]
+  },
+  "有些": {
+    "pinyin": "yǒuxiē",
+    "freq_rank": 388,
+    "pos": "r",
+    "level": 2,
+    "meanings": [
+      "some",
+      "somewhat"
+    ]
+  },
+  "门": {
+    "pinyin": "mén",
+    "freq_rank": 389,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "door",
+      "gate",
+      "CL:扇[shan4]",
+      "gateway",
+      "doorway"
+    ]
+  },
+  "以后": {
+    "pinyin": "yǐhòu",
+    "freq_rank": 394,
+    "pos": "f",
+    "level": 2,
+    "meanings": [
+      "after",
+      "later",
+      "afterwards",
+      "following",
+      "later on"
+    ]
+  },
+  "每个": {
+    "pinyin": "měigě",
+    "freq_rank": 397,
+    "pos": "r",
+    "level": 2,
+    "meanings": [
+      "every",
+      "#"
+    ]
+  },
+  "欢迎": {
+    "pinyin": "huānyíng",
+    "freq_rank": 398,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "welcome",
+      "to welcome"
+    ]
+  },
+  "跳": {
+    "pinyin": "tiào",
+    "freq_rank": 404,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "jump",
+      "hop",
+      "skip (a grade)",
+      "to leap",
+      "to bounce"
+    ]
+  },
+  "动": {
+    "pinyin": "dòng",
+    "freq_rank": 409,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "move",
+      "to use",
+      "to act",
+      "to move",
+      "to change",
+      "abbr. for verb 动词[dong4 ci2]"
+    ]
+  },
+  "卖": {
+    "pinyin": "mài",
+    "freq_rank": 448,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "sell",
+      "seller",
+      "to sell"
+    ]
+  },
+  "高": {
+    "pinyin": "gāo",
+    "freq_rank": 454,
+    "pos": "a",
+    "level": 2,
+    "meanings": [
+      "tall",
+      "high",
+      "fig. above average",
+      "height",
+      "(honorific) your"
+    ]
+  },
+  "特别": {
+    "pinyin": "tèbié",
+    "freq_rank": 465,
+    "pos": "d",
+    "level": 2,
+    "meanings": [
+      "especially",
+      "special",
+      "particular",
+      "unusual"
+    ]
+  },
+  "笑": {
+    "pinyin": "xiào",
+    "freq_rank": 504,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "laugh",
+      "laugh/smile",
+      "smile",
+      "to smile/laugh"
+    ]
+  },
+  "学": {
+    "pinyin": "xué",
+    "freq_rank": 544,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "learn",
+      "study",
+      "science",
+      "-ology"
+    ]
+  },
+  "外面": {
+    "pinyin": "wàimian",
+    "freq_rank": 585,
+    "pos": "f",
+    "level": 2,
+    "meanings": [
+      "outside"
+    ]
+  },
+  "声音": {
+    "pinyin": "shēngyīn",
+    "freq_rank": 594,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "sound",
+      "voice"
+    ]
+  },
+  "可爱": {
+    "pinyin": "kěài",
+    "freq_rank": 599,
+    "pos": "a",
+    "level": 2,
+    "meanings": [
+      "cute",
+      "amiable",
+      "lovely"
+    ]
+  },
+  "医院": {
+    "pinyin": "yīyuàn",
+    "freq_rank": 610,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "hospital"
+    ]
+  },
+  "真的": {
+    "pinyin": "zhēnde",
+    "freq_rank": 622,
+    "pos": "d",
+    "level": 2,
+    "meanings": [
+      "really",
+      "#"
+    ]
+  },
+  "打开": {
+    "pinyin": "dǎkāi",
+    "freq_rank": 652,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "open",
+      "to open",
+      "to show (a ticket)",
+      "to turn on",
+      "to switch on"
+    ]
+  },
+  "早上": {
+    "pinyin": "zǎoshang",
+    "freq_rank": 655,
+    "pos": "t",
+    "level": 2,
+    "meanings": [
+      "morning",
+      "early morning"
+    ]
+  },
+  "读": {
+    "pinyin": "dú",
+    "freq_rank": 686,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "read",
+      "comma",
+      "phrase marked by pause"
+    ]
+  },
+  "突然": {
+    "pinyin": "tūrán",
+    "freq_rank": 727,
+    "pos": "ad",
+    "level": 2,
+    "meanings": [
+      "suddenly",
+      "sudden",
+      "abrupt",
+      "unexpected"
+    ]
+  },
+  "每天": {
+    "pinyin": "měitiān",
+    "freq_rank": 768,
+    "pos": "r",
+    "level": 2,
+    "meanings": [
+      "every day",
+      "everyday"
+    ]
+  },
+  "回答": {
+    "pinyin": "huídá",
+    "freq_rank": 769,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "answer",
+      "to answer",
+      "to reply",
+      "the answer"
+    ]
+  },
+  "星期": {
+    "pinyin": "xīngqī",
+    "freq_rank": 812,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "week"
+    ]
+  },
+  "手机": {
+    "pinyin": "shǒujī",
+    "freq_rank": 857,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "mobile phone",
+      "phone",
+      "phones",
+      "cell phone",
+      "cellular phone"
+    ]
+  },
+  "猫": {
+    "pinyin": "māo",
+    "freq_rank": 884,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "cat"
+    ]
+  },
+  "后来": {
+    "pinyin": "hòulái",
+    "freq_rank": 1092,
+    "pos": "t",
+    "level": 2,
+    "meanings": [
+      "later",
+      "afterwards"
+    ]
+  },
+  "白": {
+    "pinyin": "bái",
+    "freq_rank": 1106,
+    "pos": "a",
+    "level": 2,
+    "meanings": [
+      "white",
+      "snowy",
+      "pure",
+      "bright",
+      "empty"
+    ]
+  },
+  "鱼": {
+    "pinyin": "yú",
+    "freq_rank": 1156,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "fish"
+    ]
+  },
+  "课": {
+    "pinyin": "kè",
+    "freq_rank": 1290,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "class",
+      "lesson",
+      "subject",
+      "course",
+      "CL:堂[tang2]"
+    ]
+  },
+  "旁边": {
+    "pinyin": "pángbiān",
+    "freq_rank": 1356,
+    "pos": "f",
+    "level": 2,
+    "meanings": [
+      "beside",
+      "lateral",
+      "side",
+      "to the side"
+    ]
+  },
+  "菜": {
+    "pinyin": "cài",
+    "freq_rank": 1421,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "dish",
+      "dish/food",
+      "dishes",
+      "food",
+      "vegetables",
+      "dish (type of food)",
+      "vegetable"
+    ]
+  },
+  "奶奶": {
+    "pinyin": "nǎinai",
+    "freq_rank": 1459,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "grandma",
+      "grandmother",
+      "(informal) father's mother"
+    ]
+  },
+  "爷爷": {
+    "pinyin": "yéye",
+    "freq_rank": 1663,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "grandfather",
+      "(informal) father's father"
+    ]
+  },
+  "天气": {
+    "pinyin": "tiānqì",
+    "freq_rank": 2014,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "weather"
+    ]
+  },
+  "茶": {
+    "pinyin": "chá",
+    "freq_rank": 2028,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "tea",
+      "tea plant"
+    ]
+  },
+  "同学": {
+    "pinyin": "tóngxué",
+    "freq_rank": 2388,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "classmate",
+      "(fellow) classmate"
+    ]
+  },
+  "读书": {
+    "pinyin": "dúshū",
+    "freq_rank": 3400,
+    "pos": "v",
+    "level": 2,
+    "meanings": [
+      "read",
+      "reading",
+      "study"
+    ]
+  },
+  "教室": {
+    "pinyin": "jiàoshì",
+    "freq_rank": 4934,
+    "pos": "n",
+    "level": 2,
+    "meanings": [
+      "classroom",
+      "classrooms"
+    ]
+  },
+  "中文": {
+    "pinyin": "Zhōngwén",
+    "freq_rank": 9436,
+    "pos": "nz",
+    "level": 2,
+    "meanings": [
+      "Chinese",
+      "Chinese written language",
+      "Chinese writing"
+    ]
+  },
+  "1985年": {
+    "pinyin": "yījiǔbāwǔ nián",
+    "freq_rank": null,
+    "pos": null,
+    "level": 2,
+    "meanings": [
+      "1985"
+    ]
+  },
+  "一位": {
+    "pinyin": "yīwèi",
+    "freq_rank": null,
+    "pos": null,
+    "level": 2,
+    "meanings": [
+      "one"
+    ]
+  },
+  "一次": {
+    "pinyin": "yīcì",
+    "freq_rank": null,
+    "pos": null,
+    "level": 2,
+    "meanings": [
+      "once"
+    ]
+  },
+  "三个月": {
+    "pinyin": "sāngèyuè",
+    "freq_rank": null,
+    "pos": null,
+    "level": 2,
+    "meanings": [
+      "three months"
+    ]
+  },
+  "学生们": {
+    "pinyin": "xuéshengmen",
+    "freq_rank": null,
+    "pos": null,
+    "level": 2,
+    "meanings": [
+      "students"
+    ]
+  },
+  "想着": {
+    "pinyin": "xiǎngzhe",
+    "freq_rank": null,
+    "pos": null,
+    "level": 2,
+    "meanings": [
+      "thinking"
+    ]
+  },
+  "想起来": {
+    "pinyin": "xiǎngqǐlái",
+    "freq_rank": null,
+    "pos": null,
+    "level": 2,
+    "meanings": [
+      "remembered"
+    ]
+  },
+  "有点儿": {
+    "pinyin": "yǒudiǎnr",
+    "freq_rank": null,
+    "pos": null,
+    "level": 2,
+    "meanings": [
+      "a little"
+    ]
+  },
+  "看不出来": {
+    "pinyin": "kànbùchūlái",
+    "freq_rank": null,
+    "pos": null,
+    "level": 2,
+    "meanings": [
+      "can't tell"
+    ]
+  },
+  "第一天": {
+    "pinyin": "dìyītiān",
+    "freq_rank": null,
+    "pos": null,
+    "level": 2,
+    "meanings": [
+      "first day"
+    ]
+  },
+  "第一次": {
+    "pinyin": "dìyīcì",
+    "freq_rank": null,
+    "pos": null,
+    "level": 2,
+    "meanings": [
+      "first time"
+    ]
+  },
+  "第二天": {
+    "pinyin": "dìèrtiān",
+    "freq_rank": null,
+    "pos": null,
+    "level": 2,
+    "meanings": [
+      "next day"
+    ]
+  },
+  "要不要": {
+    "pinyin": "yàobuyào",
+    "freq_rank": null,
+    "pos": null,
+    "level": 2,
+    "meanings": [
+      "want or not"
+    ]
+  },
+  "把": {
+    "pinyin": "bǎ",
+    "freq_rank": 40,
+    "pos": "p",
+    "level": 3,
+    "meanings": [
+      "(marker)",
+      "(object marker)",
+      "to hold",
+      "to contain",
+      "to grasp",
+      "to take hold of",
+      "a handle"
+    ]
+  },
+  "被": {
+    "pinyin": "bèi",
+    "freq_rank": 65,
+    "pos": "p",
+    "level": 3,
+    "meanings": [
+      "(passive marker)",
+      "by (indicates passive-voice sentences or clauses)",
+      "to cover",
+      "to wear"
+    ]
+  },
+  "而": {
+    "pinyin": "ér",
+    "freq_rank": 112,
+    "pos": "cc",
+    "level": 3,
+    "meanings": [
+      "and",
+      "instead of",
+      "as well as",
+      "and so",
+      "but (not)",
+      "yet (not)"
+    ]
+  },
+  "从来": {
+    "pinyin": "cónglái",
+    "freq_rank": 401,
+    "pos": "d",
+    "level": 3,
+    "meanings": [
+      "never",
+      "always",
+      "at all times",
+      "never (if used in negative sentence)"
+    ]
+  },
+  "总是": {
+    "pinyin": "zǒngshì",
+    "freq_rank": 402,
+    "pos": "d",
+    "level": 3,
+    "meanings": [
+      "always"
+    ]
+  },
+  "消息": {
+    "pinyin": "xiāoxi",
+    "freq_rank": 411,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "messages",
+      "news",
+      "information",
+      "CL:h潀条[tiao2]"
+    ]
+  },
+  "忙": {
+    "pinyin": "máng",
+    "freq_rank": 413,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "busy"
+    ]
+  },
+  "衣服": {
+    "pinyin": "yīfu",
+    "freq_rank": 420,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "clothes"
+    ]
+  },
+  "听说": {
+    "pinyin": "tīngshuō",
+    "freq_rank": 421,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "heard",
+      "to hear told"
+    ]
+  },
+  "办法": {
+    "pinyin": "bànfǎ",
+    "freq_rank": 424,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "way/solution",
+      "means",
+      "method",
+      "way (of doing sth)"
+    ]
+  },
+  "睡": {
+    "pinyin": "shuì",
+    "freq_rank": 425,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "sleep",
+      "to sleep"
+    ]
+  },
+  "选择": {
+    "pinyin": "xuǎnzé",
+    "freq_rank": 432,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "choice",
+      "choices",
+      "chose",
+      "to select",
+      "to pick",
+      "option",
+      "alternative"
+    ]
+  },
+  "原因": {
+    "pinyin": "yuányīn",
+    "freq_rank": 434,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "reason",
+      "cause",
+      "origin",
+      "root cause"
+    ]
+  },
+  "下去": {
+    "pinyin": "xiàqu",
+    "freq_rank": 435,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "down",
+      "down/finish",
+      "go down",
+      "to go down",
+      "to descend",
+      "to go on",
+      "to continue"
+    ]
+  },
+  "受": {
+    "pinyin": "shòu",
+    "freq_rank": 436,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "receive",
+      "to receive",
+      "to accept",
+      "to suffer",
+      "subjected to",
+      "to bear"
+    ]
+  },
+  "连": {
+    "pinyin": "lián",
+    "freq_rank": 437,
+    "pos": "u",
+    "level": 3,
+    "meanings": [
+      "even",
+      "surname Lian",
+      "as",
+      "join",
+      "to link"
+    ]
+  },
+  "水": {
+    "pinyin": "shuǐ",
+    "freq_rank": 443,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "water",
+      "river",
+      "surname Shui"
+    ]
+  },
+  "杯": {
+    "pinyin": "bēi",
+    "freq_rank": 445,
+    "pos": "q",
+    "level": 3,
+    "meanings": [
+      "(measure word)",
+      "cup",
+      "classifier for drinks: glass, cup"
+    ]
+  },
+  "信": {
+    "pinyin": "xìn",
+    "freq_rank": 449,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "letter",
+      "CL:封[feng1]",
+      "true",
+      "to believe",
+      "sign"
+    ]
+  },
+  "改变": {
+    "pinyin": "gǎibiàn",
+    "freq_rank": 451,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "change",
+      "to change",
+      "to alter",
+      "to transform"
+    ]
+  },
+  "麻烦": {
+    "pinyin": "máfan",
+    "freq_rank": 455,
+    "pos": "an",
+    "level": 3,
+    "meanings": [
+      "troublesome",
+      "trouble"
+    ]
+  },
+  "电影": {
+    "pinyin": "diànyǐng",
+    "freq_rank": 458,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "movie",
+      "film"
+    ]
+  },
+  "试": {
+    "pinyin": "shì",
+    "freq_rank": 459,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "tried",
+      "to test",
+      "to try",
+      "experiment",
+      "examination",
+      "test"
+    ]
+  },
+  "房间": {
+    "pinyin": "fángjiān",
+    "freq_rank": 461,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "room"
+    ]
+  },
+  "美": {
+    "pinyin": "měi",
+    "freq_rank": 462,
+    "pos": "b",
+    "level": 3,
+    "meanings": [
+      "beautiful",
+      "America"
+    ]
+  },
+  "忘": {
+    "pinyin": "wáng",
+    "freq_rank": 469,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "forget",
+      "to forget",
+      "to overlook",
+      "to neglect"
+    ]
+  },
+  "真正": {
+    "pinyin": "zhēnzhèng",
+    "freq_rank": 472,
+    "pos": "b",
+    "level": 3,
+    "meanings": [
+      "true",
+      "genuine",
+      "real",
+      "genuinely"
+    ]
+  },
+  "结果": {
+    "pinyin": "jiéguǒ",
+    "freq_rank": 473,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "results",
+      "to bear fruit"
+    ]
+  },
+  "其实": {
+    "pinyin": "qíshí",
+    "freq_rank": 476,
+    "pos": "d",
+    "level": 3,
+    "meanings": [
+      "actually",
+      "that is not the case",
+      "in fact",
+      "really"
+    ]
+  },
+  "进来": {
+    "pinyin": "jìnlái",
+    "freq_rank": 478,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "come in",
+      "to come in"
+    ]
+  },
+  "路": {
+    "pinyin": "lù",
+    "freq_rank": 479,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "road",
+      "path",
+      "way",
+      "surname Lu"
+    ]
+  },
+  "懂": {
+    "pinyin": "dǒng",
+    "freq_rank": 485,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "understand",
+      "to understand",
+      "to know"
+    ]
+  },
+  "正在": {
+    "pinyin": "zhèngzài",
+    "freq_rank": 501,
+    "pos": "d",
+    "level": 3,
+    "meanings": [
+      "currently",
+      "in the process of (doing something or happening)",
+      "while (doing)"
+    ]
+  },
+  "感到": {
+    "pinyin": "gǎndào",
+    "freq_rank": 506,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "feel",
+      "to feel",
+      "to sense",
+      "to have the feeling that",
+      "think that",
+      "to move"
+    ]
+  },
+  "远": {
+    "pinyin": "yuǎn",
+    "freq_rank": 508,
+    "pos": "a",
+    "level": 3,
+    "meanings": [
+      "far",
+      "distant",
+      "remote"
+    ]
+  },
+  "故事": {
+    "pinyin": "gùshi",
+    "freq_rank": 510,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "stories",
+      "story",
+      "old practice"
+    ]
+  },
+  "换": {
+    "pinyin": "huàn",
+    "freq_rank": 512,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "exchange",
+      "change"
+    ]
+  },
+  "结婚": {
+    "pinyin": "jiéhūn",
+    "freq_rank": 513,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "marry",
+      "to marry",
+      "to get married"
+    ]
+  },
+  "妻子": {
+    "pinyin": "qīzi",
+    "freq_rank": 518,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "wife"
+    ]
+  },
+  "段": {
+    "pinyin": "duàn",
+    "freq_rank": 522,
+    "pos": "q",
+    "level": 3,
+    "meanings": [
+      "(measure word)",
+      "surname Duan",
+      "paragraph",
+      "section",
+      "segment",
+      "stage (of a process)"
+    ]
+  },
+  "第二": {
+    "pinyin": "dìèr",
+    "freq_rank": 527,
+    "pos": "m",
+    "level": 3,
+    "meanings": [
+      "second",
+      "number two",
+      "next"
+    ]
+  },
+  "努力": {
+    "pinyin": "nǔlì",
+    "freq_rank": 528,
+    "pos": "ad",
+    "level": 3,
+    "meanings": [
+      "work hard",
+      "great effort",
+      "to strive",
+      "to try hard"
+    ]
+  },
+  "害怕": {
+    "pinyin": "hàipà",
+    "freq_rank": 529,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "fear",
+      "to be afraid",
+      "to be scared"
+    ]
+  },
+  "发": {
+    "pinyin": "fā",
+    "freq_rank": 531,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "post",
+      "send",
+      "to send out",
+      "to show (one's feeling)",
+      "to issue",
+      "to develop"
+    ]
+  },
+  "失去": {
+    "pinyin": "shīqù",
+    "freq_rank": 533,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "lose",
+      "to lose"
+    ]
+  },
+  "成功": {
+    "pinyin": "chénggōng",
+    "freq_rank": 535,
+    "pos": "a",
+    "level": 3,
+    "meanings": [
+      "success",
+      "successful",
+      "to succeed"
+    ]
+  },
+  "之间": {
+    "pinyin": "zhījiān",
+    "freq_rank": 542,
+    "pos": "f",
+    "level": 3,
+    "meanings": [
+      "between",
+      "among",
+      "inter-"
+    ]
+  },
+  "开心": {
+    "pinyin": "kāixīn",
+    "freq_rank": 545,
+    "pos": "a",
+    "level": 3,
+    "meanings": [
+      "happy",
+      "to feel happy",
+      "to rejoice",
+      "to have a great time",
+      "to make fun of sb"
+    ]
+  },
+  "母亲": {
+    "pinyin": "mǔqīn",
+    "freq_rank": 546,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "mother",
+      "also pr. with light tone [mu3 qin5]"
+    ]
+  },
+  "辆": {
+    "pinyin": "liàng",
+    "freq_rank": 547,
+    "pos": "q",
+    "level": 3,
+    "meanings": [
+      "(measure word)",
+      "classifier for vehicles"
+    ]
+  },
+  "句": {
+    "pinyin": "jù",
+    "freq_rank": 562,
+    "pos": "q",
+    "level": 3,
+    "meanings": [
+      "(measure word)",
+      "sentence",
+      "clause",
+      "phrase",
+      "classifier for phrases or lines of verse"
+    ]
+  },
+  "生命": {
+    "pinyin": "shēngmìng",
+    "freq_rank": 564,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "life",
+      "living",
+      "biological"
+    ]
+  },
+  "办公室": {
+    "pinyin": "bàngōngshì",
+    "freq_rank": 568,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "office"
+    ]
+  },
+  "奇怪": {
+    "pinyin": "qíguài",
+    "freq_rank": 571,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "strange",
+      "odd"
+    ]
+  },
+  "处": {
+    "pinyin": "chǔ",
+    "freq_rank": 586,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "place",
+      "to reside",
+      "to live",
+      "to dwell",
+      "to be in",
+      "to be situated at"
+    ]
+  },
+  "间": {
+    "pinyin": "jiān",
+    "freq_rank": 590,
+    "pos": "q",
+    "level": 3,
+    "meanings": [
+      "(measure word)",
+      "between",
+      "among",
+      "space",
+      "classifier for time intervals"
+    ]
+  },
+  "控制": {
+    "pinyin": "kòngzhì",
+    "freq_rank": 592,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "control",
+      "to exercise control over",
+      "to contain"
+    ]
+  },
+  "最近": {
+    "pinyin": "zuìjìn",
+    "freq_rank": 593,
+    "pos": "t",
+    "level": 3,
+    "meanings": [
+      "recently",
+      "recent",
+      "these days",
+      "latest",
+      "soon"
+    ]
+  },
+  "快乐": {
+    "pinyin": "kuàilè",
+    "freq_rank": 596,
+    "pos": "a",
+    "level": 3,
+    "meanings": [
+      "happy",
+      "merry"
+    ]
+  },
+  "偷": {
+    "pinyin": "tōu",
+    "freq_rank": 597,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "steal",
+      "to steal",
+      "to pilfer"
+    ]
+  },
+  "进入": {
+    "pinyin": "jìnrù",
+    "freq_rank": 600,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "enter",
+      "to enter",
+      "to join",
+      "to go into"
+    ]
+  },
+  "部": {
+    "pinyin": "bù",
+    "freq_rank": 607,
+    "pos": "q",
+    "level": 3,
+    "meanings": [
+      "(measure word)",
+      "ministry",
+      "department",
+      "section",
+      "part",
+      "division"
+    ]
+  },
+  "半": {
+    "pinyin": "bàn",
+    "freq_rank": 612,
+    "pos": "m",
+    "level": 3,
+    "meanings": [
+      "half",
+      "semi-",
+      "incomplete",
+      "(after a number) and a half"
+    ]
+  },
+  "上面": {
+    "pinyin": "shàngmian",
+    "freq_rank": 614,
+    "pos": "f",
+    "level": 3,
+    "meanings": [
+      "above",
+      "on it",
+      "on top of",
+      "above-mentioned"
+    ]
+  },
+  "样子": {
+    "pinyin": "yàngzi",
+    "freq_rank": 615,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "appearance",
+      "manner",
+      "air",
+      "looks",
+      "aspect"
+    ]
+  },
+  "少": {
+    "pinyin": "shǎo",
+    "freq_rank": 616,
+    "pos": "a",
+    "level": 3,
+    "meanings": [
+      "lack",
+      "few",
+      "little"
+    ]
+  },
+  "有趣": {
+    "pinyin": "yǒuqù",
+    "freq_rank": 617,
+    "pos": "a",
+    "level": 3,
+    "meanings": [
+      "interesting",
+      "fascinating",
+      "amusing"
+    ]
+  },
+  "部分": {
+    "pinyin": "bùfèn",
+    "freq_rank": 623,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "part",
+      "share",
+      "section",
+      "piece"
+    ]
+  },
+  "容易": {
+    "pinyin": "róngyì",
+    "freq_rank": 627,
+    "pos": "a",
+    "level": 3,
+    "meanings": [
+      "easy",
+      "likely",
+      "liable (to)"
+    ]
+  },
+  "保持": {
+    "pinyin": "bǎochí",
+    "freq_rank": 628,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "keep",
+      "keep/maintain",
+      "to keep",
+      "to maintain",
+      "to hold",
+      "to preserve"
+    ]
+  },
+  "虽然": {
+    "pinyin": "suīrán",
+    "freq_rank": 629,
+    "pos": "c",
+    "level": 3,
+    "meanings": [
+      "although",
+      "even though",
+      "even if"
+    ]
+  },
+  "教": {
+    "pinyin": "jiāo",
+    "freq_rank": 632,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "taught",
+      "teach"
+    ]
+  },
+  "理解": {
+    "pinyin": "lǐjiě",
+    "freq_rank": 633,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "understand",
+      "to comprehend",
+      "understanding",
+      "comprehension",
+      "to understand"
+    ]
+  },
+  "简单": {
+    "pinyin": "jiǎndān",
+    "freq_rank": 637,
+    "pos": "a",
+    "level": 3,
+    "meanings": [
+      "simple",
+      "not complicated"
+    ]
+  },
+  "不同": {
+    "pinyin": "bùtóng",
+    "freq_rank": 638,
+    "pos": "a",
+    "level": 3,
+    "meanings": [
+      "different",
+      "distinct",
+      "not the same",
+      "not alike"
+    ]
+  },
+  "秘密": {
+    "pinyin": "mìmì",
+    "freq_rank": 649,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "secret"
+    ]
+  },
+  "检查": {
+    "pinyin": "jiǎnchá",
+    "freq_rank": 654,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "examination",
+      "inspection",
+      "to examine",
+      "to inspect"
+    ]
+  },
+  "药": {
+    "pinyin": "yào",
+    "freq_rank": 674,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "medicine",
+      "drug",
+      "cure"
+    ]
+  },
+  "身体": {
+    "pinyin": "shēntǐ",
+    "freq_rank": 678,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "body",
+      "body/health",
+      "(human) body",
+      "health"
+    ]
+  },
+  "方式": {
+    "pinyin": "fāngshì",
+    "freq_rank": 681,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "way",
+      "way (of life)",
+      "pattern",
+      "style",
+      "mode",
+      "manner"
+    ]
+  },
+  "收到": {
+    "pinyin": "shōudào",
+    "freq_rank": 691,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "receive",
+      "receiving"
+    ]
+  },
+  "想法": {
+    "pinyin": "xiǎngfǎ",
+    "freq_rank": 694,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "thoughts",
+      "idea",
+      "train of thought",
+      "what sb is thinking",
+      "to think of a way (to do sth)"
+    ]
+  },
+  "家里": {
+    "pinyin": "jiālǐ",
+    "freq_rank": 696,
+    "pos": "s",
+    "level": 3,
+    "meanings": [
+      "at home",
+      "home"
+    ]
+  },
+  "照顾": {
+    "pinyin": "zhàogu",
+    "freq_rank": 713,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "caring for",
+      "take care",
+      "to take care of",
+      "to show consideration",
+      "to attend to",
+      "to look after"
+    ]
+  },
+  "聪明": {
+    "pinyin": "cōngming",
+    "freq_rank": 716,
+    "pos": "a",
+    "level": 3,
+    "meanings": [
+      "smart",
+      "acute (of sight and hearing)",
+      "clever",
+      "intelligent",
+      "bright"
+    ]
+  },
+  "甜": {
+    "pinyin": "tián",
+    "freq_rank": 719,
+    "pos": "a",
+    "level": 3,
+    "meanings": [
+      "sweet"
+    ]
+  },
+  "怕": {
+    "pinyin": "pà",
+    "freq_rank": 720,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "to fear",
+      "to be afraid"
+    ]
+  },
+  "直接": {
+    "pinyin": "zhíjiē",
+    "freq_rank": 723,
+    "pos": "ad",
+    "level": 3,
+    "meanings": [
+      "direct",
+      "opposite: indirect 间接",
+      "immediate",
+      "directly",
+      "straightforward"
+    ]
+  },
+  "声": {
+    "pinyin": "shēng",
+    "freq_rank": 729,
+    "pos": "qv",
+    "level": 3,
+    "meanings": [
+      "(measure word for sounds)",
+      "sound",
+      "voice",
+      "tone",
+      "noise",
+      "classifier for sounds"
+    ]
+  },
+  "付": {
+    "pinyin": "fù",
+    "freq_rank": 740,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "pay",
+      "to pay",
+      "to hand over to",
+      "surname Fu"
+    ]
+  },
+  "不再": {
+    "pinyin": "bùzài",
+    "freq_rank": 744,
+    "pos": "d",
+    "level": 3,
+    "meanings": [
+      "no longer",
+      "no more"
+    ]
+  },
+  "咖啡": {
+    "pinyin": "kāfēi",
+    "freq_rank": 746,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "coffee"
+    ]
+  },
+  "方法": {
+    "pinyin": "fāngfǎ",
+    "freq_rank": 751,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "method",
+      "way",
+      "means"
+    ]
+  },
+  "口": {
+    "pinyin": "kǒu",
+    "freq_rank": 758,
+    "pos": "q",
+    "level": 3,
+    "meanings": [
+      "(measure word)",
+      "mouth"
+    ]
+  },
+  "精神": {
+    "pinyin": "jīngshen",
+    "freq_rank": 763,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "spirit",
+      "mind",
+      "consciousness",
+      "thought",
+      "mental"
+    ]
+  },
+  "放松": {
+    "pinyin": "fàngsōng",
+    "freq_rank": 765,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "relaxed",
+      "to loosen",
+      "to relax"
+    ]
+  },
+  "休息": {
+    "pinyin": "xiūxi",
+    "freq_rank": 767,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "break",
+      "rest",
+      "to rest"
+    ]
+  },
+  "睡觉": {
+    "pinyin": "shuìjiào",
+    "freq_rank": 779,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "sleep",
+      "sleeping",
+      "to go to bed",
+      "to go to sleep"
+    ]
+  },
+  "戴": {
+    "pinyin": "dài",
+    "freq_rank": 784,
+    "pos": "v",
+    "level": 3,
+    "meanings": [
+      "wearing",
+      "to put on",
+      "to respect",
+      "to bear",
+      "to support",
+      "wear (glasses, hat, gloves)"
+    ]
+  },
+  "错误": {
+    "pinyin": "cuòwù",
+    "freq_rank": 787,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "mistake",
+      "mistakes",
+      "wrong",
+      "error",
+      "mistaken"
+    ]
+  },
+  "随便": {
+    "pinyin": "suíbiàn",
+    "freq_rank": 789,
+    "pos": "ad",
+    "level": 3,
+    "meanings": [
+      "casually",
+      "as one wishes",
+      "as one pleases",
+      "willful",
+      "at random",
+      "casual"
+    ]
+  },
+  "兴趣": {
+    "pinyin": "xìngqu",
+    "freq_rank": 795,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "interest"
+    ]
+  },
+  "信息": {
+    "pinyin": "xìnxī",
+    "freq_rank": 843,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "messages",
+      "information",
+      "news",
+      "message"
+    ]
+  },
+  "邻居": {
+    "pinyin": "línjū",
+    "freq_rank": 1521,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "neighbor",
+      "neighbors",
+      "next door"
+    ]
+  },
+  "午饭": {
+    "pinyin": "wǔfàn",
+    "freq_rank": 1843,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "lunch"
+    ]
+  },
+  "地图": {
+    "pinyin": "dìtú",
+    "freq_rank": 2082,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "map"
+    ]
+  },
+  "眼镜": {
+    "pinyin": "yǎnjìng",
+    "freq_rank": 2856,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "glasses",
+      "spectacles",
+      "eyeglasses",
+      "CL:副[fu4]"
+    ]
+  },
+  "自行车": {
+    "pinyin": "zìxíngchē",
+    "freq_rank": 3121,
+    "pos": "n",
+    "level": 3,
+    "meanings": [
+      "bicycle",
+      "bicycles",
+      "bike"
+    ]
+  },
+  "交通工具": {
+    "pinyin": "jiāotōng gōngjù",
+    "freq_rank": null,
+    "pos": null,
+    "level": 3,
+    "meanings": [
+      "transportation"
+    ]
+  },
+  "几个": {
+    "pinyin": "jǐgè",
+    "freq_rank": null,
+    "pos": null,
+    "level": 3,
+    "meanings": [
+      "several"
+    ]
+  },
+  "另一个": {
+    "pinyin": "lìngyīgè",
+    "freq_rank": null,
+    "pos": null,
+    "level": 3,
+    "meanings": [
+      "another"
+    ]
+  },
+  "带着": {
+    "pinyin": "dàizhe",
+    "freq_rank": null,
+    "pos": null,
+    "level": 3,
+    "meanings": [
+      "bring",
+      "carry"
+    ]
+  },
+  "很少": {
+    "pinyin": "hěnshǎo",
+    "freq_rank": null,
+    "pos": null,
+    "level": 3,
+    "meanings": [
+      "rarely"
+    ]
+  },
+  "经历": {
+    "pinyin": "jīnglì",
+    "freq_rank": 801,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "experience",
+      "go through"
+    ]
+  },
+  "六": {
+    "pinyin": "liù",
+    "freq_rank": 802,
+    "pos": "m",
+    "level": 4,
+    "meanings": [
+      "six",
+      "6"
+    ]
+  },
+  "生气": {
+    "pinyin": "shēngqì",
+    "freq_rank": 816,
+    "pos": "a",
+    "level": 4,
+    "meanings": [
+      "angry",
+      "mad",
+      "offended",
+      "animated",
+      "to get angry"
+    ]
+  },
+  "哭": {
+    "pinyin": "kū",
+    "freq_rank": 820,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "cry",
+      "crying",
+      "to cry",
+      "to weep"
+    ]
+  },
+  "线": {
+    "pinyin": "xiàn",
+    "freq_rank": 827,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "line",
+      "thread",
+      "string",
+      "wire"
+    ]
+  },
+  "年轻": {
+    "pinyin": "niánqīng",
+    "freq_rank": 830,
+    "pos": "a",
+    "level": 4,
+    "meanings": [
+      "young"
+    ]
+  },
+  "手术": {
+    "pinyin": "shǒushù",
+    "freq_rank": 848,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "surgery",
+      "surgical operation",
+      "operation"
+    ]
+  },
+  "身边": {
+    "pinyin": "shēnbiān",
+    "freq_rank": 849,
+    "pos": "s",
+    "level": 4,
+    "meanings": [
+      "around",
+      "at one's side"
+    ]
+  },
+  "痛苦": {
+    "pinyin": "tòngkǔ",
+    "freq_rank": 855,
+    "pos": "an",
+    "level": 4,
+    "meanings": [
+      "painful",
+      "pain",
+      "suffering"
+    ]
+  },
+  "忘记": {
+    "pinyin": "wàngjì",
+    "freq_rank": 858,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "forgot",
+      "to forget"
+    ]
+  },
+  "交": {
+    "pinyin": "jiāo",
+    "freq_rank": 863,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "make",
+      "to deliver",
+      "to turn over",
+      "to make friends",
+      "to intersect (lines)",
+      "to pay (money)"
+    ]
+  },
+  "十": {
+    "pinyin": "shí",
+    "freq_rank": 865,
+    "pos": "m",
+    "level": 4,
+    "meanings": [
+      "ten",
+      "10"
+    ]
+  },
+  "搬": {
+    "pinyin": "bān",
+    "freq_rank": 867,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "move",
+      "to move",
+      "to shift",
+      "to remove",
+      "to transport",
+      "fig. to apply indiscriminately"
+    ]
+  },
+  "意义": {
+    "pinyin": "yìyì",
+    "freq_rank": 871,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "meaning",
+      "significance"
+    ]
+  },
+  "楼": {
+    "pinyin": "lóu",
+    "freq_rank": 872,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "buildings",
+      "house with more than 1 story",
+      "storied building",
+      "floor"
+    ]
+  },
+  "火": {
+    "pinyin": "huǒ",
+    "freq_rank": 882,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "popular",
+      "fire"
+    ]
+  },
+  "到处": {
+    "pinyin": "dàochù",
+    "freq_rank": 887,
+    "pos": "d",
+    "level": 4,
+    "meanings": [
+      "everywhere",
+      "in all places"
+    ]
+  },
+  "跳舞": {
+    "pinyin": "tiàowǔ",
+    "freq_rank": 897,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "dance",
+      "dancing",
+      "to dance"
+    ]
+  },
+  "病人": {
+    "pinyin": "bìngrén",
+    "freq_rank": 907,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "patient",
+      "sick person",
+      "[medical] patient",
+      "invalid"
+    ]
+  },
+  "吓": {
+    "pinyin": "xià",
+    "freq_rank": 910,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "scared",
+      "to frighten",
+      "to scare",
+      "to intimidate",
+      "to threaten"
+    ]
+  },
+  "见面": {
+    "pinyin": "jiànmiàn",
+    "freq_rank": 921,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "meet",
+      "to meet",
+      "to see sb"
+    ]
+  },
+  "城市": {
+    "pinyin": "chéngshì",
+    "freq_rank": 923,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "cities",
+      "city",
+      "town",
+      "CL:座[zuo4]"
+    ]
+  },
+  "老板": {
+    "pinyin": "lǎobǎn",
+    "freq_rank": 924,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "boss",
+      "owner",
+      "business proprietor"
+    ]
+  },
+  "中心": {
+    "pinyin": "zhōngxīn",
+    "freq_rank": 935,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "center",
+      "heart",
+      "core"
+    ]
+  },
+  "满": {
+    "pinyin": "mǎn",
+    "freq_rank": 938,
+    "pos": "a",
+    "level": 4,
+    "meanings": [
+      "full",
+      "filled",
+      "packed",
+      "fully",
+      "completely"
+    ]
+  },
+  "附近": {
+    "pinyin": "fùjìn",
+    "freq_rank": 943,
+    "pos": "f",
+    "level": 4,
+    "meanings": [
+      "nearby",
+      "(in the) vicinity",
+      "neighboring",
+      "next to"
+    ]
+  },
+  "答应": {
+    "pinyin": "dāying",
+    "freq_rank": 953,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "agreed",
+      "to reply",
+      "to respond",
+      "to promise",
+      "to agree"
+    ]
+  },
+  "号码": {
+    "pinyin": "hàomǎ",
+    "freq_rank": 970,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "number"
+    ]
+  },
+  "日子": {
+    "pinyin": "rìzi",
+    "freq_rank": 971,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "days",
+      "day",
+      "a (calendar) date",
+      "days of one's life"
+    ]
+  },
+  "哪个": {
+    "pinyin": "nǎge",
+    "freq_rank": 973,
+    "pos": "r",
+    "level": 4,
+    "meanings": [
+      "which",
+      "who"
+    ]
+  },
+  "享受": {
+    "pinyin": "xiǎngshòu",
+    "freq_rank": 978,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "enjoy",
+      "to enjoy (rights, benefits etc)"
+    ]
+  },
+  "认真": {
+    "pinyin": "rènzhēn",
+    "freq_rank": 990,
+    "pos": "a",
+    "level": 4,
+    "meanings": [
+      "earnestly",
+      "earnest",
+      "serious",
+      "to take seriously",
+      "to take to heart"
+    ]
+  },
+  "有意思": {
+    "pinyin": "yǒuyìsi",
+    "freq_rank": 998,
+    "pos": "l",
+    "level": 4,
+    "meanings": [
+      "interesting",
+      "meaningful",
+      "enjoyable",
+      "fun"
+    ]
+  },
+  "原来": {
+    "pinyin": "yuánlái",
+    "freq_rank": 1006,
+    "pos": "d",
+    "level": 4,
+    "meanings": [
+      "turns out",
+      "original",
+      "former",
+      "originally",
+      "formerly",
+      "at first"
+    ]
+  },
+  "讨论": {
+    "pinyin": "tǎolùn",
+    "freq_rank": 1011,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "discuss",
+      "to discuss",
+      "to talk over"
+    ]
+  },
+  "安静": {
+    "pinyin": "ānjìng",
+    "freq_rank": 1016,
+    "pos": "a",
+    "level": 4,
+    "meanings": [
+      "quietly",
+      "quiet",
+      "peaceful",
+      "calm"
+    ]
+  },
+  "饿": {
+    "pinyin": "è",
+    "freq_rank": 1021,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "hungry",
+      "to be hungry"
+    ]
+  },
+  "仍然": {
+    "pinyin": "réngrán",
+    "freq_rank": 1028,
+    "pos": "d",
+    "level": 4,
+    "meanings": [
+      "still",
+      "yet"
+    ]
+  },
+  "动作": {
+    "pinyin": "dòngzuò",
+    "freq_rank": 1029,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "movements",
+      "movement",
+      "motion",
+      "action"
+    ]
+  },
+  "追": {
+    "pinyin": "zhuī",
+    "freq_rank": 1030,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "chase",
+      "to pursue (a problem)",
+      "to chase"
+    ]
+  },
+  "群": {
+    "pinyin": "qún",
+    "freq_rank": 1034,
+    "pos": "q",
+    "level": 4,
+    "meanings": [
+      "group",
+      "crowd",
+      "flock"
+    ]
+  },
+  "约": {
+    "pinyin": "yuē",
+    "freq_rank": 1038,
+    "pos": "d",
+    "level": 4,
+    "meanings": [
+      "arranged",
+      "weigh"
+    ]
+  },
+  "慢": {
+    "pinyin": "màn",
+    "freq_rank": 1042,
+    "pos": "a",
+    "level": 4,
+    "meanings": [
+      "slowly",
+      "slow"
+    ]
+  },
+  "家人": {
+    "pinyin": "jiārén",
+    "freq_rank": 1045,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "family",
+      "household",
+      "(one's) family"
+    ]
+  },
+  "拒绝": {
+    "pinyin": "jùjué",
+    "freq_rank": 1046,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "refuse",
+      "to refuse",
+      "to decline",
+      "to reject"
+    ]
+  },
+  "真实": {
+    "pinyin": "zhēnshí",
+    "freq_rank": 1050,
+    "pos": "a",
+    "level": 4,
+    "meanings": [
+      "authentic",
+      "true",
+      "real"
+    ]
+  },
+  "人生": {
+    "pinyin": "rénshēng",
+    "freq_rank": 1054,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "life"
+    ]
+  },
+  "夜": {
+    "pinyin": "yè",
+    "freq_rank": 1059,
+    "pos": "tg",
+    "level": 4,
+    "meanings": [
+      "night"
+    ]
+  },
+  "舞蹈": {
+    "pinyin": "wǔdǎo",
+    "freq_rank": 1062,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "dance"
+    ]
+  },
+  "梦想": {
+    "pinyin": "mèngxiǎng",
+    "freq_rank": 1072,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "dreams",
+      "to dream of",
+      "to hope in vain"
+    ]
+  },
+  "副": {
+    "pinyin": "fù",
+    "freq_rank": 1083,
+    "pos": "b",
+    "level": 4,
+    "meanings": [
+      "(measure word)",
+      "secondary",
+      "auxiliary",
+      "deputy",
+      "assistant",
+      "vice-"
+    ]
+  },
+  "无论": {
+    "pinyin": "wúlùn",
+    "freq_rank": 1089,
+    "pos": "c",
+    "level": 4,
+    "meanings": [
+      "no matter",
+      "no matter what or how",
+      "regardless of whether..."
+    ]
+  },
+  "公寓": {
+    "pinyin": "gōngyù",
+    "freq_rank": 1102,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "apartment"
+    ]
+  },
+  "听见": {
+    "pinyin": "tīngjiàn",
+    "freq_rank": 1129,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "hear"
+    ]
+  },
+  "舒服": {
+    "pinyin": "shūfu",
+    "freq_rank": 1131,
+    "pos": "a",
+    "level": 4,
+    "meanings": [
+      "comfortable",
+      "feeling well"
+    ]
+  },
+  "意外": {
+    "pinyin": "yìwài",
+    "freq_rank": 1137,
+    "pos": "a",
+    "level": 4,
+    "meanings": [
+      "unexpectedly",
+      "unexpected",
+      "accident",
+      "mishap"
+    ]
+  },
+  "食物": {
+    "pinyin": "shíwù",
+    "freq_rank": 1142,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "food"
+    ]
+  },
+  "正是": {
+    "pinyin": "zhēng",
+    "freq_rank": 1149,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "exactly",
+      "#"
+    ]
+  },
+  "压力": {
+    "pinyin": "yālì",
+    "freq_rank": 1152,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "pressure"
+    ]
+  },
+  "味道": {
+    "pinyin": "wèidào",
+    "freq_rank": 1153,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "taste",
+      "flavor"
+    ]
+  },
+  "室": {
+    "pinyin": "shì",
+    "freq_rank": 1158,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "room"
+    ]
+  },
+  "疼": {
+    "pinyin": "téng",
+    "freq_rank": 1177,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "hurt",
+      "(it) hurts",
+      "love fondly",
+      "ache",
+      "pain",
+      "sore"
+    ]
+  },
+  "有时候": {
+    "pinyin": "yǒushíhou",
+    "freq_rank": 1189,
+    "pos": "d",
+    "level": 4,
+    "meanings": [
+      "sometimes"
+    ]
+  },
+  "城": {
+    "pinyin": "chéng",
+    "freq_rank": 1197,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "city",
+      "city walls",
+      "town"
+    ]
+  },
+  "迟到": {
+    "pinyin": "chídào",
+    "freq_rank": 1206,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "be late",
+      "to arrive late"
+    ]
+  },
+  "路上": {
+    "pinyin": "lùshang",
+    "freq_rank": 1212,
+    "pos": "s",
+    "level": 4,
+    "meanings": [
+      "on the road",
+      "on a journey",
+      "road surface"
+    ]
+  },
+  "汽车": {
+    "pinyin": "qìchē",
+    "freq_rank": 1223,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "cars",
+      "car",
+      "automobile",
+      "bus"
+    ]
+  },
+  "历史": {
+    "pinyin": "lìshǐ",
+    "freq_rank": 1243,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "history"
+    ]
+  },
+  "深": {
+    "pinyin": "shēn",
+    "freq_rank": 1244,
+    "pos": "a",
+    "level": 4,
+    "meanings": [
+      "deep",
+      "profound"
+    ]
+  },
+  "经过": {
+    "pinyin": "jīngguò",
+    "freq_rank": 1266,
+    "pos": "p",
+    "level": 4,
+    "meanings": [
+      "after",
+      "pass through",
+      "to pass",
+      "to go through",
+      "process",
+      "course"
+    ]
+  },
+  "充满": {
+    "pinyin": "chōngmǎn",
+    "freq_rank": 1275,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "full of",
+      "brimming with",
+      "very full",
+      "permeated"
+    ]
+  },
+  "躺": {
+    "pinyin": "tǎng",
+    "freq_rank": 1295,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "lie",
+      "to recline",
+      "to lie down"
+    ]
+  },
+  "越来越": {
+    "pinyin": "yuèláiyuè",
+    "freq_rank": 1296,
+    "pos": "d",
+    "level": 4,
+    "meanings": [
+      "more and more"
+    ]
+  },
+  "公园": {
+    "pinyin": "gōngyuán",
+    "freq_rank": 1301,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "park",
+      "public park"
+    ]
+  },
+  "幸福": {
+    "pinyin": "xìngfú",
+    "freq_rank": 1327,
+    "pos": "a",
+    "level": 4,
+    "meanings": [
+      "happy/blessed",
+      "blessed",
+      "happiness",
+      "happy"
+    ]
+  },
+  "树": {
+    "pinyin": "shù",
+    "freq_rank": 1328,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "tree"
+    ]
+  },
+  "接着": {
+    "pinyin": "jiēzhe",
+    "freq_rank": 1329,
+    "pos": "c",
+    "level": 4,
+    "meanings": [
+      "next",
+      "to catch and hold on",
+      "to continue",
+      "to go on to do sth",
+      "to follow",
+      "to carry on"
+    ]
+  },
+  "技术": {
+    "pinyin": "jìshù",
+    "freq_rank": 1335,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "technology",
+      "technique",
+      "skill"
+    ]
+  },
+  "传": {
+    "pinyin": "chuán",
+    "freq_rank": 1337,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "pass down",
+      "to pass on",
+      "to spread",
+      "to transmit",
+      "to infect",
+      "to transfer"
+    ]
+  },
+  "困难": {
+    "pinyin": "kùnnan",
+    "freq_rank": 1338,
+    "pos": "a",
+    "level": 4,
+    "meanings": [
+      "difficult",
+      "difficulty",
+      "(financial etc) difficulty",
+      "problem",
+      "issue"
+    ]
+  },
+  "记忆": {
+    "pinyin": "jìyì",
+    "freq_rank": 1341,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "memories",
+      "memory",
+      "remember"
+    ]
+  },
+  "提醒": {
+    "pinyin": "tíxǐng",
+    "freq_rank": 1349,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "remind",
+      "to remind",
+      "to call attention to",
+      "to warn of"
+    ]
+  },
+  "而是": {
+    "pinyin": "érshì",
+    "freq_rank": 1360,
+    "pos": "c",
+    "level": 4,
+    "meanings": [
+      "but rather",
+      "rather"
+    ]
+  },
+  "八": {
+    "pinyin": "bā",
+    "freq_rank": 1362,
+    "pos": "m",
+    "level": 4,
+    "meanings": [
+      "eight",
+      "8"
+    ]
+  },
+  "王": {
+    "pinyin": "wáng",
+    "freq_rank": 1381,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "Wang",
+      "king",
+      "surname Wang"
+    ]
+  },
+  "对方": {
+    "pinyin": "duìfāng",
+    "freq_rank": 1386,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "other party",
+      "counterpart",
+      "other person involved",
+      "opposite side",
+      "other side",
+      "receiving party"
+    ]
+  },
+  "许多": {
+    "pinyin": "xǔduō",
+    "freq_rank": 1400,
+    "pos": "m",
+    "level": 4,
+    "meanings": [
+      "many",
+      "a lot of",
+      "much"
+    ]
+  },
+  "顺利": {
+    "pinyin": "shùnlì",
+    "freq_rank": 1411,
+    "pos": "a",
+    "level": 4,
+    "meanings": [
+      "smoothly",
+      "without a hitch"
+    ]
+  },
+  "七": {
+    "pinyin": "qī",
+    "freq_rank": 1419,
+    "pos": "m",
+    "level": 4,
+    "meanings": [
+      "seven",
+      "7"
+    ]
+  },
+  "改": {
+    "pinyin": "gǎi",
+    "freq_rank": 1422,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "changed",
+      "to change",
+      "to alter",
+      "to transform",
+      "to correct"
+    ]
+  },
+  "运动": {
+    "pinyin": "yùndòng",
+    "freq_rank": 1446,
+    "pos": "vn",
+    "level": 4,
+    "meanings": [
+      "sports",
+      "movement",
+      "CL: X4[chang3]",
+      "campaign"
+    ]
+  },
+  "会议": {
+    "pinyin": "huìyì",
+    "freq_rank": 1449,
+    "pos": "n",
+    "level": 4,
+    "meanings": [
+      "meeting",
+      "conference"
+    ]
+  },
+  "爬": {
+    "pinyin": "pá",
+    "freq_rank": 1451,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "climb",
+      "to crawl",
+      "to climb"
+    ]
+  },
+  "显示": {
+    "pinyin": "xiǎnshì",
+    "freq_rank": 1453,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "show",
+      "to show",
+      "to illustrate",
+      "to display",
+      "to demonstrate"
+    ]
+  },
+  "配": {
+    "pinyin": "pèi",
+    "freq_rank": 1460,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "with",
+      "to join",
+      "to fit",
+      "to mate",
+      "to mix",
+      "to match"
+    ]
+  },
+  "等待": {
+    "pinyin": "děngdài",
+    "freq_rank": 1463,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "waiting",
+      "wait for",
+      "await"
+    ]
+  },
+  "去年": {
+    "pinyin": "qùnián",
+    "freq_rank": 1469,
+    "pos": "t",
+    "level": 4,
+    "meanings": [
+      "last year"
+    ]
+  },
+  "聊": {
+    "pinyin": "liáo",
+    "freq_rank": 1477,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "chat",
+      "to chat",
+      "to have a chat",
+      "to kill time"
+    ]
+  },
+  "想起": {
+    "pinyin": "xiǎngqǐ",
+    "freq_rank": 1488,
+    "pos": "v",
+    "level": 4,
+    "meanings": [
+      "remember",
+      "to recall",
+      "to think of",
+      "to call to mind"
+    ]
+  },
+  "1950": {
+    "pinyin": "yī jiǔ wǔ líng",
+    "freq_rank": null,
+    "pos": null,
+    "level": 4,
+    "meanings": [
+      "1950"
+    ]
+  },
+  "孩子们": {
+    "pinyin": "háizimen",
+    "freq_rank": null,
+    "pos": null,
+    "level": 4,
+    "meanings": [
+      "children"
+    ]
+  },
+  "很久": {
+    "pinyin": "hěnjiǔ",
+    "freq_rank": null,
+    "pos": null,
+    "level": 4,
+    "meanings": [
+      "long time"
+    ]
+  },
+  "群里": {
+    "pinyin": "qúnlǐ",
+    "freq_rank": null,
+    "pos": null,
+    "level": 4,
+    "meanings": [
+      "group"
+    ]
+  },
+  "观察者": {
+    "pinyin": "guāncházhě",
+    "freq_rank": null,
+    "pos": null,
+    "level": 4,
+    "meanings": [
+      "observer"
+    ]
+  },
+  "送回": {
+    "pinyin": "sònghuí",
+    "freq_rank": null,
+    "pos": null,
+    "level": 4,
+    "meanings": [
+      "return"
+    ]
+  },
+  "食材": {
+    "pinyin": "shícái",
+    "freq_rank": null,
+    "pos": null,
+    "level": 4,
+    "meanings": [
+      "ingredients"
+    ]
+  },
+  "急": {
+    "pinyin": "jí",
+    "freq_rank": 1505,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "hurry",
+      "urgent",
+      "pressing",
+      "rapid",
+      "hurried",
+      "worried"
+    ]
+  },
+  "慢慢": {
+    "pinyin": "mànmàn",
+    "freq_rank": 1512,
+    "pos": "d",
+    "level": 5,
+    "meanings": [
+      "slowly"
+    ]
+  },
+  "饭": {
+    "pinyin": "fàn",
+    "freq_rank": 1515,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "food",
+      "cuisine",
+      "cooked rice",
+      "meal"
+    ]
+  },
+  "今年": {
+    "pinyin": "jīnnián",
+    "freq_rank": 1522,
+    "pos": "t",
+    "level": 5,
+    "meanings": [
+      "this year"
+    ]
+  },
+  "心里": {
+    "pinyin": "xīnli",
+    "freq_rank": 1524,
+    "pos": "s",
+    "level": 5,
+    "meanings": [
+      "heart",
+      "in one's heart and mind"
+    ]
+  },
+  "长大": {
+    "pinyin": "zhǎngdà",
+    "freq_rank": 1531,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "grow up",
+      "to grow up"
+    ]
+  },
+  "表情": {
+    "pinyin": "biǎoqíng",
+    "freq_rank": 1541,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "emoji",
+      "emojis",
+      "expression",
+      "(facial) expression",
+      "to express one's feelings"
+    ]
+  },
+  "普通": {
+    "pinyin": "pǔtōng",
+    "freq_rank": 1550,
+    "pos": "a",
+    "level": 5,
+    "meanings": [
+      "ordinary",
+      "common",
+      "general",
+      "average"
+    ]
+  },
+  "出生": {
+    "pinyin": "chūshēng",
+    "freq_rank": 1555,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "born",
+      "to be born"
+    ]
+  },
+  "轻松": {
+    "pinyin": "qīngsōng",
+    "freq_rank": 1562,
+    "pos": "a",
+    "level": 5,
+    "meanings": [
+      "relaxed",
+      "gentle"
+    ]
+  },
+  "赶快": {
+    "pinyin": "gǎnkuài",
+    "freq_rank": 1587,
+    "pos": "d",
+    "level": 5,
+    "meanings": [
+      "quickly",
+      "at once",
+      "immediately"
+    ]
+  },
+  "风格": {
+    "pinyin": "fēnggé",
+    "freq_rank": 1594,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "style"
+    ]
+  },
+  "机器": {
+    "pinyin": "jīqì",
+    "freq_rank": 1600,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "machines",
+      "machine"
+    ]
+  },
+  "颜色": {
+    "pinyin": "yánsè",
+    "freq_rank": 1603,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "color"
+    ]
+  },
+  "辣": {
+    "pinyin": "là",
+    "freq_rank": 1615,
+    "pos": "a",
+    "level": 5,
+    "meanings": [
+      "spicy",
+      "hot (spicy)",
+      "pungent"
+    ]
+  },
+  "互相": {
+    "pinyin": "hùxiāng",
+    "freq_rank": 1616,
+    "pos": "d",
+    "level": 5,
+    "meanings": [
+      "each other",
+      "mutually",
+      "mutual"
+    ]
+  },
+  "切": {
+    "pinyin": "qiē",
+    "freq_rank": 1617,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "cut",
+      "to cut",
+      "to slice"
+    ]
+  },
+  "过程": {
+    "pinyin": "guòchéng",
+    "freq_rank": 1630,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "process",
+      "course of events"
+    ]
+  },
+  "命运": {
+    "pinyin": "mìngyùn",
+    "freq_rank": 1642,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "fate",
+      "destiny"
+    ]
+  },
+  "桌子": {
+    "pinyin": "zhuōzi",
+    "freq_rank": 1651,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "table",
+      "desk"
+    ]
+  },
+  "练习": {
+    "pinyin": "liànxí",
+    "freq_rank": 1654,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "practice",
+      "exercise",
+      "drill"
+    ]
+  },
+  "厨房": {
+    "pinyin": "chúfáng",
+    "freq_rank": 1664,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "kitchen"
+    ]
+  },
+  "特殊": {
+    "pinyin": "tèshū",
+    "freq_rank": 1666,
+    "pos": "a",
+    "level": 5,
+    "meanings": [
+      "special",
+      "particular",
+      "unusual",
+      "extraordinary"
+    ]
+  },
+  "年代": {
+    "pinyin": "niándài",
+    "freq_rank": 1673,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "era",
+      "a decade of a century (e.g. the Sixties)",
+      "age",
+      "period"
+    ]
+  },
+  "心情": {
+    "pinyin": "xīnqíng",
+    "freq_rank": 1676,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "mood",
+      "frame of mind"
+    ]
+  },
+  "难过": {
+    "pinyin": "nánguò",
+    "freq_rank": 1677,
+    "pos": "a",
+    "level": 5,
+    "meanings": [
+      "sad",
+      "feel sorry",
+      "be grieved"
+    ]
+  },
+  "作品": {
+    "pinyin": "zuòpǐn",
+    "freq_rank": 1703,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "works",
+      "works (of art)"
+    ]
+  },
+  "去世": {
+    "pinyin": "qùshì",
+    "freq_rank": 1710,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "pass away",
+      "to pass away",
+      "to die"
+    ]
+  },
+  "火车": {
+    "pinyin": "huǒchē",
+    "freq_rank": 1739,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "train"
+    ]
+  },
+  "旧": {
+    "pinyin": "jiù",
+    "freq_rank": 1742,
+    "pos": "a",
+    "level": 5,
+    "meanings": [
+      "old",
+      "old/worn",
+      "opposite: new 新",
+      "former"
+    ]
+  },
+  "年轻人": {
+    "pinyin": "niánqīngrén",
+    "freq_rank": 1759,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "young people",
+      "young person"
+    ]
+  },
+  "脸上": {
+    "pinyin": "liǎnshǎng",
+    "freq_rank": 1760,
+    "pos": "s",
+    "level": 5,
+    "meanings": [
+      "on faces",
+      "#"
+    ]
+  },
+  "主人": {
+    "pinyin": "zhǔrén",
+    "freq_rank": 1761,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "owner",
+      "master",
+      "host"
+    ]
+  },
+  "箱子": {
+    "pinyin": "xiāngzi",
+    "freq_rank": 1767,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "suitcase",
+      "chest",
+      "box",
+      "case",
+      "trunk"
+    ]
+  },
+  "红色": {
+    "pinyin": "hóngsè",
+    "freq_rank": 1777,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "red",
+      "red (color)",
+      "revolutionary"
+    ]
+  },
+  "油": {
+    "pinyin": "yóu",
+    "freq_rank": 1782,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "oil",
+      "sly"
+    ]
+  },
+  "想念": {
+    "pinyin": "xiǎngniàn",
+    "freq_rank": 1787,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "miss",
+      "remember with longing",
+      "long to see again"
+    ]
+  },
+  "炒": {
+    "pinyin": "chǎo",
+    "freq_rank": 1809,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "stir-fry",
+      "saute",
+      "pan-fry",
+      "to fry",
+      "fried"
+    ]
+  },
+  "艺术": {
+    "pinyin": "yìshù",
+    "freq_rank": 1822,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "art"
+    ]
+  },
+  "骑": {
+    "pinyin": "qí",
+    "freq_rank": 1839,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "ride",
+      "riding",
+      "rode",
+      "to ride (an animal or bike)",
+      "to sit astride"
+    ]
+  },
+  "优秀": {
+    "pinyin": "yōuxiù",
+    "freq_rank": 1846,
+    "pos": "a",
+    "level": 5,
+    "meanings": [
+      "excellent",
+      "outstanding"
+    ]
+  },
+  "响": {
+    "pinyin": "xiǎng",
+    "freq_rank": 1855,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "ring",
+      "ring/sound",
+      "to make a sound",
+      "to sound",
+      "to ring",
+      "loud",
+      "classifier for noises"
+    ]
+  },
+  "道理": {
+    "pinyin": "dàolǐ",
+    "freq_rank": 1867,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "principle",
+      "reason",
+      "argument",
+      "sense",
+      "basis"
+    ]
+  },
+  "同事": {
+    "pinyin": "tóngshì",
+    "freq_rank": 1874,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "colleagues",
+      "colleague",
+      "co-worker"
+    ]
+  },
+  "餐厅": {
+    "pinyin": "cāntīng",
+    "freq_rank": 1877,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "restaurant",
+      "dining-hall"
+    ]
+  },
+  "街上": {
+    "pinyin": "jiēshang",
+    "freq_rank": 1888,
+    "pos": "s",
+    "level": 5,
+    "meanings": [
+      "street",
+      "on the street"
+    ]
+  },
+  "度过": {
+    "pinyin": "dùguò",
+    "freq_rank": 1894,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "spend",
+      "pass"
+    ]
+  },
+  "关注": {
+    "pinyin": "guānzhù",
+    "freq_rank": 1898,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "follow",
+      "a concern",
+      "to pay attention to",
+      "to follow sth closely"
+    ]
+  },
+  "窗户": {
+    "pinyin": "chuānghu",
+    "freq_rank": 1901,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "window"
+    ]
+  },
+  "分享": {
+    "pinyin": "fēnxiǎng",
+    "freq_rank": 1905,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "share",
+      "to get one's share",
+      "to divide out",
+      "to partake"
+    ]
+  },
+  "后悔": {
+    "pinyin": "hòuhuǐ",
+    "freq_rank": 1910,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "regret",
+      "repent"
+    ]
+  },
+  "神秘": {
+    "pinyin": "shénmì",
+    "freq_rank": 1931,
+    "pos": "a",
+    "level": 5,
+    "meanings": [
+      "mysterious",
+      "mystery"
+    ]
+  },
+  "神奇": {
+    "pinyin": "shénqí",
+    "freq_rank": 1955,
+    "pos": "a",
+    "level": 5,
+    "meanings": [
+      "magical/amazing",
+      "magical",
+      "mystical",
+      "miraculous"
+    ]
+  },
+  "代": {
+    "pinyin": "dài",
+    "freq_rank": 1958,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "generations",
+      "to substitute",
+      "to act on behalf of others",
+      "to replace",
+      "generation",
+      "dynasty"
+    ]
+  },
+  "雨": {
+    "pinyin": "yǔ",
+    "freq_rank": 1968,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "rain"
+    ]
+  },
+  "魔法": {
+    "pinyin": "mófǎ",
+    "freq_rank": 1977,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "magic",
+      "enchantment"
+    ]
+  },
+  "好看": {
+    "pinyin": "hǎokàn",
+    "freq_rank": 1991,
+    "pos": "a",
+    "level": 5,
+    "meanings": [
+      "good",
+      "good-looking"
+    ]
+  },
+  "不见": {
+    "pinyin": "bùjiàn",
+    "freq_rank": 2002,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "disappear",
+      "not see",
+      "not meet"
+    ]
+  },
+  "传统": {
+    "pinyin": "chuántǒng",
+    "freq_rank": 2003,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "tradition",
+      "convention"
+    ]
+  },
+  "上学": {
+    "pinyin": "shàngxué",
+    "freq_rank": 2031,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "attend school",
+      "to go to school",
+      "to attend school"
+    ]
+  },
+  "角度": {
+    "pinyin": "jiǎodù",
+    "freq_rank": 2036,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "perspective",
+      "angle",
+      "point of view"
+    ]
+  },
+  "观察": {
+    "pinyin": "guānchá",
+    "freq_rank": 2039,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "observe",
+      "to observe",
+      "to watch",
+      "to survey",
+      "to examine",
+      "observation"
+    ]
+  },
+  "商店": {
+    "pinyin": "shāngdiàn",
+    "freq_rank": 2051,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "store",
+      "shop"
+    ]
+  },
+  "思考": {
+    "pinyin": "sīkǎo",
+    "freq_rank": 2073,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "thinking",
+      "to reflect on",
+      "to ponder over"
+    ]
+  },
+  "好吃": {
+    "pinyin": "hǎochī",
+    "freq_rank": 2076,
+    "pos": "a",
+    "level": 5,
+    "meanings": [
+      "delicious",
+      "tasty"
+    ]
+  },
+  "椅子": {
+    "pinyin": "yǐzi",
+    "freq_rank": 2116,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "chair"
+    ]
+  },
+  "教育": {
+    "pinyin": "jiàoyù",
+    "freq_rank": 2136,
+    "pos": "vn",
+    "level": 5,
+    "meanings": [
+      "education",
+      "to educate",
+      "to teach"
+    ]
+  },
+  "谎言": {
+    "pinyin": "huǎngyán",
+    "freq_rank": 2137,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "lies",
+      "lie"
+    ]
+  },
+  "城里": {
+    "pinyin": "chénglǐ",
+    "freq_rank": 2144,
+    "pos": "s",
+    "level": 5,
+    "meanings": [
+      "in the city",
+      "#"
+    ]
+  },
+  "亮": {
+    "pinyin": "liàng",
+    "freq_rank": 2148,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "bright",
+      "light"
+    ]
+  },
+  "左右": {
+    "pinyin": "zuǒyòu",
+    "freq_rank": 2179,
+    "pos": "m",
+    "level": 5,
+    "meanings": [
+      "around",
+      "about",
+      "approximately",
+      "left and right"
+    ]
+  },
+  "放心": {
+    "pinyin": "fàngxīn",
+    "freq_rank": 2180,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "be at ease",
+      "to set one's mind at rest",
+      "to be at ease",
+      "to rest"
+    ]
+  },
+  "学会": {
+    "pinyin": "xuéhuì",
+    "freq_rank": 2181,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "learn",
+      "to learn",
+      "to master",
+      "institute",
+      "learned society",
+      "(scholarly) association"
+    ]
+  },
+  "好奇": {
+    "pinyin": "hàoqí",
+    "freq_rank": 2198,
+    "pos": "a",
+    "level": 5,
+    "meanings": [
+      "curious",
+      "inquisitive"
+    ]
+  },
+  "聊天": {
+    "pinyin": "liáotiān",
+    "freq_rank": 2208,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "chat",
+      "to chat",
+      "to gossip"
+    ]
+  },
+  "泡": {
+    "pinyin": "pāo",
+    "freq_rank": 2231,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "brew",
+      "puffed",
+      "swollen",
+      "spongy",
+      "small lake (esp. in place names)",
+      "classifier for urine or feces"
+    ]
+  },
+  "小时候": {
+    "pinyin": "xiǎoshíhou",
+    "freq_rank": 2274,
+    "pos": "t",
+    "level": 5,
+    "meanings": [
+      "childhood",
+      "in one's childhood"
+    ]
+  },
+  "市场": {
+    "pinyin": "shìchǎng",
+    "freq_rank": 2276,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "market",
+      "market place",
+      "market (also in abstract)",
+      "abbr. for 超级市场 supermarket"
+    ]
+  },
+  "不仅": {
+    "pinyin": "bùjǐn",
+    "freq_rank": 2295,
+    "pos": "c",
+    "level": 5,
+    "meanings": [
+      "not only",
+      "not only (this one)",
+      "not just (...) but also"
+    ]
+  },
+  "夏天": {
+    "pinyin": "xiàtiān",
+    "freq_rank": 2296,
+    "pos": "t",
+    "level": 5,
+    "meanings": [
+      "summer"
+    ]
+  },
+  "热情": {
+    "pinyin": "rèqíng",
+    "freq_rank": 2303,
+    "pos": "an",
+    "level": 5,
+    "meanings": [
+      "enthusiastic",
+      "cordial",
+      "passion",
+      "passionate",
+      "passionately"
+    ]
+  },
+  "考试": {
+    "pinyin": "kǎoshì",
+    "freq_rank": 2341,
+    "pos": "vn",
+    "level": 5,
+    "meanings": [
+      "exam"
+    ]
+  },
+  "左边": {
+    "pinyin": "zuǒbiān",
+    "freq_rank": 2372,
+    "pos": "f",
+    "level": 5,
+    "meanings": [
+      "left side",
+      "left",
+      "the left side",
+      "to the left of"
+    ]
+  },
+  "作家": {
+    "pinyin": "zuòjiā",
+    "freq_rank": 2422,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "writer",
+      "author"
+    ]
+  },
+  "诚实": {
+    "pinyin": "chéngshí",
+    "freq_rank": 2427,
+    "pos": "a",
+    "level": 5,
+    "meanings": [
+      "honest",
+      "integrity",
+      "honesty",
+      "honorable",
+      "truthful"
+    ]
+  },
+  "工厂": {
+    "pinyin": "gōngchǎng",
+    "freq_rank": 2435,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "factory"
+    ]
+  },
+  "网络": {
+    "pinyin": "wǎngluò",
+    "freq_rank": 2449,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "internet",
+      "network (computer, telecom etc)"
+    ]
+  },
+  "悲伤": {
+    "pinyin": "bēishāng",
+    "freq_rank": 2473,
+    "pos": "a",
+    "level": 5,
+    "meanings": [
+      "sadness",
+      "sad",
+      "sorrowful"
+    ]
+  },
+  "网上": {
+    "pinyin": "wǎngshàng",
+    "freq_rank": 2474,
+    "pos": "s",
+    "level": 5,
+    "meanings": [
+      "internet",
+      "on-line"
+    ]
+  },
+  "一点儿": {
+    "pinyin": "yīdiǎnr",
+    "freq_rank": 2518,
+    "pos": "mq",
+    "level": 5,
+    "meanings": [
+      "a little"
+    ]
+  },
+  "敲": {
+    "pinyin": "qiāo",
+    "freq_rank": 2528,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "knock",
+      "extort",
+      "to strike",
+      "to knock (at a door)",
+      "to hit"
+    ]
+  },
+  "生病": {
+    "pinyin": "shēngbìng",
+    "freq_rank": 2542,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "sick",
+      "ill"
+    ]
+  },
+  "适应": {
+    "pinyin": "shìyìng",
+    "freq_rank": 2546,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "adapt",
+      "to suit",
+      "to fit",
+      "to be suitable",
+      "to adapt",
+      "to get used to sth"
+    ]
+  },
+  "物品": {
+    "pinyin": "wùpǐn",
+    "freq_rank": 2550,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "objects",
+      "articles",
+      "goods",
+      "materials"
+    ]
+  },
+  "眼神": {
+    "pinyin": "yǎnshén",
+    "freq_rank": 2555,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "eyes",
+      "expression or emotion showing in one's eyes"
+    ]
+  },
+  "吵架": {
+    "pinyin": "chǎojià",
+    "freq_rank": 2568,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "argue/quarrel",
+      "to quarrel",
+      "to have a row"
+    ]
+  },
+  "耐心": {
+    "pinyin": "nàixīn",
+    "freq_rank": 2576,
+    "pos": "a",
+    "level": 5,
+    "meanings": [
+      "patience",
+      "patient (adjective)"
+    ]
+  },
+  "最好": {
+    "pinyin": "zuìhǎo",
+    "freq_rank": 2588,
+    "pos": "d",
+    "level": 5,
+    "meanings": [
+      "best"
+    ]
+  },
+  "眼前": {
+    "pinyin": "yǎnqián",
+    "freq_rank": 2610,
+    "pos": "s",
+    "level": 5,
+    "meanings": [
+      "before eyes",
+      "now",
+      "present"
+    ]
+  },
+  "平静": {
+    "pinyin": "píngjìng",
+    "freq_rank": 2690,
+    "pos": "a",
+    "level": 5,
+    "meanings": [
+      "peaceful",
+      "tranquil",
+      "undisturbed",
+      "serene"
+    ]
+  },
+  "右边": {
+    "pinyin": "yòubian",
+    "freq_rank": 2692,
+    "pos": "f",
+    "level": 5,
+    "meanings": [
+      "right side",
+      "right",
+      "opposite: left 左边",
+      "the right side",
+      "to the right"
+    ]
+  },
+  "成长": {
+    "pinyin": "chéngzhǎng",
+    "freq_rank": 2718,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "grow",
+      "to mature",
+      "to grow",
+      "growth"
+    ]
+  },
+  "试验": {
+    "pinyin": "shìyàn",
+    "freq_rank": 2720,
+    "pos": "vn",
+    "level": 5,
+    "meanings": [
+      "experiment",
+      "test",
+      "experimental"
+    ]
+  },
+  "陌生人": {
+    "pinyin": "mòshēngrén",
+    "freq_rank": 2727,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "strangers",
+      "a stranger"
+    ]
+  },
+  "深刻": {
+    "pinyin": "shēnkè",
+    "freq_rank": 2729,
+    "pos": "a",
+    "level": 5,
+    "meanings": [
+      "profound",
+      "deep",
+      "deep-going"
+    ]
+  },
+  "李": {
+    "pinyin": "lǐ",
+    "freq_rank": 2758,
+    "pos": "nr",
+    "level": 5,
+    "meanings": [
+      "Li",
+      "plum",
+      "surname Li"
+    ]
+  },
+  "下班": {
+    "pinyin": "xiàbān",
+    "freq_rank": 2782,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "get off work",
+      "to finish work",
+      "to get off work"
+    ]
+  },
+  "上课": {
+    "pinyin": "shàngkè",
+    "freq_rank": 2815,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "start class",
+      "to attend class"
+    ]
+  },
+  "考": {
+    "pinyin": "kǎo",
+    "freq_rank": 2818,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "test",
+      "to check",
+      "to verify",
+      "to test",
+      "to examine",
+      "to take an exam"
+    ]
+  },
+  "艺术家": {
+    "pinyin": "yìshùjiā",
+    "freq_rank": 2836,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "artist"
+    ]
+  },
+  "时期": {
+    "pinyin": "shíqī",
+    "freq_rank": 2851,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "period",
+      "a period in time or history",
+      "time (interval)",
+      "phase"
+    ]
+  },
+  "起床": {
+    "pinyin": "qǐchuáng",
+    "freq_rank": 2860,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "get up",
+      "to get up"
+    ]
+  },
+  "可能性": {
+    "pinyin": "kěnéngxìng",
+    "freq_rank": 2872,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "possibility",
+      "probability"
+    ]
+  },
+  "安慰": {
+    "pinyin": "ānwèi",
+    "freq_rank": 2906,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "comforting",
+      "to comfort",
+      "to console"
+    ]
+  },
+  "图书馆": {
+    "pinyin": "túshūguǎn",
+    "freq_rank": 2931,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "library"
+    ]
+  },
+  "追求": {
+    "pinyin": "zhuīqiú",
+    "freq_rank": 2937,
+    "pos": "v",
+    "level": 5,
+    "meanings": [
+      "pursue",
+      "to pursue (a goal etc) stubbornly",
+      "to seek after",
+      "to woo"
+    ]
+  },
+  "南方": {
+    "pinyin": "nánfāng",
+    "freq_rank": 2940,
+    "pos": "s",
+    "level": 5,
+    "meanings": [
+      "south",
+      "the southern part of the country",
+      "the South"
+    ]
+  },
+  "苦": {
+    "pinyin": "kǔ",
+    "freq_rank": 2947,
+    "pos": "a",
+    "level": 5,
+    "meanings": [
+      "bitter",
+      "hardship",
+      "pain",
+      "to suffer",
+      "painstaking"
+    ]
+  },
+  "常常": {
+    "pinyin": "chángcháng",
+    "freq_rank": 2980,
+    "pos": "d",
+    "level": 5,
+    "meanings": [
+      "often",
+      "frequently",
+      "usually"
+    ]
+  },
+  "花园": {
+    "pinyin": "huāyuán",
+    "freq_rank": 2996,
+    "pos": "n",
+    "level": 5,
+    "meanings": [
+      "garden"
+    ]
+  },
+  "吓到": {
+    "pinyin": "xiàdào",
+    "freq_rank": null,
+    "pos": null,
+    "level": 5,
+    "meanings": [
+      "frighten"
+    ]
+  },
+  "手机壳": {
+    "pinyin": "shǒujīké",
+    "freq_rank": null,
+    "pos": null,
+    "level": 5,
+    "meanings": [
+      "phone case"
+    ]
+  },
+  "搞笑": {
+    "pinyin": "gǎoxiào",
+    "freq_rank": null,
+    "pos": null,
+    "level": 5,
+    "meanings": [
+      "funny"
+    ]
+  },
+  "朋友圈": {
+    "pinyin": "péngyouquān",
+    "freq_rank": null,
+    "pos": null,
+    "level": 5,
+    "meanings": [
+      "social media"
+    ]
+  },
+  "窗边": {
+    "pinyin": "chuāngbiān",
+    "freq_rank": null,
+    "pos": null,
+    "level": 5,
+    "meanings": [
+      "by the window"
+    ]
+  },
+  "雾水": {
+    "pinyin": "wùshuǐ",
+    "freq_rank": null,
+    "pos": null,
+    "level": 5,
+    "meanings": [
+      "foggy water"
+    ]
+  },
+  "冰箱": {
+    "pinyin": "bīngxiāng",
+    "freq_rank": 3014,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "refrigerator",
+      "icebox",
+      "freezer cabinet"
+    ]
+  },
+  "看起来": {
+    "pinyin": "kànqǐlái",
+    "freq_rank": 3072,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "look",
+      "looks",
+      "seemingly",
+      "apparently",
+      "looks as if",
+      "appear to be",
+      "gives the impression that"
+    ]
+  },
+  "随着": {
+    "pinyin": "suízhe",
+    "freq_rank": 3104,
+    "pos": "p",
+    "level": 6,
+    "meanings": [
+      "along with",
+      "in the wake of",
+      "following"
+    ]
+  },
+  "跟着": {
+    "pinyin": "gēnzhe",
+    "freq_rank": 3123,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "follow",
+      "follow after"
+    ]
+  },
+  "着急": {
+    "pinyin": "zháojí",
+    "freq_rank": 3136,
+    "pos": "a",
+    "level": 6,
+    "meanings": [
+      "anxious",
+      "to worry",
+      "to feel anxious"
+    ]
+  },
+  "摇": {
+    "pinyin": "yáo",
+    "freq_rank": 3155,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "shake",
+      "to rock"
+    ]
+  },
+  "医学": {
+    "pinyin": "yīxué",
+    "freq_rank": 3196,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "medicine",
+      "medical science",
+      "study of medicine"
+    ]
+  },
+  "隔壁": {
+    "pinyin": "gébì",
+    "freq_rank": 3199,
+    "pos": "s",
+    "level": 6,
+    "meanings": [
+      "next door"
+    ]
+  },
+  "快速": {
+    "pinyin": "kuàisù",
+    "freq_rank": 3245,
+    "pos": "d",
+    "level": 6,
+    "meanings": [
+      "fast",
+      "high-speed",
+      "rapid"
+    ]
+  },
+  "友谊": {
+    "pinyin": "yǒuyì",
+    "freq_rank": 3312,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "friendship",
+      "companionship",
+      "fellowship"
+    ]
+  },
+  "出门": {
+    "pinyin": "chūmén",
+    "freq_rank": 3313,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "go out",
+      "to go on a journey",
+      "away from home",
+      "exit door",
+      "to go out of the door"
+    ]
+  },
+  "智慧": {
+    "pinyin": "zhìhuì",
+    "freq_rank": 3325,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "wisdom",
+      "knowledge"
+    ]
+  },
+  "灵感": {
+    "pinyin": "línggǎn",
+    "freq_rank": 3332,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "inspiration",
+      "insight"
+    ]
+  },
+  "骗人": {
+    "pinyin": "piànrén",
+    "freq_rank": 3341,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "deceive people",
+      "to cheat sb",
+      "a scam"
+    ]
+  },
+  "中午": {
+    "pinyin": "zhōngwǔ",
+    "freq_rank": 3366,
+    "pos": "t",
+    "level": 6,
+    "meanings": [
+      "noon",
+      "midday"
+    ]
+  },
+  "温柔": {
+    "pinyin": "wēnróu",
+    "freq_rank": 3389,
+    "pos": "a",
+    "level": 6,
+    "meanings": [
+      "gentle",
+      "tenderness",
+      "#"
+    ]
+  },
+  "教会": {
+    "pinyin": "jiàohuì",
+    "freq_rank": 3398,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "teach",
+      "Christian church"
+    ]
+  },
+  "老人": {
+    "pinyin": "lǎorén",
+    "freq_rank": 3399,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "elderly people",
+      "old couple",
+      "old people",
+      "the aged"
+    ]
+  },
+  "二十": {
+    "pinyin": "èrshí",
+    "freq_rank": 3452,
+    "pos": "m",
+    "level": 6,
+    "meanings": [
+      "twenty",
+      "20"
+    ]
+  },
+  "孤单": {
+    "pinyin": "gūdān",
+    "freq_rank": 3459,
+    "pos": "a",
+    "level": 6,
+    "meanings": [
+      "lonely",
+      "lone",
+      "loneliness"
+    ]
+  },
+  "场景": {
+    "pinyin": "chǎngjǐng",
+    "freq_rank": 3484,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "scenes",
+      "scene",
+      "scenario",
+      "setting"
+    ]
+  },
+  "连接": {
+    "pinyin": "liánjiē",
+    "freq_rank": 3496,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "connection",
+      "#"
+    ]
+  },
+  "小小的": {
+    "pinyin": "xiǎoxiǎode",
+    "freq_rank": 3504,
+    "pos": "z",
+    "level": 6,
+    "meanings": [
+      "small",
+      "#"
+    ]
+  },
+  "上午": {
+    "pinyin": "shàngwǔ",
+    "freq_rank": 3539,
+    "pos": "t",
+    "level": 6,
+    "meanings": [
+      "morning"
+    ]
+  },
+  "出版": {
+    "pinyin": "chūbǎn",
+    "freq_rank": 3574,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "publish",
+      "to publish",
+      "to come off the press",
+      "to put out"
+    ]
+  },
+  "用来": {
+    "pinyin": "yònglái",
+    "freq_rank": 3594,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "used to",
+      "to be used for"
+    ]
+  },
+  "白天": {
+    "pinyin": "báitiān",
+    "freq_rank": 3606,
+    "pos": "t",
+    "level": 6,
+    "meanings": [
+      "daytime",
+      "during the day",
+      "day"
+    ]
+  },
+  "开会": {
+    "pinyin": "kāihuì",
+    "freq_rank": 3654,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "meeting",
+      "have a meeting",
+      "be at a meeting",
+      "to hold or attend a meeting"
+    ]
+  },
+  "小偷": {
+    "pinyin": "xiǎotōu",
+    "freq_rank": 3659,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "thief"
+    ]
+  },
+  "糊涂": {
+    "pinyin": "hútu",
+    "freq_rank": 3702,
+    "pos": "a",
+    "level": 6,
+    "meanings": [
+      "confused",
+      "muddled",
+      "silly"
+    ]
+  },
+  "灯光": {
+    "pinyin": "dēngguāng",
+    "freq_rank": 3728,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "lights",
+      "(stage) lighting",
+      "light"
+    ]
+  },
+  "做饭": {
+    "pinyin": "zuòfàn",
+    "freq_rank": 3807,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "cook",
+      "cooking",
+      "to prepare a meal",
+      "to cook"
+    ]
+  },
+  "画面": {
+    "pinyin": "huàmiàn",
+    "freq_rank": 3828,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "scene",
+      "(picture) frame"
+    ]
+  },
+  "富": {
+    "pinyin": "fù",
+    "freq_rank": 3869,
+    "pos": "g",
+    "level": 6,
+    "meanings": [
+      "rich",
+      "surname Fu"
+    ]
+  },
+  "村": {
+    "pinyin": "cūn",
+    "freq_rank": 3926,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "village"
+    ]
+  },
+  "据说": {
+    "pinyin": "jùshuō",
+    "freq_rank": 3978,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "it is said",
+      "it is said that",
+      "reportedly"
+    ]
+  },
+  "笑容": {
+    "pinyin": "xiàoróng",
+    "freq_rank": 3980,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "smile",
+      "smiling expression"
+    ]
+  },
+  "家乡": {
+    "pinyin": "jiāxiāng",
+    "freq_rank": 3983,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "hometown",
+      "native place"
+    ]
+  },
+  "现代": {
+    "pinyin": "xiàndài",
+    "freq_rank": 4008,
+    "pos": "t",
+    "level": 6,
+    "meanings": [
+      "modern",
+      "modern times",
+      "modern age",
+      "modern era",
+      "Hyundai, South Korean company"
+    ]
+  },
+  "优雅": {
+    "pinyin": "yōuyǎ",
+    "freq_rank": 4063,
+    "pos": "a",
+    "level": 6,
+    "meanings": [
+      "elegant",
+      "grace",
+      "graceful"
+    ]
+  },
+  "腰": {
+    "pinyin": "yāo",
+    "freq_rank": 4089,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "waist",
+      "lower back",
+      "pocket",
+      "middle"
+    ]
+  },
+  "街道": {
+    "pinyin": "jiēdào",
+    "freq_rank": 4094,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "streets",
+      "street"
+    ]
+  },
+  "丰富": {
+    "pinyin": "fēngfù",
+    "freq_rank": 4184,
+    "pos": "a",
+    "level": 6,
+    "meanings": [
+      "rich",
+      "plentiful"
+    ]
+  },
+  "鸽子": {
+    "pinyin": "gēzi",
+    "freq_rank": 4215,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "pigeons",
+      "pigeon"
+    ]
+  },
+  "财富": {
+    "pinyin": "cáifù",
+    "freq_rank": 4238,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "wealth",
+      "riches"
+    ]
+  },
+  "春天": {
+    "pinyin": "chūntiān",
+    "freq_rank": 4365,
+    "pos": "t",
+    "level": 6,
+    "meanings": [
+      "spring",
+      "spring (season)"
+    ]
+  },
+  "厨师": {
+    "pinyin": "chúshī",
+    "freq_rank": 4440,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "chef",
+      "cook"
+    ]
+  },
+  "植物": {
+    "pinyin": "zhíwù",
+    "freq_rank": 4475,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "plants",
+      "botanical",
+      "plant",
+      "vegetation"
+    ]
+  },
+  "下载": {
+    "pinyin": "xiàzǎi",
+    "freq_rank": 4502,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "download",
+      "to download",
+      "also pr. xia4 zai4"
+    ]
+  },
+  "穷": {
+    "pinyin": "qióng",
+    "freq_rank": 4509,
+    "pos": "a",
+    "level": 6,
+    "meanings": [
+      "poor",
+      "exhausted"
+    ]
+  },
+  "见证": {
+    "pinyin": "jiànzhèng",
+    "freq_rank": 4603,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "witness",
+      "testimony"
+    ]
+  },
+  "有名": {
+    "pinyin": "yǒumíng",
+    "freq_rank": 4699,
+    "pos": "a",
+    "level": 6,
+    "meanings": [
+      "famous",
+      "well-known"
+    ]
+  },
+  "每当": {
+    "pinyin": "měidāng",
+    "freq_rank": 4753,
+    "pos": "p",
+    "level": 6,
+    "meanings": [
+      "whenever",
+      "every time"
+    ]
+  },
+  "商人": {
+    "pinyin": "shāngrén",
+    "freq_rank": 4755,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "merchant",
+      "businessman"
+    ]
+  },
+  "幸好": {
+    "pinyin": "xìnghǎo",
+    "freq_rank": 4758,
+    "pos": "d",
+    "level": 6,
+    "meanings": [
+      "fortunately"
+    ]
+  },
+  "反而": {
+    "pinyin": "fǎnér",
+    "freq_rank": 4788,
+    "pos": "d",
+    "level": 6,
+    "meanings": [
+      "instead",
+      "on the contrary",
+      "contrary (to expectations)"
+    ]
+  },
+  "焦虑": {
+    "pinyin": "jiāolù:",
+    "freq_rank": 4848,
+    "pos": "a",
+    "level": 6,
+    "meanings": [
+      "anxious",
+      "worried",
+      "apprehensive"
+    ]
+  },
+  "过世": {
+    "pinyin": "guòshì",
+    "freq_rank": 4850,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "pass away",
+      "to die",
+      "to pass away"
+    ]
+  },
+  "摔倒": {
+    "pinyin": "shuāidǎo",
+    "freq_rank": 4947,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "fall",
+      "to fall down",
+      "to slip and fall",
+      "a throw (in wrestling)"
+    ]
+  },
+  "珍贵": {
+    "pinyin": "zhēnguì",
+    "freq_rank": 5063,
+    "pos": "a",
+    "level": 6,
+    "meanings": [
+      "precious"
+    ]
+  },
+  "珍惜": {
+    "pinyin": "zhēnxī",
+    "freq_rank": 5199,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "cherish",
+      "treasure",
+      "value"
+    ]
+  },
+  "影子": {
+    "pinyin": "yǐngzi",
+    "freq_rank": 5243,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "shadow",
+      "reflection"
+    ]
+  },
+  "清晰": {
+    "pinyin": "qīngxī",
+    "freq_rank": 5303,
+    "pos": "a",
+    "level": 6,
+    "meanings": [
+      "clear",
+      "distinct"
+    ]
+  },
+  "标签": {
+    "pinyin": "biāoqiān",
+    "freq_rank": 5314,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "label",
+      "labels",
+      "tag"
+    ]
+  },
+  "菜单": {
+    "pinyin": "càidān",
+    "freq_rank": 5452,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "menu"
+    ]
+  },
+  "北方": {
+    "pinyin": "běifāng",
+    "freq_rank": 5459,
+    "pos": "s",
+    "level": 6,
+    "meanings": [
+      "north",
+      "the northern part a country",
+      "China north of the Yellow River"
+    ]
+  },
+  "脸色": {
+    "pinyin": "liǎnsè",
+    "freq_rank": 5586,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "expression",
+      "complexion",
+      "look"
+    ]
+  },
+  "文字": {
+    "pinyin": "wénzì",
+    "freq_rank": 5593,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "text",
+      "character",
+      "script",
+      "writing",
+      "written language",
+      "writing style"
+    ]
+  },
+  "诗人": {
+    "pinyin": "shīrén",
+    "freq_rank": 5615,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "poet",
+      "bard"
+    ]
+  },
+  "日常": {
+    "pinyin": "rìcháng",
+    "freq_rank": 5784,
+    "pos": "b",
+    "level": 6,
+    "meanings": [
+      "daily life",
+      "daily",
+      "everyday"
+    ]
+  },
+  "古董": {
+    "pinyin": "gǔdǒng",
+    "freq_rank": 5806,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "antique",
+      "antiques",
+      "curio"
+    ]
+  },
+  "陪伴": {
+    "pinyin": "péibàn",
+    "freq_rank": 5813,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "accompany",
+      "companionship"
+    ]
+  },
+  "同一": {
+    "pinyin": "tóngyī",
+    "freq_rank": 5890,
+    "pos": "b",
+    "level": 6,
+    "meanings": [
+      "same",
+      "identical",
+      "the same"
+    ]
+  },
+  "生长": {
+    "pinyin": "shēngzhǎng",
+    "freq_rank": 5952,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "growing",
+      "to grow"
+    ]
+  },
+  "国外": {
+    "pinyin": "guówài",
+    "freq_rank": 6221,
+    "pos": "s",
+    "level": 6,
+    "meanings": [
+      "abroad",
+      "external (affairs)",
+      "overseas",
+      "foreign"
+    ]
+  },
+  "阳台": {
+    "pinyin": "yángtái",
+    "freq_rank": 6259,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "balcony",
+      "porch"
+    ]
+  },
+  "上个月": {
+    "pinyin": "shànggèyuè",
+    "freq_rank": 6260,
+    "pos": "t",
+    "level": 6,
+    "meanings": [
+      "last month"
+    ]
+  },
+  "咖啡店": {
+    "pinyin": "kāfēidiàn",
+    "freq_rank": 6316,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "coffee shop",
+      "café",
+      "coffeeshop"
+    ]
+  },
+  "书店": {
+    "pinyin": "shūdiàn",
+    "freq_rank": 6381,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "bookstore"
+    ]
+  },
+  "多年": {
+    "pinyin": "duōnián",
+    "freq_rank": 6444,
+    "pos": "mq",
+    "level": 6,
+    "meanings": [
+      "many years"
+    ]
+  },
+  "秋天": {
+    "pinyin": "qiūtiān",
+    "freq_rank": 6452,
+    "pos": "t",
+    "level": 6,
+    "meanings": [
+      "autumn"
+    ]
+  },
+  "下雨": {
+    "pinyin": "xiàyǔ",
+    "freq_rank": 6507,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "rain",
+      "rainy"
+    ]
+  },
+  "读者": {
+    "pinyin": "dúzhě",
+    "freq_rank": 6538,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "reader"
+    ]
+  },
+  "平凡": {
+    "pinyin": "píngfán",
+    "freq_rank": 6562,
+    "pos": "a",
+    "level": 6,
+    "meanings": [
+      "ordinary",
+      "commonplace"
+    ]
+  },
+  "起初": {
+    "pinyin": "qǐchū",
+    "freq_rank": 6652,
+    "pos": "d",
+    "level": 6,
+    "meanings": [
+      "at first",
+      "originally",
+      "at the outset"
+    ]
+  },
+  "电影院": {
+    "pinyin": "diànyǐngyuàn",
+    "freq_rank": 6870,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "cinema",
+      "movie theater"
+    ]
+  },
+  "十几": {
+    "pinyin": "shíjǐ",
+    "freq_rank": 7034,
+    "pos": "m",
+    "level": 6,
+    "meanings": [
+      "over ten",
+      "more than ten",
+      "a dozen or more"
+    ]
+  },
+  "报名": {
+    "pinyin": "bàomíng",
+    "freq_rank": 7158,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "sign up",
+      "to sign up",
+      "to enter one's name",
+      "to apply",
+      "to register",
+      "to enroll"
+    ]
+  },
+  "种子": {
+    "pinyin": "zhǒngzi",
+    "freq_rank": 7405,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "seeds",
+      "seed"
+    ]
+  },
+  "淡": {
+    "pinyin": "dàn",
+    "freq_rank": 7426,
+    "pos": "a",
+    "level": 6,
+    "meanings": [
+      "faint",
+      "insipid",
+      "diluted",
+      "weak",
+      "light in color",
+      "tasteless"
+    ]
+  },
+  "景象": {
+    "pinyin": "jǐngxiàng",
+    "freq_rank": 7531,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "scene",
+      "sight (to behold)"
+    ]
+  },
+  "古代": {
+    "pinyin": "gǔdài",
+    "freq_rank": 7618,
+    "pos": "t",
+    "level": 6,
+    "meanings": [
+      "ancient",
+      "ancient times",
+      "olden times"
+    ]
+  },
+  "几十": {
+    "pinyin": "jī",
+    "freq_rank": 7760,
+    "pos": "m",
+    "level": 6,
+    "meanings": [
+      "several tens",
+      "#"
+    ]
+  },
+  "咸": {
+    "pinyin": "xián",
+    "freq_rank": 7956,
+    "pos": "a",
+    "level": 6,
+    "meanings": [
+      "salty",
+      "all",
+      "everyone"
+    ]
+  },
+  "疲惫": {
+    "pinyin": "píbèi",
+    "freq_rank": 7972,
+    "pos": "a",
+    "level": 6,
+    "meanings": [
+      "tired",
+      "beaten",
+      "exhausted"
+    ]
+  },
+  "早晚": {
+    "pinyin": "zǎowǎn",
+    "freq_rank": 8128,
+    "pos": "d",
+    "level": 6,
+    "meanings": [
+      "morning and evening",
+      "sooner or later"
+    ]
+  },
+  "缓慢": {
+    "pinyin": "huǎnmàn",
+    "freq_rank": 8402,
+    "pos": "a",
+    "level": 6,
+    "meanings": [
+      "slow",
+      "slow moving"
+    ]
+  },
+  "差点儿": {
+    "pinyin": "chàdiǎnr",
+    "freq_rank": 8490,
+    "pos": "d",
+    "level": 6,
+    "meanings": [
+      "almost",
+      "not good enough",
+      "barely",
+      "a bit different",
+      "just about to"
+    ]
+  },
+  "改革": {
+    "pinyin": "gǎigé",
+    "freq_rank": 8699,
+    "pos": "vn",
+    "level": 6,
+    "meanings": [
+      "reform",
+      "to reform"
+    ]
+  },
+  "塑造": {
+    "pinyin": "sùzào",
+    "freq_rank": 8792,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "shape",
+      "to model",
+      "to mould",
+      "plastic (arts)",
+      "flexible",
+      "to portray (in sculpture or in words)"
+    ]
+  },
+  "闹钟": {
+    "pinyin": "nàozhōng",
+    "freq_rank": 8922,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "alarm",
+      "alarm clock"
+    ]
+  },
+  "摇头": {
+    "pinyin": "yáotóu",
+    "freq_rank": 9025,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "head",
+      "to shake one's head"
+    ]
+  },
+  "北京": {
+    "pinyin": "Běijīng",
+    "freq_rank": 9390,
+    "pos": "ns",
+    "level": 6,
+    "meanings": [
+      "Beijing",
+      "capital of People's Republic of China",
+      "one of the four municipalities 直辖市",
+      "fig. PRC government"
+    ]
+  },
+  "喵": {
+    "pinyin": "miāo",
+    "freq_rank": 9847,
+    "pos": "o",
+    "level": 6,
+    "meanings": [
+      "meow",
+      "onomat. meow",
+      "cat's mewing"
+    ]
+  },
+  "十一": {
+    "pinyin": "shíyī",
+    "freq_rank": 9923,
+    "pos": "m",
+    "level": 6,
+    "meanings": [
+      "eleven",
+      "11",
+      "PRC National Day (October 1, 1949)"
+    ]
+  },
+  "智能": {
+    "pinyin": "zhìnéng",
+    "freq_rank": 9939,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "smart",
+      "intelligent",
+      "able",
+      "smart (phone, system, bomb etc)"
+    ]
+  },
+  "应用": {
+    "pinyin": "yìngyòng",
+    "freq_rank": 10086,
+    "pos": "vn",
+    "level": 6,
+    "meanings": [
+      "app",
+      "to use",
+      "to apply",
+      "application",
+      "applicable"
+    ]
+  },
+  "古人": {
+    "pinyin": "gǔrén",
+    "freq_rank": 10272,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "ancients",
+      "people from ancient times",
+      "the ancients",
+      "the late (i.e. person who has passed away)"
+    ]
+  },
+  "原样": {
+    "pinyin": "yuányàng",
+    "freq_rank": 10370,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "original form",
+      "original shape",
+      "the same as before"
+    ]
+  },
+  "下课": {
+    "pinyin": "xiàkè",
+    "freq_rank": 10466,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "finish class",
+      "class is over"
+    ]
+  },
+  "修剪": {
+    "pinyin": "xiūjiǎn",
+    "freq_rank": 10590,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "trim",
+      "to prune",
+      "to trim"
+    ]
+  },
+  "老年": {
+    "pinyin": "lǎonián",
+    "freq_rank": 11349,
+    "pos": "t",
+    "level": 6,
+    "meanings": [
+      "elderly",
+      "old age",
+      "autumn of one's years"
+    ]
+  },
+  "输赢": {
+    "pinyin": "shūyíng",
+    "freq_rank": 11496,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "winning or losing",
+      "#"
+    ]
+  },
+  "好玩儿": {
+    "pinyin": "hǎowáner",
+    "freq_rank": 12120,
+    "pos": "a",
+    "level": 6,
+    "meanings": [
+      "fun",
+      "interesting",
+      "delightful",
+      "amusing"
+    ]
+  },
+  "蹬": {
+    "pinyin": "dēng",
+    "freq_rank": 12160,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "pedal",
+      "step into (as tight shoe)"
+    ]
+  },
+  "象棋": {
+    "pinyin": "xiàngqí",
+    "freq_rank": 12807,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "chess",
+      "Chinese chess"
+    ]
+  },
+  "病床": {
+    "pinyin": "bìngchuáng",
+    "freq_rank": 13549,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "hospital bed",
+      "sickbed"
+    ]
+  },
+  "婚宴": {
+    "pinyin": "hūnyàn",
+    "freq_rank": 13972,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "wedding banquet",
+      "wedding reception"
+    ]
+  },
+  "从容": {
+    "pinyin": "cōngróng",
+    "freq_rank": 14527,
+    "pos": "a",
+    "level": 6,
+    "meanings": [
+      "calm",
+      "go easy",
+      "unhurried"
+    ]
+  },
+  "浇水": {
+    "pinyin": "jiāoshuǐ",
+    "freq_rank": 14728,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "water",
+      "to water (plants etc)"
+    ]
+  },
+  "七十": {
+    "pinyin": "qīshí",
+    "freq_rank": 15191,
+    "pos": "m",
+    "level": 6,
+    "meanings": [
+      "seventy",
+      "70"
+    ]
+  },
+  "书架": {
+    "pinyin": "shūjià",
+    "freq_rank": 15792,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "bookshelf"
+    ]
+  },
+  "农村": {
+    "pinyin": "nóngcūn",
+    "freq_rank": 15940,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "countryside",
+      "rural area",
+      "village"
+    ]
+  },
+  "好意思": {
+    "pinyin": "hǎoyìsi",
+    "freq_rank": 16122,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "embarrassed",
+      "embarrassing",
+      "to have the nerve",
+      "what a cheek!",
+      "to feel no shame",
+      "to overcome the shame"
+    ]
+  },
+  "套路": {
+    "pinyin": "tàolù",
+    "freq_rank": 16276,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "tactics",
+      "a sequence of movements in martial arts"
+    ]
+  },
+  "感兴趣": {
+    "pinyin": "gǎnxìngqù",
+    "freq_rank": 18200,
+    "pos": "a",
+    "level": 6,
+    "meanings": [
+      "interested",
+      "be interested"
+    ]
+  },
+  "城区": {
+    "pinyin": "chéngqū",
+    "freq_rank": 20124,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "city district",
+      "urban area"
+    ]
+  },
+  "茶壶": {
+    "pinyin": "cháhú",
+    "freq_rank": 20285,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "teapot"
+    ]
+  },
+  "太极": {
+    "pinyin": "tàijí",
+    "freq_rank": 21032,
+    "pos": "nz",
+    "level": 6,
+    "meanings": [
+      "tai chi"
+    ]
+  },
+  "书法": {
+    "pinyin": "shūfǎ",
+    "freq_rank": 22025,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "calligraphy",
+      "penmanship"
+    ]
+  },
+  "推移": {
+    "pinyin": "tuīyí",
+    "freq_rank": 22165,
+    "pos": "vn",
+    "level": 6,
+    "meanings": [
+      "pass",
+      "(of time) to elapse or pass",
+      "(of a situation) to develop or evolve"
+    ]
+  },
+  "抄写": {
+    "pinyin": "chāoxiě",
+    "freq_rank": 22557,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "copy",
+      "to copy",
+      "to transcribe"
+    ]
+  },
+  "惊天动地": {
+    "pinyin": "jīngtiāndòngdì",
+    "freq_rank": 24639,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "earth-shattering",
+      "world-shaking (idiom)"
+    ]
+  },
+  "改口": {
+    "pinyin": "gǎikǒu",
+    "freq_rank": 26810,
+    "pos": "v",
+    "level": 6,
+    "meanings": [
+      "corrected",
+      "to correct oneself",
+      "to withdraw or modify one's previous remark"
+    ]
+  },
+  "茶馆": {
+    "pinyin": "cháguǎn",
+    "freq_rank": 28308,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "teahouse"
+    ]
+  },
+  "释然": {
+    "pinyin": "shìrán",
+    "freq_rank": 28380,
+    "pos": "z",
+    "level": 6,
+    "meanings": [
+      "relieved",
+      "at ease",
+      "feel relieved"
+    ]
+  },
+  "枝叶": {
+    "pinyin": "zhīyè",
+    "freq_rank": 32261,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "branches",
+      "branch and leaf"
+    ]
+  },
+  "干粮": {
+    "pinyin": "gānliáng",
+    "freq_rank": 33134,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "dry food",
+      "rations (to take on expedition)"
+    ]
+  },
+  "武汉": {
+    "pinyin": "Wǔhàn",
+    "freq_rank": 37356,
+    "pos": "ns",
+    "level": 6,
+    "meanings": [
+      "Wuhan"
+    ]
+  },
+  "长沙": {
+    "pinyin": "Chángshā",
+    "freq_rank": 37949,
+    "pos": "ns",
+    "level": 6,
+    "meanings": [
+      "Changsha"
+    ]
+  },
+  "李明": {
+    "pinyin": "lǐmíng",
+    "freq_rank": 38947,
+    "pos": "nr",
+    "level": 6,
+    "meanings": [
+      "Li Ming",
+      "#"
+    ]
+  },
+  "一天": {
+    "pinyin": "yītiān",
+    "freq_rank": 39898,
+    "pos": "nr",
+    "level": 6,
+    "meanings": [
+      "one day"
+    ]
+  },
+  "太极拳": {
+    "pinyin": "tàijíquán",
+    "freq_rank": 40437,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "tai chi",
+      "shadowboxing or Taiji, T'aichi or T'aichichuan",
+      "a martial art"
+    ]
+  },
+  "一群": {
+    "pinyin": "yīqún",
+    "freq_rank": 44659,
+    "pos": "nr",
+    "level": 6,
+    "meanings": [
+      "a group",
+      "gang",
+      "regiment"
+    ]
+  },
+  "乌龙茶": {
+    "pinyin": "wū",
+    "freq_rank": 44757,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "oolong tea",
+      "#"
+    ]
+  },
+  "广州": {
+    "pinyin": "Guǎngzhōu",
+    "freq_rank": 45800,
+    "pos": "ns",
+    "level": 6,
+    "meanings": [
+      "Guangzhou",
+      "known historically as Canton",
+      "abbr. Suì 穗"
+    ]
+  },
+  "茉莉花茶": {
+    "pinyin": "mòlihuāchá",
+    "freq_rank": 47234,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "jasmine tea"
+    ]
+  },
+  "书法家": {
+    "pinyin": "shūfǎjiā",
+    "freq_rank": 58704,
+    "pos": "n",
+    "level": 6,
+    "meanings": [
+      "calligrapher",
+      "calligraphers"
+    ]
+  },
+  "宋朝": {
+    "pinyin": "Sòngcháo",
+    "freq_rank": 61515,
+    "pos": "t",
+    "level": 6,
+    "meanings": [
+      "Song Dynasty",
+      "Song Dynasty (960-1279)",
+      "also Song of Southern dynasties 南朝宋 (420-479)"
+    ]
+  },
+  "变得": {
+    "pinyin": "biànde",
+    "freq_rank": 74433,
+    "pos": "nr",
+    "level": 6,
+    "meanings": [
+      "become",
+      "change into"
+    ]
+  },
+  "大厨": {
+    "pinyin": "dàchú",
+    "freq_rank": null,
+    "pos": null,
+    "level": 6,
+    "meanings": [
+      "chef"
+    ]
+  },
+  "普洱茶": {
+    "pinyin": "pǔ'ěrchá",
+    "freq_rank": null,
+    "pos": null,
+    "level": 6,
+    "meanings": [
+      "pu'er tea"
+    ]
+  },
+  "甜甜的": {
+    "pinyin": "tián tián de",
+    "freq_rank": null,
+    "pos": null,
+    "level": 6,
+    "meanings": [
+      "sweet"
+    ]
+  },
+  "糖醋": {
+    "pinyin": "tángcù",
+    "freq_rank": null,
+    "pos": null,
+    "level": 6,
+    "meanings": [
+      "sweet and sour"
+    ]
+  }
+}

@@ -110,7 +110,7 @@ body {
 
 .story-list-heading {
     font-family: 'Inter', sans-serif;
-    font-size: 0.65rem;
+    font-size: 0.7rem;
     font-weight: 600;
     color: rgba(138, 196, 176, 0.35);
     text-transform: uppercase;
@@ -148,7 +148,7 @@ body {
 
 .story-item .story-genre {
     font-family: 'Inter', sans-serif;
-    font-size: 0.6rem;
+    font-size: 0.65rem;
     font-weight: 600;
     color: rgba(138, 196, 176, 0.4);
     text-transform: uppercase;
@@ -202,7 +202,7 @@ body {
 
 .reading-instruction {
     color: #7aaa96;
-    font-size: 0.85rem;
+    font-size: 0.9rem;
     font-style: italic;
     margin-bottom: 1.5rem;
 }
@@ -213,6 +213,7 @@ body {
     line-height: 2.0;
     color: #2a3a34;
     text-align: justify;
+    max-width: 720px;
 }
 
 /* ── Hoverable Words ── */
@@ -260,7 +261,7 @@ body {
     color: #d4e8df;
     padding: 0.5rem 0.8rem;
     border-radius: 6px;
-    font-size: 14px;
+    font-size: 15px;
     white-space: nowrap;
     z-index: 1000;
     margin-bottom: 8px;
@@ -347,16 +348,16 @@ body {
     }
 
     .reading-title {
-        font-size: 1.5rem;
+        font-size: 1.6rem;
     }
 
     .text-content {
-        font-size: 20px;
+        font-size: 22px;
         line-height: 1.8;
     }
 
     .word[data-pinyin]:hover::after {
-        font-size: 12px;
+        font-size: 13px;
         padding: 0.4rem 0.6rem;
     }
 }
@@ -367,10 +368,10 @@ body {
     }
 
     .reading-title {
-        font-size: 1.3rem;
+        font-size: 1.4rem;
     }
 
     .text-content {
-        font-size: 18px;
+        font-size: 20px;
     }
 }

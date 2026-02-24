@@ -1,0 +1,1221 @@
+{
+  "id": "hsk4-comedy-grandma-goes-digital",
+  "title": "奶奶玩网络",
+  "title_segments": [
+    {
+      "text": "奶奶",
+      "pinyin": "nǎinai",
+      "translation": "grandma"
+    },
+    {
+      "text": "玩",
+      "pinyin": "wán",
+      "translation": "plays"
+    },
+    {
+      "text": "网络",
+      "pinyin": "wǎngluò",
+      "translation": "internet"
+    }
+  ],
+  "genre": "Comedy",
+  "level": 4,
+  "content": [
+    [
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "奶奶",
+        "pinyin": "nǎinai",
+        "translation": "grandma"
+      },
+      {
+        "text": "今年",
+        "pinyin": "jīnnián",
+        "translation": "this year"
+      },
+      {
+        "text": "七十",
+        "pinyin": "qīshí",
+        "translation": "seventy"
+      },
+      {
+        "text": "岁",
+        "pinyin": "suì",
+        "translation": "years old"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "上个月",
+        "pinyin": "shànggèyuè",
+        "translation": "last month"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "她",
+        "pinyin": "tā",
+        "translation": "she"
+      },
+      {
+        "text": "突然",
+        "pinyin": "túrán",
+        "translation": "suddenly"
+      },
+      {
+        "text": "决定",
+        "pinyin": "juédìng",
+        "translation": "decide"
+      },
+      {
+        "text": "学",
+        "pinyin": "xué",
+        "translation": "learn"
+      },
+      {
+        "text": "用",
+        "pinyin": "yòng",
+        "translation": "use"
+      },
+      {
+        "text": "智能",
+        "pinyin": "zhìnéng",
+        "translation": "smart"
+      },
+      {
+        "text": "手机",
+        "pinyin": "shǒujī",
+        "translation": "phone"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "原因",
+        "pinyin": "yuányīn",
+        "translation": "reason"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "is"
+      },
+      {
+        "text": "她",
+        "pinyin": "tā",
+        "translation": "she"
+      },
+      {
+        "text": "听说",
+        "pinyin": "tīngshuō",
+        "translation": "heard"
+      },
+      {
+        "text": "可以",
+        "pinyin": "kěyǐ",
+        "translation": "can"
+      },
+      {
+        "text": "在",
+        "pinyin": "zài",
+        "translation": "on"
+      },
+      {
+        "text": "网上",
+        "pinyin": "wǎngshàng",
+        "translation": "internet"
+      },
+      {
+        "text": "交",
+        "pinyin": "jiāo",
+        "translation": "make"
+      },
+      {
+        "text": "朋友",
+        "pinyin": "péngyou",
+        "translation": "friends"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我们",
+        "pinyin": "wǒmen",
+        "translation": "we"
+      },
+      {
+        "text": "帮",
+        "pinyin": "bāng",
+        "translation": "help"
+      },
+      {
+        "text": "她",
+        "pinyin": "tā",
+        "translation": "her"
+      },
+      {
+        "text": "下载",
+        "pinyin": "xiàzǎi",
+        "translation": "download"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(past marker)"
+      },
+      {
+        "text": "几个",
+        "pinyin": "jǐgè",
+        "translation": "several"
+      },
+      {
+        "text": "应用",
+        "pinyin": "yìngyòng",
+        "translation": "app"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "第一",
+        "pinyin": "dìyī",
+        "translation": "first"
+      },
+      {
+        "text": "天",
+        "pinyin": "tiān",
+        "translation": "day"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "奶奶",
+        "pinyin": "nǎinai",
+        "translation": "grandma"
+      },
+      {
+        "text": "就",
+        "pinyin": "jiù",
+        "translation": "then"
+      },
+      {
+        "text": "开始",
+        "pinyin": "kāishǐ",
+        "translation": "start"
+      },
+      {
+        "text": "给",
+        "pinyin": "gěi",
+        "translation": "to"
+      },
+      {
+        "text": "陌生人",
+        "pinyin": "mòshēngrén",
+        "translation": "strangers"
+      },
+      {
+        "text": "发",
+        "pinyin": "fā",
+        "translation": "send"
+      },
+      {
+        "text": "消息",
+        "pinyin": "xiāoxi",
+        "translation": "messages"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "她",
+        "pinyin": "tā",
+        "translation": "she"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "第一",
+        "pinyin": "dìyī",
+        "translation": "first"
+      },
+      {
+        "text": "句",
+        "pinyin": "jù",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "话",
+        "pinyin": "huà",
+        "translation": "words"
+      },
+      {
+        "text": "总是",
+        "pinyin": "zǒngshì",
+        "translation": "always"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "\"",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "你",
+        "pinyin": "nǐ",
+        "translation": "you"
+      },
+      {
+        "text": "吃",
+        "pinyin": "chī",
+        "translation": "eat"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(past marker)"
+      },
+      {
+        "text": "吗",
+        "pinyin": "ma",
+        "translation": "(question particle)"
+      },
+      {
+        "text": "？",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "\"",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "很多",
+        "pinyin": "hěnduō",
+        "translation": "many"
+      },
+      {
+        "text": "人",
+        "pinyin": "rén",
+        "translation": "people"
+      },
+      {
+        "text": "被",
+        "pinyin": "bèi",
+        "translation": "(passive marker)"
+      },
+      {
+        "text": "她",
+        "pinyin": "tā",
+        "translation": "her"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "直接",
+        "pinyin": "zhíjiē",
+        "translation": "direct"
+      },
+      {
+        "text": "吓到",
+        "pinyin": "xiàdào",
+        "translation": "frighten"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(past marker)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "最",
+        "pinyin": "zuì",
+        "translation": "most"
+      },
+      {
+        "text": "搞笑",
+        "pinyin": "gǎoxiào",
+        "translation": "funny"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "is"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "她",
+        "pinyin": "tā",
+        "translation": "she"
+      },
+      {
+        "text": "完全",
+        "pinyin": "wánquán",
+        "translation": "completely"
+      },
+      {
+        "text": "不",
+        "pinyin": "bù",
+        "translation": "not"
+      },
+      {
+        "text": "理解",
+        "pinyin": "lǐjiě",
+        "translation": "understand"
+      },
+      {
+        "text": "表情",
+        "pinyin": "biǎoqíng",
+        "translation": "emojis"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "意思",
+        "pinyin": "yìsi",
+        "translation": "meaning"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "有",
+        "pinyin": "yǒu",
+        "translation": "have"
+      },
+      {
+        "text": "一次",
+        "pinyin": "yīcì",
+        "translation": "once"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "别人",
+        "pinyin": "biérén",
+        "translation": "others"
+      },
+      {
+        "text": "发",
+        "pinyin": "fā",
+        "translation": "send"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(past marker)"
+      },
+      {
+        "text": "一个",
+        "pinyin": "yīgè",
+        "translation": "one"
+      },
+      {
+        "text": "哭",
+        "pinyin": "kū",
+        "translation": "crying"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "表情",
+        "pinyin": "biǎoqíng",
+        "translation": "emoji"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "她",
+        "pinyin": "tā",
+        "translation": "she"
+      },
+      {
+        "text": "以为",
+        "pinyin": "yǐwéi",
+        "translation": "think"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "is"
+      },
+      {
+        "text": "笑",
+        "pinyin": "xiào",
+        "translation": "laugh"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "回",
+        "pinyin": "huí",
+        "translation": "reply"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(past marker)"
+      },
+      {
+        "text": "二十",
+        "pinyin": "èrshí",
+        "translation": "twenty"
+      },
+      {
+        "text": "个",
+        "pinyin": "gè",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "过",
+        "pinyin": "guò",
+        "translation": "pass"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(past marker)"
+      },
+      {
+        "text": "几",
+        "pinyin": "jǐ",
+        "translation": "several"
+      },
+      {
+        "text": "天",
+        "pinyin": "tiān",
+        "translation": "days"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "奶奶",
+        "pinyin": "nǎinai",
+        "translation": "grandma"
+      },
+      {
+        "text": "学会",
+        "pinyin": "xuéhuì",
+        "translation": "learn"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(past marker)"
+      },
+      {
+        "text": "发",
+        "pinyin": "fā",
+        "translation": "post"
+      },
+      {
+        "text": "朋友圈",
+        "pinyin": "péngyouquān",
+        "translation": "social media"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "她",
+        "pinyin": "tā",
+        "translation": "she"
+      },
+      {
+        "text": "每天",
+        "pinyin": "měitiān",
+        "translation": "every day"
+      },
+      {
+        "text": "都",
+        "pinyin": "dōu",
+        "translation": "all"
+      },
+      {
+        "text": "发",
+        "pinyin": "fā",
+        "translation": "post"
+      },
+      {
+        "text": "自己",
+        "pinyin": "zìjǐ",
+        "translation": "herself"
+      },
+      {
+        "text": "做",
+        "pinyin": "zuò",
+        "translation": "make"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "饭",
+        "pinyin": "fàn",
+        "translation": "food"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "配",
+        "pinyin": "pèi",
+        "translation": "with"
+      },
+      {
+        "text": "上",
+        "pinyin": "shàng",
+        "translation": "on"
+      },
+      {
+        "text": "文字",
+        "pinyin": "wénzì",
+        "translation": "text"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "\"",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "今天",
+        "pinyin": "jīntiān",
+        "translation": "today"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "菜",
+        "pinyin": "cài",
+        "translation": "dishes"
+      },
+      {
+        "text": "不",
+        "pinyin": "bù",
+        "translation": "not"
+      },
+      {
+        "text": "太",
+        "pinyin": "tài",
+        "translation": "too"
+      },
+      {
+        "text": "咸",
+        "pinyin": "xián",
+        "translation": "salty"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "你们",
+        "pinyin": "nǐmen",
+        "translation": "you all"
+      },
+      {
+        "text": "觉得",
+        "pinyin": "juéde",
+        "translation": "think"
+      },
+      {
+        "text": "怎么样",
+        "pinyin": "zěnmeyàng",
+        "translation": "how"
+      },
+      {
+        "text": "？",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "\"",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "这种",
+        "pinyin": "zhèzhǒng",
+        "translation": "this kind"
+      },
+      {
+        "text": "真实",
+        "pinyin": "zhēnshí",
+        "translation": "authentic"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "风格",
+        "pinyin": "fēnggé",
+        "translation": "style"
+      },
+      {
+        "text": "让",
+        "pinyin": "ràng",
+        "translation": "make"
+      },
+      {
+        "text": "她",
+        "pinyin": "tā",
+        "translation": "her"
+      },
+      {
+        "text": "意外",
+        "pinyin": "yìwài",
+        "translation": "unexpectedly"
+      },
+      {
+        "text": "地",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "火",
+        "pinyin": "huǒ",
+        "translation": "popular"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(past marker)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "随着",
+        "pinyin": "suízhe",
+        "translation": "along with"
+      },
+      {
+        "text": "时间",
+        "pinyin": "shíjiān",
+        "translation": "time"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "推移",
+        "pinyin": "tuīyí",
+        "translation": "pass"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "越来越",
+        "pinyin": "yuèláiyuè",
+        "translation": "more and more"
+      },
+      {
+        "text": "多",
+        "pinyin": "duō",
+        "translation": "many"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "人",
+        "pinyin": "rén",
+        "translation": "people"
+      },
+      {
+        "text": "关注",
+        "pinyin": "guānzhù",
+        "translation": "follow"
+      },
+      {
+        "text": "她",
+        "pinyin": "tā",
+        "translation": "her"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "大家",
+        "pinyin": "dàjiā",
+        "translation": "everyone"
+      },
+      {
+        "text": "都",
+        "pinyin": "dōu",
+        "translation": "all"
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "say"
+      },
+      {
+        "text": "她",
+        "pinyin": "tā",
+        "translation": "she"
+      },
+      {
+        "text": "太",
+        "pinyin": "tài",
+        "translation": "too"
+      },
+      {
+        "text": "可爱",
+        "pinyin": "kě'ài",
+        "translation": "cute"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "像",
+        "pinyin": "xiàng",
+        "translation": "like"
+      },
+      {
+        "text": "自己",
+        "pinyin": "zìjǐ",
+        "translation": "one's own"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "奶奶",
+        "pinyin": "nǎinai",
+        "translation": "grandma"
+      },
+      {
+        "text": "一样",
+        "pinyin": "yīyàng",
+        "translation": "same"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "现在",
+        "pinyin": "xiànzài",
+        "translation": "now"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "奶奶",
+        "pinyin": "nǎinai",
+        "translation": "grandma"
+      },
+      {
+        "text": "有",
+        "pinyin": "yǒu",
+        "translation": "has"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(past marker)"
+      },
+      {
+        "text": "一个",
+        "pinyin": "yīgè",
+        "translation": "one"
+      },
+      {
+        "text": "老年",
+        "pinyin": "lǎonián",
+        "translation": "elderly"
+      },
+      {
+        "text": "朋友",
+        "pinyin": "péngyou",
+        "translation": "friends"
+      },
+      {
+        "text": "群",
+        "pinyin": "qún",
+        "translation": "group"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "他们",
+        "pinyin": "tāmen",
+        "translation": "they"
+      },
+      {
+        "text": "每天",
+        "pinyin": "měitiān",
+        "translation": "every day"
+      },
+      {
+        "text": "在",
+        "pinyin": "zài",
+        "translation": "in"
+      },
+      {
+        "text": "群里",
+        "pinyin": "qúnlǐ",
+        "translation": "group"
+      },
+      {
+        "text": "聊天",
+        "pinyin": "liáotiān",
+        "translation": "chat"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "分享",
+        "pinyin": "fēnxiǎng",
+        "translation": "share"
+      },
+      {
+        "text": "生活",
+        "pinyin": "shēnghuó",
+        "translation": "life"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "虽然",
+        "pinyin": "suīrán",
+        "translation": "although"
+      },
+      {
+        "text": "她",
+        "pinyin": "tā",
+        "translation": "she"
+      },
+      {
+        "text": "用",
+        "pinyin": "yòng",
+        "translation": "use"
+      },
+      {
+        "text": "手机",
+        "pinyin": "shǒujī",
+        "translation": "phone"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "方式",
+        "pinyin": "fāngshì",
+        "translation": "way"
+      },
+      {
+        "text": "还是",
+        "pinyin": "háishì",
+        "translation": "still"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "奇怪",
+        "pinyin": "qíguài",
+        "translation": "strange"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "但",
+        "pinyin": "dàn",
+        "translation": "but"
+      },
+      {
+        "text": "这",
+        "pinyin": "zhè",
+        "translation": "this"
+      },
+      {
+        "text": "让",
+        "pinyin": "ràng",
+        "translation": "makes"
+      },
+      {
+        "text": "她",
+        "pinyin": "tā",
+        "translation": "her"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "生活",
+        "pinyin": "shēnghuó",
+        "translation": "life"
+      },
+      {
+        "text": "变得",
+        "pinyin": "biànde",
+        "translation": "become"
+      },
+      {
+        "text": "更",
+        "pinyin": "gèng",
+        "translation": "more"
+      },
+      {
+        "text": "丰富",
+        "pinyin": "fēngfù",
+        "translation": "rich"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "明白",
+        "pinyin": "míngbai",
+        "translation": "understand"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(past marker)"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "技术",
+        "pinyin": "jìshù",
+        "translation": "technology"
+      },
+      {
+        "text": "不是",
+        "pinyin": "bùshì",
+        "translation": "is not"
+      },
+      {
+        "text": "最",
+        "pinyin": "zuì",
+        "translation": "most"
+      },
+      {
+        "text": "重要",
+        "pinyin": "zhòngyào",
+        "translation": "important"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "重要",
+        "pinyin": "zhòngyào",
+        "translation": "important"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "is"
+      },
+      {
+        "text": "人",
+        "pinyin": "rén",
+        "translation": "people"
+      },
+      {
+        "text": "与",
+        "pinyin": "yǔ",
+        "translation": "and"
+      },
+      {
+        "text": "人",
+        "pinyin": "rén",
+        "translation": "people"
+      },
+      {
+        "text": "之间",
+        "pinyin": "zhījiān",
+        "translation": "between"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "连接",
+        "pinyin": "liánjiē",
+        "translation": "connection"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ]
+  ]
+}

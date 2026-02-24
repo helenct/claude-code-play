@@ -1,0 +1,1110 @@
+{
+  "id": "hsk2-magical-magic-kitchen",
+  "title": "魔法厨房",
+  "title_segments": [
+    {
+      "text": "魔法",
+      "pinyin": "mófǎ",
+      "translation": "magic"
+    },
+    {
+      "text": "厨房",
+      "pinyin": "chúfáng",
+      "translation": "kitchen"
+    }
+  ],
+  "genre": "Magical Realism",
+  "level": 2,
+  "content": [
+    [
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "最近",
+        "pinyin": "zuìjìn",
+        "translation": "recently"
+      },
+      {
+        "text": "发现",
+        "pinyin": "fāxiàn",
+        "translation": "discover"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "个",
+        "pinyin": "gè",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "秘密",
+        "pinyin": "mìmì",
+        "translation": "secret"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "做饭",
+        "pinyin": "zuòfàn",
+        "translation": "cook"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "时候",
+        "pinyin": "shíhou",
+        "translation": "time/when"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "菜",
+        "pinyin": "cài",
+        "translation": "dish/food"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "味道",
+        "pinyin": "wèidào",
+        "translation": "taste"
+      },
+      {
+        "text": "会",
+        "pinyin": "huì",
+        "translation": "will"
+      },
+      {
+        "text": "变",
+        "pinyin": "biàn",
+        "translation": "change"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "不是",
+        "pinyin": "bú shì",
+        "translation": "not"
+      },
+      {
+        "text": "因为",
+        "pinyin": "yīnwèi",
+        "translation": "because"
+      },
+      {
+        "text": "食材",
+        "pinyin": "shícái",
+        "translation": "ingredients"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "而是",
+        "pinyin": "érshì",
+        "translation": "but rather"
+      },
+      {
+        "text": "因为",
+        "pinyin": "yīnwèi",
+        "translation": "because"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "my"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "心情",
+        "pinyin": "xīnqíng",
+        "translation": "mood"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "上",
+        "pinyin": "shàng",
+        "translation": "last"
+      },
+      {
+        "text": "星期",
+        "pinyin": "xīngqī",
+        "translation": "week"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "高兴",
+        "pinyin": "gāoxìng",
+        "translation": "happy"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "因为",
+        "pinyin": "yīnwèi",
+        "translation": "because"
+      },
+      {
+        "text": "考试",
+        "pinyin": "kǎoshì",
+        "translation": "exam"
+      },
+      {
+        "text": "考",
+        "pinyin": "kǎo",
+        "translation": "test"
+      },
+      {
+        "text": "得",
+        "pinyin": "de",
+        "translation": "(complement marker)"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "好",
+        "pinyin": "hǎo",
+        "translation": "good"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "那",
+        "pinyin": "nà",
+        "translation": "that"
+      },
+      {
+        "text": "天",
+        "pinyin": "tiān",
+        "translation": "day"
+      },
+      {
+        "text": "晚上",
+        "pinyin": "wǎnshang",
+        "translation": "evening"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "做",
+        "pinyin": "zuò",
+        "translation": "make"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "糖醋",
+        "pinyin": "tángcù",
+        "translation": "sweet and sour"
+      },
+      {
+        "text": "鱼",
+        "pinyin": "yú",
+        "translation": "fish"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "妈妈",
+        "pinyin": "māma",
+        "translation": "mom"
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "say"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "这",
+        "pinyin": "zhè",
+        "translation": "this"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "is"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "吃",
+        "pinyin": "chī",
+        "translation": "eat"
+      },
+      {
+        "text": "过",
+        "pinyin": "guò",
+        "translation": "(experience marker)"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "最",
+        "pinyin": "zuì",
+        "translation": "most"
+      },
+      {
+        "text": "好吃",
+        "pinyin": "hǎochī",
+        "translation": "delicious"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "鱼",
+        "pinyin": "yú",
+        "translation": "fish"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "甜甜的",
+        "pinyin": "tián tián de",
+        "translation": "sweet"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "幸福",
+        "pinyin": "xìngfú",
+        "translation": "happy/blessed"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "味道",
+        "pinyin": "wèidào",
+        "translation": "taste"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "但是",
+        "pinyin": "dànshì",
+        "translation": "but"
+      },
+      {
+        "text": "昨天",
+        "pinyin": "zuótiān",
+        "translation": "yesterday"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "难过",
+        "pinyin": "nánguò",
+        "translation": "sad"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "因为",
+        "pinyin": "yīnwèi",
+        "translation": "because"
+      },
+      {
+        "text": "跟",
+        "pinyin": "gēn",
+        "translation": "with"
+      },
+      {
+        "text": "朋友",
+        "pinyin": "péngyou",
+        "translation": "friend"
+      },
+      {
+        "text": "吵架",
+        "pinyin": "chǎojià",
+        "translation": "argue/quarrel"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "又",
+        "pinyin": "yòu",
+        "translation": "again"
+      },
+      {
+        "text": "做",
+        "pinyin": "zuò",
+        "translation": "make"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "糖醋",
+        "pinyin": "tángcù",
+        "translation": "sweet and sour"
+      },
+      {
+        "text": "鱼",
+        "pinyin": "yú",
+        "translation": "fish"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "用",
+        "pinyin": "yòng",
+        "translation": "use"
+      },
+      {
+        "text": "一样",
+        "pinyin": "yīyàng",
+        "translation": "same"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "东西",
+        "pinyin": "dōngxi",
+        "translation": "things"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "一样",
+        "pinyin": "yīyàng",
+        "translation": "same"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "方法",
+        "pinyin": "fāngfǎ",
+        "translation": "method"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "但是",
+        "pinyin": "dànshì",
+        "translation": "but"
+      },
+      {
+        "text": "这",
+        "pinyin": "zhè",
+        "translation": "this"
+      },
+      {
+        "text": "次",
+        "pinyin": "cì",
+        "translation": "time"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "鱼",
+        "pinyin": "yú",
+        "translation": "fish"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "苦",
+        "pinyin": "kǔ",
+        "translation": "bitter"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "爸爸",
+        "pinyin": "bàba",
+        "translation": "dad"
+      },
+      {
+        "text": "都",
+        "pinyin": "dōu",
+        "translation": "even"
+      },
+      {
+        "text": "吃",
+        "pinyin": "chī",
+        "translation": "eat"
+      },
+      {
+        "text": "不",
+        "pinyin": "bù",
+        "translation": "not"
+      },
+      {
+        "text": "下去",
+        "pinyin": "xiàqù",
+        "translation": "down/finish"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "今天",
+        "pinyin": "jīntiān",
+        "translation": "today"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "想",
+        "pinyin": "xiǎng",
+        "translation": "want"
+      },
+      {
+        "text": "做",
+        "pinyin": "zuò",
+        "translation": "try"
+      },
+      {
+        "text": "个",
+        "pinyin": "gè",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "试验",
+        "pinyin": "shìyàn",
+        "translation": "experiment"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "先",
+        "pinyin": "xiān",
+        "translation": "first"
+      },
+      {
+        "text": "生气",
+        "pinyin": "shēngqì",
+        "translation": "angry"
+      },
+      {
+        "text": "地",
+        "pinyin": "de",
+        "translation": "(adverb marker)"
+      },
+      {
+        "text": "切",
+        "pinyin": "qiē",
+        "translation": "cut"
+      },
+      {
+        "text": "菜",
+        "pinyin": "cài",
+        "translation": "vegetables"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "菜",
+        "pinyin": "cài",
+        "translation": "dish"
+      },
+      {
+        "text": "有",
+        "pinyin": "yǒu",
+        "translation": "have"
+      },
+      {
+        "text": "一点儿",
+        "pinyin": "yìdiǎnr",
+        "translation": "a little"
+      },
+      {
+        "text": "辣",
+        "pinyin": "là",
+        "translation": "spicy"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "然后",
+        "pinyin": "ránhòu",
+        "translation": "then"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "高兴",
+        "pinyin": "gāoxìng",
+        "translation": "happy"
+      },
+      {
+        "text": "地",
+        "pinyin": "de",
+        "translation": "(adverb marker)"
+      },
+      {
+        "text": "炒",
+        "pinyin": "chǎo",
+        "translation": "stir-fry"
+      },
+      {
+        "text": "菜",
+        "pinyin": "cài",
+        "translation": "vegetables"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "菜",
+        "pinyin": "cài",
+        "translation": "dish"
+      },
+      {
+        "text": "变",
+        "pinyin": "biàn",
+        "translation": "become"
+      },
+      {
+        "text": "甜",
+        "pinyin": "tián",
+        "translation": "sweet"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(change of state)"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "真的",
+        "pinyin": "zhēnde",
+        "translation": "really"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "神奇",
+        "pinyin": "shénqí",
+        "translation": "magical/amazing"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "厨房",
+        "pinyin": "chúfáng",
+        "translation": "kitchen"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "is"
+      },
+      {
+        "text": "魔法",
+        "pinyin": "mófǎ",
+        "translation": "magic"
+      },
+      {
+        "text": "厨房",
+        "pinyin": "chúfáng",
+        "translation": "kitchen"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "感觉",
+        "pinyin": "gǎnjué",
+        "translation": "feeling"
+      },
+      {
+        "text": "会",
+        "pinyin": "huì",
+        "translation": "will"
+      },
+      {
+        "text": "进入",
+        "pinyin": "jìnrù",
+        "translation": "enter"
+      },
+      {
+        "text": "食物",
+        "pinyin": "shíwù",
+        "translation": "food"
+      },
+      {
+        "text": "里",
+        "pinyin": "lǐ",
+        "translation": "inside"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "现在",
+        "pinyin": "xiànzài",
+        "translation": "now"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "明白",
+        "pinyin": "míngbai",
+        "translation": "understand"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "做饭",
+        "pinyin": "zuòfàn",
+        "translation": "cooking"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "时候",
+        "pinyin": "shíhou",
+        "translation": "time/when"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "要",
+        "pinyin": "yào",
+        "translation": "must"
+      },
+      {
+        "text": "保持",
+        "pinyin": "bǎochí",
+        "translation": "keep/maintain"
+      },
+      {
+        "text": "好",
+        "pinyin": "hǎo",
+        "translation": "good"
+      },
+      {
+        "text": "心情",
+        "pinyin": "xīnqíng",
+        "translation": "mood"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "这样",
+        "pinyin": "zhèyàng",
+        "translation": "this way"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "菜",
+        "pinyin": "cài",
+        "translation": "food"
+      },
+      {
+        "text": "才",
+        "pinyin": "cái",
+        "translation": "only then"
+      },
+      {
+        "text": "会",
+        "pinyin": "huì",
+        "translation": "will"
+      },
+      {
+        "text": "好吃",
+        "pinyin": "hǎochī",
+        "translation": "delicious"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "也",
+        "pinyin": "yě",
+        "translation": "also"
+      },
+      {
+        "text": "学会",
+        "pinyin": "xuéhuì",
+        "translation": "learn"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "控制",
+        "pinyin": "kòngzhì",
+        "translation": "control"
+      },
+      {
+        "text": "自己",
+        "pinyin": "zìjǐ",
+        "translation": "oneself"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "心情",
+        "pinyin": "xīnqíng",
+        "translation": "mood"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "这",
+        "pinyin": "zhè",
+        "translation": "this"
+      },
+      {
+        "text": "个",
+        "pinyin": "gè",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "魔法",
+        "pinyin": "mófǎ",
+        "translation": "magic"
+      },
+      {
+        "text": "厨房",
+        "pinyin": "chúfáng",
+        "translation": "kitchen"
+      },
+      {
+        "text": "教会",
+        "pinyin": "jiāohuì",
+        "translation": "teach"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "me"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "多",
+        "pinyin": "duō",
+        "translation": "many"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "不",
+        "pinyin": "bù",
+        "translation": "not"
+      },
+      {
+        "text": "只是",
+        "pinyin": "zhǐshì",
+        "translation": "only"
+      },
+      {
+        "text": "做饭",
+        "pinyin": "zuòfàn",
+        "translation": "cooking"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "还有",
+        "pinyin": "háiyǒu",
+        "translation": "also"
+      },
+      {
+        "text": "生活",
+        "pinyin": "shēnghuó",
+        "translation": "life"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ]
+  ]
+}

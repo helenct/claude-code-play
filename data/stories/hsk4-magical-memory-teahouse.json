@@ -1,0 +1,1343 @@
+{
+  "id": "hsk4-magical-memory-teahouse",
+  "title": "记忆茶馆",
+  "title_segments": [
+    {
+      "text": "记忆",
+      "pinyin": "jìyì",
+      "translation": "memory"
+    },
+    {
+      "text": "茶馆",
+      "pinyin": "cháguǎn",
+      "translation": "teahouse"
+    }
+  ],
+  "genre": "Magical Realism",
+  "level": 4,
+  "content": [
+    [
+      {
+        "text": "在",
+        "pinyin": "zài",
+        "translation": "at"
+      },
+      {
+        "text": "老",
+        "pinyin": "lǎo",
+        "translation": "old"
+      },
+      {
+        "text": "城区",
+        "pinyin": "chéngqū",
+        "translation": "city district"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "深",
+        "pinyin": "shēn",
+        "translation": "deep"
+      },
+      {
+        "text": "处",
+        "pinyin": "chù",
+        "translation": "place"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "有",
+        "pinyin": "yǒu",
+        "translation": "there is"
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "家",
+        "pinyin": "jiā",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "神秘",
+        "pinyin": "shénmì",
+        "translation": "mysterious"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "茶馆",
+        "pinyin": "cháguǎn",
+        "translation": "teahouse"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "据说",
+        "pinyin": "jùshuō",
+        "translation": "it is said"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "这里",
+        "pinyin": "zhèlǐ",
+        "translation": "here"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "茶",
+        "pinyin": "chá",
+        "translation": "tea"
+      },
+      {
+        "text": "能",
+        "pinyin": "néng",
+        "translation": "can"
+      },
+      {
+        "text": "改变",
+        "pinyin": "gǎibiàn",
+        "translation": "change"
+      },
+      {
+        "text": "人",
+        "pinyin": "rén",
+        "translation": "people"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "记忆",
+        "pinyin": "jìyì",
+        "translation": "memory"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "am"
+      },
+      {
+        "text": "被",
+        "pinyin": "bèi",
+        "translation": "(passive marker)"
+      },
+      {
+        "text": "一个",
+        "pinyin": "yīgè",
+        "translation": "one"
+      },
+      {
+        "text": "朋友",
+        "pinyin": "péngyou",
+        "translation": "friend"
+      },
+      {
+        "text": "带",
+        "pinyin": "dài",
+        "translation": "bring"
+      },
+      {
+        "text": "去",
+        "pinyin": "qù",
+        "translation": "go"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "走",
+        "pinyin": "zǒu",
+        "translation": "walk"
+      },
+      {
+        "text": "进",
+        "pinyin": "jìn",
+        "translation": "enter"
+      },
+      {
+        "text": "茶馆",
+        "pinyin": "cháguǎn",
+        "translation": "teahouse"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "老板",
+        "pinyin": "lǎobǎn",
+        "translation": "owner"
+      },
+      {
+        "text": "给",
+        "pinyin": "gěi",
+        "translation": "give"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "me"
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "份",
+        "pinyin": "fèn",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "菜单",
+        "pinyin": "càidān",
+        "translation": "menu"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "上面",
+        "pinyin": "shàngmiàn",
+        "translation": "on it"
+      },
+      {
+        "text": "写",
+        "pinyin": "xiě",
+        "translation": "write"
+      },
+      {
+        "text": "着",
+        "pinyin": "zhe",
+        "translation": "(particle)"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "茉莉花茶",
+        "pinyin": "mòlìhuāchá",
+        "translation": "jasmine tea"
+      },
+      {
+        "text": "可以",
+        "pinyin": "kěyǐ",
+        "translation": "can"
+      },
+      {
+        "text": "让",
+        "pinyin": "ràng",
+        "translation": "make"
+      },
+      {
+        "text": "痛苦",
+        "pinyin": "tòngkǔ",
+        "translation": "painful"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "记忆",
+        "pinyin": "jìyì",
+        "translation": "memory"
+      },
+      {
+        "text": "变",
+        "pinyin": "biàn",
+        "translation": "become"
+      },
+      {
+        "text": "淡",
+        "pinyin": "dàn",
+        "translation": "faint"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "乌龙茶",
+        "pinyin": "wūlóngchá",
+        "translation": "oolong tea"
+      },
+      {
+        "text": "让",
+        "pinyin": "ràng",
+        "translation": "make"
+      },
+      {
+        "text": "快乐",
+        "pinyin": "kuàilè",
+        "translation": "happy"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "记忆",
+        "pinyin": "jìyì",
+        "translation": "memory"
+      },
+      {
+        "text": "更",
+        "pinyin": "gèng",
+        "translation": "more"
+      },
+      {
+        "text": "清晰",
+        "pinyin": "qīngxī",
+        "translation": "clear"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "普洱茶",
+        "pinyin": "pǔ'ěrchá",
+        "translation": "pu'er tea"
+      },
+      {
+        "text": "能",
+        "pinyin": "néng",
+        "translation": "can"
+      },
+      {
+        "text": "让",
+        "pinyin": "ràng",
+        "translation": "make"
+      },
+      {
+        "text": "你",
+        "pinyin": "nǐ",
+        "translation": "you"
+      },
+      {
+        "text": "从",
+        "pinyin": "cóng",
+        "translation": "from"
+      },
+      {
+        "text": "别人",
+        "pinyin": "biérén",
+        "translation": "others"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "角度",
+        "pinyin": "jiǎodù",
+        "translation": "perspective"
+      },
+      {
+        "text": "看",
+        "pinyin": "kàn",
+        "translation": "see"
+      },
+      {
+        "text": "同一",
+        "pinyin": "tóngyī",
+        "translation": "same"
+      },
+      {
+        "text": "个",
+        "pinyin": "gè",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "记忆",
+        "pinyin": "jìyì",
+        "translation": "memory"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "想起",
+        "pinyin": "xiǎngqǐ",
+        "translation": "remember"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(past marker)"
+      },
+      {
+        "text": "去年",
+        "pinyin": "qùnián",
+        "translation": "last year"
+      },
+      {
+        "text": "父亲",
+        "pinyin": "fùqīn",
+        "translation": "father"
+      },
+      {
+        "text": "去世",
+        "pinyin": "qùshì",
+        "translation": "pass away"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "事",
+        "pinyin": "shì",
+        "translation": "matter"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "那",
+        "pinyin": "nà",
+        "translation": "that"
+      },
+      {
+        "text": "段",
+        "pinyin": "duàn",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "记忆",
+        "pinyin": "jìyì",
+        "translation": "memory"
+      },
+      {
+        "text": "太",
+        "pinyin": "tài",
+        "translation": "too"
+      },
+      {
+        "text": "痛苦",
+        "pinyin": "tòngkǔ",
+        "translation": "painful"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "点",
+        "pinyin": "diǎn",
+        "translation": "order"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(past marker)"
+      },
+      {
+        "text": "茉莉花茶",
+        "pinyin": "mòlìhuāchá",
+        "translation": "jasmine tea"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "喝",
+        "pinyin": "hē",
+        "translation": "drink"
+      },
+      {
+        "text": "下",
+        "pinyin": "xià",
+        "translation": "down"
+      },
+      {
+        "text": "第一",
+        "pinyin": "dìyī",
+        "translation": "first"
+      },
+      {
+        "text": "口",
+        "pinyin": "kǒu",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "后",
+        "pinyin": "hòu",
+        "translation": "after"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "感觉",
+        "pinyin": "gǎnjué",
+        "translation": "feel"
+      },
+      {
+        "text": "那些",
+        "pinyin": "nàxiē",
+        "translation": "those"
+      },
+      {
+        "text": "悲伤",
+        "pinyin": "bēishāng",
+        "translation": "sadness"
+      },
+      {
+        "text": "慢慢",
+        "pinyin": "mànmàn",
+        "translation": "slowly"
+      },
+      {
+        "text": "地",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "变",
+        "pinyin": "biàn",
+        "translation": "become"
+      },
+      {
+        "text": "淡",
+        "pinyin": "dàn",
+        "translation": "faint"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(past marker)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "仍然",
+        "pinyin": "réngrán",
+        "translation": "still"
+      },
+      {
+        "text": "记得",
+        "pinyin": "jìde",
+        "translation": "remember"
+      },
+      {
+        "text": "父亲",
+        "pinyin": "fùqīn",
+        "translation": "father"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "但",
+        "pinyin": "dàn",
+        "translation": "but"
+      },
+      {
+        "text": "心",
+        "pinyin": "xīn",
+        "translation": "heart"
+      },
+      {
+        "text": "不",
+        "pinyin": "bù",
+        "translation": "not"
+      },
+      {
+        "text": "那么",
+        "pinyin": "nàme",
+        "translation": "that"
+      },
+      {
+        "text": "疼",
+        "pinyin": "téng",
+        "translation": "hurt"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "接着",
+        "pinyin": "jiēzhe",
+        "translation": "next"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "要",
+        "pinyin": "yào",
+        "translation": "want"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(past marker)"
+      },
+      {
+        "text": "普洱茶",
+        "pinyin": "pǔ'ěrchá",
+        "translation": "pu'er tea"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "想",
+        "pinyin": "xiǎng",
+        "translation": "want"
+      },
+      {
+        "text": "知道",
+        "pinyin": "zhīdào",
+        "translation": "know"
+      },
+      {
+        "text": "父亲",
+        "pinyin": "fùqīn",
+        "translation": "father"
+      },
+      {
+        "text": "最后",
+        "pinyin": "zuìhòu",
+        "translation": "last"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "日子",
+        "pinyin": "rìzi",
+        "translation": "days"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "be"
+      },
+      {
+        "text": "怎么",
+        "pinyin": "zěnme",
+        "translation": "how"
+      },
+      {
+        "text": "想",
+        "pinyin": "xiǎng",
+        "translation": "think"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "喝",
+        "pinyin": "hē",
+        "translation": "drink"
+      },
+      {
+        "text": "下",
+        "pinyin": "xià",
+        "translation": "down"
+      },
+      {
+        "text": "茶",
+        "pinyin": "chá",
+        "translation": "tea"
+      },
+      {
+        "text": "后",
+        "pinyin": "hòu",
+        "translation": "after"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "突然",
+        "pinyin": "túrán",
+        "translation": "suddenly"
+      },
+      {
+        "text": "看到",
+        "pinyin": "kàndào",
+        "translation": "see"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(past marker)"
+      },
+      {
+        "text": "从",
+        "pinyin": "cóng",
+        "translation": "from"
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "his"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "角度",
+        "pinyin": "jiǎodù",
+        "translation": "perspective"
+      },
+      {
+        "text": "看到",
+        "pinyin": "kàndào",
+        "translation": "see"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "画面",
+        "pinyin": "huàmiàn",
+        "translation": "scene"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "躺",
+        "pinyin": "tǎng",
+        "translation": "lie"
+      },
+      {
+        "text": "在",
+        "pinyin": "zài",
+        "translation": "at"
+      },
+      {
+        "text": "病床",
+        "pinyin": "bìngchuáng",
+        "translation": "hospital bed"
+      },
+      {
+        "text": "上",
+        "pinyin": "shàng",
+        "translation": "on"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "看",
+        "pinyin": "kàn",
+        "translation": "look at"
+      },
+      {
+        "text": "着",
+        "pinyin": "zhe",
+        "translation": "(particle)"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "me"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "心里",
+        "pinyin": "xīnlǐ",
+        "translation": "heart"
+      },
+      {
+        "text": "不是",
+        "pinyin": "bùshì",
+        "translation": "not"
+      },
+      {
+        "text": "害怕",
+        "pinyin": "hàipà",
+        "translation": "fear"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "而是",
+        "pinyin": "érshì",
+        "translation": "but rather"
+      },
+      {
+        "text": "平静",
+        "pinyin": "píngjìng",
+        "translation": "peaceful"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "想",
+        "pinyin": "xiǎng",
+        "translation": "think"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "\"",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "孩子",
+        "pinyin": "háizi",
+        "translation": "child"
+      },
+      {
+        "text": "长大",
+        "pinyin": "zhǎngdà",
+        "translation": "grow up"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(past marker)"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "可以",
+        "pinyin": "kěyǐ",
+        "translation": "can"
+      },
+      {
+        "text": "放心",
+        "pinyin": "fàngxīn",
+        "translation": "be at ease"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "\"",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "这个",
+        "pinyin": "zhège",
+        "translation": "this"
+      },
+      {
+        "text": "发现",
+        "pinyin": "fāxiàn",
+        "translation": "discovery"
+      },
+      {
+        "text": "让",
+        "pinyin": "ràng",
+        "translation": "make"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "me"
+      },
+      {
+        "text": "哭",
+        "pinyin": "kū",
+        "translation": "cry"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(past marker)"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "但",
+        "pinyin": "dàn",
+        "translation": "but"
+      },
+      {
+        "text": "也",
+        "pinyin": "yě",
+        "translation": "also"
+      },
+      {
+        "text": "让",
+        "pinyin": "ràng",
+        "translation": "make"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "me"
+      },
+      {
+        "text": "释然",
+        "pinyin": "shìrán",
+        "translation": "relieved"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(past marker)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "老板",
+        "pinyin": "lǎobǎn",
+        "translation": "owner"
+      },
+      {
+        "text": "问",
+        "pinyin": "wèn",
+        "translation": "ask"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "me"
+      },
+      {
+        "text": "要不要",
+        "pinyin": "yàobuyào",
+        "translation": "want or not"
+      },
+      {
+        "text": "再",
+        "pinyin": "zài",
+        "translation": "again"
+      },
+      {
+        "text": "喝",
+        "pinyin": "hē",
+        "translation": "drink"
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "杯",
+        "pinyin": "bēi",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "摇",
+        "pinyin": "yáo",
+        "translation": "shake"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(past marker)"
+      },
+      {
+        "text": "摇头",
+        "pinyin": "yáotóu",
+        "translation": "head"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "明白",
+        "pinyin": "míngbai",
+        "translation": "understand"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(past marker)"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "记忆",
+        "pinyin": "jìyì",
+        "translation": "memory"
+      },
+      {
+        "text": "无论",
+        "pinyin": "wúlùn",
+        "translation": "no matter"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "be"
+      },
+      {
+        "text": "快乐",
+        "pinyin": "kuàilè",
+        "translation": "happy"
+      },
+      {
+        "text": "还是",
+        "pinyin": "háishì",
+        "translation": "or"
+      },
+      {
+        "text": "痛苦",
+        "pinyin": "tòngkǔ",
+        "translation": "painful"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "都",
+        "pinyin": "dōu",
+        "translation": "all"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "are"
+      },
+      {
+        "text": "我们",
+        "pinyin": "wǒmen",
+        "translation": "our"
+      },
+      {
+        "text": "人生",
+        "pinyin": "rénshēng",
+        "translation": "life"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "部分",
+        "pinyin": "bùfen",
+        "translation": "part"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "它们",
+        "pinyin": "tāmen",
+        "translation": "they"
+      },
+      {
+        "text": "塑造",
+        "pinyin": "sùzào",
+        "translation": "shape"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(past marker)"
+      },
+      {
+        "text": "我们",
+        "pinyin": "wǒmen",
+        "translation": "us"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "让",
+        "pinyin": "ràng",
+        "translation": "make"
+      },
+      {
+        "text": "我们",
+        "pinyin": "wǒmen",
+        "translation": "us"
+      },
+      {
+        "text": "成为",
+        "pinyin": "chéngwéi",
+        "translation": "become"
+      },
+      {
+        "text": "现在",
+        "pinyin": "xiànzài",
+        "translation": "now"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "样子",
+        "pinyin": "yàngzi",
+        "translation": "appearance"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "有些",
+        "pinyin": "yǒuxiē",
+        "translation": "some"
+      },
+      {
+        "text": "记忆",
+        "pinyin": "jìyì",
+        "translation": "memories"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "最好",
+        "pinyin": "zuìhǎo",
+        "translation": "best"
+      },
+      {
+        "text": "保持",
+        "pinyin": "bǎochí",
+        "translation": "keep"
+      },
+      {
+        "text": "原样",
+        "pinyin": "yuányàng",
+        "translation": "original form"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ]
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "levels": [
+    {
+      "id": "hsk1",
+      "name": "HSK 1",
+      "stories": [
+        {
+          "id": "hsk1-scifi-talking-book",
+          "title": "会说话的书",
+          "genre": "Sci-Fi",
+          "file": "stories/hsk1-scifi-talking-book.json"
+        },
+        {
+          "id": "hsk1-historical-poets-tea",
+          "title": "诗人的茶",
+          "genre": "Historical Fiction",
+          "file": "stories/hsk1-historical-poets-tea.json"
+        },
+        {
+          "id": "hsk1-magical-shadow-friend",
+          "title": "我的影子朋友",
+          "genre": "Magical Realism",
+          "file": "stories/hsk1-magical-shadow-friend.json"
+        },
+        {
+          "id": "hsk1-comedy-reading-dog",
+          "title": "读书的狗",
+          "genre": "Comedy",
+          "file": "stories/hsk1-comedy-reading-dog.json"
+        },
+        {
+          "id": "hsk1-slice-of-life-new-neighbors",
+          "title": "新邻居",
+          "genre": "Slice of Life",
+          "file": "stories/hsk1-slice-of-life-new-neighbors.json"
+        }
+      ]
+    },
+    {
+      "id": "hsk2",
+      "name": "HSK 2",
+      "stories": [
+        {
+          "id": "hsk2-scifi-smart-alarm",
+          "title": "聪明的闹钟",
+          "genre": "Sci-Fi",
+          "file": "stories/hsk2-scifi-smart-alarm.json"
+        },
+        {
+          "id": "hsk2-historical-grandfathers-map",
+          "title": "爷爷的地图",
+          "genre": "Historical Fiction",
+          "file": "stories/hsk2-historical-grandfathers-map.json"
+        },
+        {
+          "id": "hsk2-magical-magic-kitchen",
+          "title": "魔法厨房",
+          "genre": "Magical Realism",
+          "file": "stories/hsk2-magical-magic-kitchen.json"
+        },
+        {
+          "id": "hsk2-comedy-wrong-class",
+          "title": "上错了课",
+          "genre": "Comedy",
+          "file": "stories/hsk2-comedy-wrong-class.json"
+        },
+        {
+          "id": "hsk2-mystery-lunch-thief",
+          "title": "午饭小偷",
+          "genre": "Mystery",
+          "file": "stories/hsk2-mystery-lunch-thief.json"
+        }
+      ]
+    },
+    {
+      "id": "hsk3",
+      "name": "HSK 3",
+      "stories": [
+        {
+          "id": "hsk3-scifi-label-glasses",
+          "title": "标签眼镜",
+          "genre": "Sci-Fi",
+          "file": "stories/hsk3-scifi-label-glasses.json"
+        },
+        {
+          "id": "hsk3-historical-moving-to-city",
+          "title": "进城 - 1985",
+          "genre": "Historical Fiction",
+          "file": "stories/hsk3-historical-moving-to-city.json"
+        },
+        {
+          "id": "hsk3-magical-honest-bicycle",
+          "title": "诚实的自行车",
+          "genre": "Magical Realism",
+          "file": "stories/hsk3-magical-honest-bicycle.json"
+        },
+        {
+          "id": "hsk3-comedy-wrong-phone",
+          "title": "错误的手机",
+          "genre": "Comedy",
+          "file": "stories/hsk3-comedy-wrong-phone.json"
+        },
+        {
+          "id": "hsk3-drama-balcony-garden",
+          "title": "阳台花园",
+          "genre": "Drama",
+          "file": "stories/hsk3-drama-balcony-garden.json"
+        }
+      ]
+    },
+    {
+      "id": "hsk4",
+      "name": "HSK 4",
+      "stories": [
+        {
+          "id": "hsk4-scifi-tomorrows-tea",
+          "title": "明天的茶",
+          "genre": "Sci-Fi",
+          "file": "stories/hsk4-scifi-tomorrows-tea.json"
+        },
+        {
+          "id": "hsk4-historical-calligraphers-choice",
+          "title": "书法家的选择",
+          "genre": "Historical Fiction",
+          "file": "stories/hsk4-historical-calligraphers-choice.json"
+        },
+        {
+          "id": "hsk4-magical-memory-teahouse",
+          "title": "记忆茶馆",
+          "genre": "Magical Realism",
+          "file": "stories/hsk4-magical-memory-teahouse.json"
+        },
+        {
+          "id": "hsk4-comedy-grandma-goes-digital",
+          "title": "奶奶玩网络",
+          "genre": "Comedy",
+          "file": "stories/hsk4-comedy-grandma-goes-digital.json"
+        },
+        {
+          "id": "hsk4-philosophical-park-observer",
+          "title": "公园观察者",
+          "genre": "Philosophical",
+          "file": "stories/hsk4-philosophical-park-observer.json"
+        }
+      ]
+    }
+  ]
+}

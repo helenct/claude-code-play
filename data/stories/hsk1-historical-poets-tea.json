@@ -1,0 +1,1117 @@
+{
+  "id": "hsk1-historical-poets-tea",
+  "title": "诗人的茶",
+  "title_segments": [
+    {
+      "text": "诗人",
+      "pinyin": "shīrén",
+      "translation": "poet"
+    },
+    {
+      "text": "的",
+      "pinyin": "de",
+      "translation": "'s"
+    },
+    {
+      "text": "茶",
+      "pinyin": "chá",
+      "translation": "tea"
+    }
+  ],
+  "genre": "Historical Fiction",
+  "level": 1,
+  "content": [
+    [
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "卖",
+        "pinyin": "mài",
+        "translation": "sell"
+      },
+      {
+        "text": "茶",
+        "pinyin": "chá",
+        "translation": "tea"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "茶",
+        "pinyin": "chá",
+        "translation": "tea"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "好",
+        "pinyin": "hǎo",
+        "translation": "good"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "今天",
+        "pinyin": "jīntiān",
+        "translation": "today"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "个",
+        "pinyin": "gè",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "人",
+        "pinyin": "rén",
+        "translation": "person"
+      },
+      {
+        "text": "来",
+        "pinyin": "lái",
+        "translation": "come"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "is"
+      },
+      {
+        "text": "谁",
+        "pinyin": "shéi",
+        "translation": "who"
+      },
+      {
+        "text": "？",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "高",
+        "pinyin": "gāo",
+        "translation": "tall"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "有",
+        "pinyin": "yǒu",
+        "translation": "have"
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "本",
+        "pinyin": "běn",
+        "translation": "(measure word for books)"
+      },
+      {
+        "text": "书",
+        "pinyin": "shū",
+        "translation": "book"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "你",
+        "pinyin": "nǐ",
+        "translation": "you"
+      },
+      {
+        "text": "好",
+        "pinyin": "hǎo",
+        "translation": "good/hello"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "say"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "你",
+        "pinyin": "nǐ",
+        "translation": "you"
+      },
+      {
+        "text": "喝",
+        "pinyin": "hē",
+        "translation": "drink"
+      },
+      {
+        "text": "茶",
+        "pinyin": "chá",
+        "translation": "tea"
+      },
+      {
+        "text": "吗",
+        "pinyin": "ma",
+        "translation": "(question particle)"
+      },
+      {
+        "text": "？",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "say"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "喝",
+        "pinyin": "hē",
+        "translation": "drink"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "多少",
+        "pinyin": "duōshao",
+        "translation": "how much"
+      },
+      {
+        "text": "钱",
+        "pinyin": "qián",
+        "translation": "money"
+      },
+      {
+        "text": "？",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "五",
+        "pinyin": "wǔ",
+        "translation": "five"
+      },
+      {
+        "text": "块",
+        "pinyin": "kuài",
+        "translation": "(currency measure)"
+      },
+      {
+        "text": "钱",
+        "pinyin": "qián",
+        "translation": "money"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "喝",
+        "pinyin": "hē",
+        "translation": "drink"
+      },
+      {
+        "text": "茶",
+        "pinyin": "chá",
+        "translation": "tea"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "看",
+        "pinyin": "kàn",
+        "translation": "look/read"
+      },
+      {
+        "text": "书",
+        "pinyin": "shū",
+        "translation": "book"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "高兴",
+        "pinyin": "gāoxìng",
+        "translation": "happy"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "你",
+        "pinyin": "nǐ",
+        "translation": "you"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "are"
+      },
+      {
+        "text": "学生",
+        "pinyin": "xuésheng",
+        "translation": "student"
+      },
+      {
+        "text": "吗",
+        "pinyin": "ma",
+        "translation": "(question particle)"
+      },
+      {
+        "text": "？",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "问",
+        "pinyin": "wèn",
+        "translation": "ask"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "不",
+        "pinyin": "bù",
+        "translation": "not"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "is"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "写",
+        "pinyin": "xiě",
+        "translation": "write"
+      },
+      {
+        "text": "字",
+        "pinyin": "zì",
+        "translation": "characters/words"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "say"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "看",
+        "pinyin": "kàn",
+        "translation": "look"
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "him"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "书",
+        "pinyin": "shū",
+        "translation": "book"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "里面",
+        "pinyin": "lǐmiàn",
+        "translation": "inside"
+      },
+      {
+        "text": "都",
+        "pinyin": "dōu",
+        "translation": "all"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "are"
+      },
+      {
+        "text": "字",
+        "pinyin": "zì",
+        "translation": "characters"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "漂亮",
+        "pinyin": "piàoliang",
+        "translation": "beautiful"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "你",
+        "pinyin": "nǐ",
+        "translation": "you"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "字",
+        "pinyin": "zì",
+        "translation": "characters"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "好",
+        "pinyin": "hǎo",
+        "translation": "good"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "谢谢",
+        "pinyin": "xièxie",
+        "translation": "thank you"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "say"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "明天",
+        "pinyin": "míngtiān",
+        "translation": "tomorrow"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "再",
+        "pinyin": "zài",
+        "translation": "again"
+      },
+      {
+        "text": "来",
+        "pinyin": "lái",
+        "translation": "come"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "想",
+        "pinyin": "xiǎng",
+        "translation": "want"
+      },
+      {
+        "text": "喝",
+        "pinyin": "hē",
+        "translation": "drink"
+      },
+      {
+        "text": "你",
+        "pinyin": "nǐ",
+        "translation": "your"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "茶",
+        "pinyin": "chá",
+        "translation": "tea"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "好",
+        "pinyin": "hǎo",
+        "translation": "good/okay"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "明天",
+        "pinyin": "míngtiān",
+        "translation": "tomorrow"
+      },
+      {
+        "text": "见",
+        "pinyin": "jiàn",
+        "translation": "see"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "第二",
+        "pinyin": "dì'èr",
+        "translation": "second"
+      },
+      {
+        "text": "天",
+        "pinyin": "tiān",
+        "translation": "day"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "又",
+        "pinyin": "yòu",
+        "translation": "again"
+      },
+      {
+        "text": "来",
+        "pinyin": "lái",
+        "translation": "come"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "有",
+        "pinyin": "yǒu",
+        "translation": "have"
+      },
+      {
+        "text": "两",
+        "pinyin": "liǎng",
+        "translation": "two"
+      },
+      {
+        "text": "本",
+        "pinyin": "běn",
+        "translation": "(measure word for books)"
+      },
+      {
+        "text": "书",
+        "pinyin": "shū",
+        "translation": "book"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "给",
+        "pinyin": "gěi",
+        "translation": "give"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "me"
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "本",
+        "pinyin": "běn",
+        "translation": "(measure word for books)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "这",
+        "pinyin": "zhè",
+        "translation": "this"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "is"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "my"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "字",
+        "pinyin": "zì",
+        "translation": "characters"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "say"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "给",
+        "pinyin": "gěi",
+        "translation": "to"
+      },
+      {
+        "text": "你",
+        "pinyin": "nǐ",
+        "translation": "you"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "喜欢",
+        "pinyin": "xǐhuan",
+        "translation": "like"
+      },
+      {
+        "text": "你",
+        "pinyin": "nǐ",
+        "translation": "your"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "茶",
+        "pinyin": "chá",
+        "translation": "tea"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "看",
+        "pinyin": "kàn",
+        "translation": "look/read"
+      },
+      {
+        "text": "书",
+        "pinyin": "shū",
+        "translation": "book"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "里面",
+        "pinyin": "lǐmiàn",
+        "translation": "inside"
+      },
+      {
+        "text": "写",
+        "pinyin": "xiě",
+        "translation": "write"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "茶",
+        "pinyin": "chá",
+        "translation": "tea"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "好",
+        "pinyin": "hǎo",
+        "translation": "good"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "人",
+        "pinyin": "rén",
+        "translation": "people"
+      },
+      {
+        "text": "也",
+        "pinyin": "yě",
+        "translation": "also"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "好",
+        "pinyin": "hǎo",
+        "translation": "good"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "笑",
+        "pinyin": "xiào",
+        "translation": "laugh/smile"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "现在",
+        "pinyin": "xiànzài",
+        "translation": "now"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "有",
+        "pinyin": "yǒu",
+        "translation": "have"
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "个",
+        "pinyin": "gè",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "好",
+        "pinyin": "hǎo",
+        "translation": "good"
+      },
+      {
+        "text": "朋友",
+        "pinyin": "péngyou",
+        "translation": "friend"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "每天",
+        "pinyin": "měitiān",
+        "translation": "every day"
+      },
+      {
+        "text": "都",
+        "pinyin": "dōu",
+        "translation": "all"
+      },
+      {
+        "text": "来",
+        "pinyin": "lái",
+        "translation": "come"
+      },
+      {
+        "text": "喝",
+        "pinyin": "hē",
+        "translation": "drink"
+      },
+      {
+        "text": "茶",
+        "pinyin": "chá",
+        "translation": "tea"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "写",
+        "pinyin": "xiě",
+        "translation": "write"
+      },
+      {
+        "text": "字",
+        "pinyin": "zì",
+        "translation": "characters"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "做",
+        "pinyin": "zuò",
+        "translation": "do/make"
+      },
+      {
+        "text": "茶",
+        "pinyin": "chá",
+        "translation": "tea"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我们",
+        "pinyin": "wǒmen",
+        "translation": "we"
+      },
+      {
+        "text": "都",
+        "pinyin": "dōu",
+        "translation": "both"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "高兴",
+        "pinyin": "gāoxìng",
+        "translation": "happy"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ]
+  ]
+}

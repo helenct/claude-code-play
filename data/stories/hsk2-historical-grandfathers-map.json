@@ -1,0 +1,998 @@
+{
+  "id": "hsk2-historical-grandfathers-map",
+  "title": "爷爷的地图",
+  "title_segments": [
+    {
+      "text": "爷爷",
+      "pinyin": "yéye",
+      "translation": "grandfather"
+    },
+    {
+      "text": "的",
+      "pinyin": "de",
+      "translation": "'s"
+    },
+    {
+      "text": "地图",
+      "pinyin": "dìtú",
+      "translation": "map"
+    }
+  ],
+  "genre": "Historical Fiction",
+  "level": 2,
+  "content": [
+    [
+      {
+        "text": "上",
+        "pinyin": "shàng",
+        "translation": "last"
+      },
+      {
+        "text": "个",
+        "pinyin": "gè",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "月",
+        "pinyin": "yuè",
+        "translation": "month"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "爷爷",
+        "pinyin": "yéye",
+        "translation": "grandfather"
+      },
+      {
+        "text": "过世",
+        "pinyin": "guòshì",
+        "translation": "pass away"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我们",
+        "pinyin": "wǒmen",
+        "translation": "we"
+      },
+      {
+        "text": "都",
+        "pinyin": "dōu",
+        "translation": "all"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "难过",
+        "pinyin": "nánguò",
+        "translation": "sad"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "今天",
+        "pinyin": "jīntiān",
+        "translation": "today"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "在",
+        "pinyin": "zài",
+        "translation": "at"
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "his"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "房间",
+        "pinyin": "fángjiān",
+        "translation": "room"
+      },
+      {
+        "text": "里",
+        "pinyin": "lǐ",
+        "translation": "inside"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "在",
+        "pinyin": "zài",
+        "translation": "at"
+      },
+      {
+        "text": "找",
+        "pinyin": "zhǎo",
+        "translation": "look for"
+      },
+      {
+        "text": "东西",
+        "pinyin": "dōngxi",
+        "translation": "things"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "桌子",
+        "pinyin": "zhuōzi",
+        "translation": "table"
+      },
+      {
+        "text": "上",
+        "pinyin": "shàng",
+        "translation": "on"
+      },
+      {
+        "text": "有",
+        "pinyin": "yǒu",
+        "translation": "have"
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "张",
+        "pinyin": "zhāng",
+        "translation": "(measure word for flat objects)"
+      },
+      {
+        "text": "老",
+        "pinyin": "lǎo",
+        "translation": "old"
+      },
+      {
+        "text": "地图",
+        "pinyin": "dìtú",
+        "translation": "map"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "旧",
+        "pinyin": "jiù",
+        "translation": "old/worn"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "颜色",
+        "pinyin": "yánsè",
+        "translation": "color"
+      },
+      {
+        "text": "也",
+        "pinyin": "yě",
+        "translation": "also"
+      },
+      {
+        "text": "不",
+        "pinyin": "bù",
+        "translation": "not"
+      },
+      {
+        "text": "好看",
+        "pinyin": "hǎokàn",
+        "translation": "good-looking"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(change of state)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "上面",
+        "pinyin": "shàngmiàn",
+        "translation": "on it"
+      },
+      {
+        "text": "写",
+        "pinyin": "xiě",
+        "translation": "write"
+      },
+      {
+        "text": "着",
+        "pinyin": "zhe",
+        "translation": "(continuous state)"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "1950",
+        "pinyin": "yī jiǔ wǔ líng",
+        "translation": "1950"
+      },
+      {
+        "text": "年",
+        "pinyin": "nián",
+        "translation": "year"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "从",
+        "pinyin": "cóng",
+        "translation": "from"
+      },
+      {
+        "text": "南方",
+        "pinyin": "nánfāng",
+        "translation": "south"
+      },
+      {
+        "text": "来",
+        "pinyin": "lái",
+        "translation": "come"
+      },
+      {
+        "text": "北方",
+        "pinyin": "běifāng",
+        "translation": "north"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "地图",
+        "pinyin": "dìtú",
+        "translation": "map"
+      },
+      {
+        "text": "上",
+        "pinyin": "shàng",
+        "translation": "on"
+      },
+      {
+        "text": "有",
+        "pinyin": "yǒu",
+        "translation": "have"
+      },
+      {
+        "text": "红色",
+        "pinyin": "hóngsè",
+        "translation": "red"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "线",
+        "pinyin": "xiàn",
+        "translation": "line"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "线",
+        "pinyin": "xiàn",
+        "translation": "line"
+      },
+      {
+        "text": "经过",
+        "pinyin": "jīngguò",
+        "translation": "pass through"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "多",
+        "pinyin": "duō",
+        "translation": "many"
+      },
+      {
+        "text": "地方",
+        "pinyin": "dìfang",
+        "translation": "places"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "每",
+        "pinyin": "měi",
+        "translation": "each"
+      },
+      {
+        "text": "个",
+        "pinyin": "gè",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "地方",
+        "pinyin": "dìfang",
+        "translation": "place"
+      },
+      {
+        "text": "都",
+        "pinyin": "dōu",
+        "translation": "all"
+      },
+      {
+        "text": "有",
+        "pinyin": "yǒu",
+        "translation": "have"
+      },
+      {
+        "text": "小",
+        "pinyin": "xiǎo",
+        "translation": "small"
+      },
+      {
+        "text": "字",
+        "pinyin": "zì",
+        "translation": "characters"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "广州",
+        "pinyin": "Guǎngzhōu",
+        "translation": "Guangzhou"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "出生",
+        "pinyin": "chūshēng",
+        "translation": "born"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "地方",
+        "pinyin": "dìfang",
+        "translation": "place"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "长沙",
+        "pinyin": "Chángshā",
+        "translation": "Changsha"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "认识",
+        "pinyin": "rènshi",
+        "translation": "meet"
+      },
+      {
+        "text": "奶奶",
+        "pinyin": "nǎinai",
+        "translation": "grandmother"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "地方",
+        "pinyin": "dìfang",
+        "translation": "place"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "武汉",
+        "pinyin": "Wǔhàn",
+        "translation": "Wuhan"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "第一",
+        "pinyin": "dìyī",
+        "translation": "first"
+      },
+      {
+        "text": "次",
+        "pinyin": "cì",
+        "translation": "time"
+      },
+      {
+        "text": "工作",
+        "pinyin": "gōngzuò",
+        "translation": "work"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "北京",
+        "pinyin": "Běijīng",
+        "translation": "Beijing"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "新",
+        "pinyin": "xīn",
+        "translation": "new"
+      },
+      {
+        "text": "家",
+        "pinyin": "jiā",
+        "translation": "home"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "看",
+        "pinyin": "kàn",
+        "translation": "look"
+      },
+      {
+        "text": "着",
+        "pinyin": "zhe",
+        "translation": "(continuous action)"
+      },
+      {
+        "text": "地图",
+        "pinyin": "dìtú",
+        "translation": "map"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "好像",
+        "pinyin": "hǎoxiàng",
+        "translation": "seem like"
+      },
+      {
+        "text": "看见",
+        "pinyin": "kànjiàn",
+        "translation": "see"
+      },
+      {
+        "text": "年轻",
+        "pinyin": "niánqīng",
+        "translation": "young"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "爷爷",
+        "pinyin": "yéye",
+        "translation": "grandfather"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "走",
+        "pinyin": "zǒu",
+        "translation": "walk"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "这么",
+        "pinyin": "zhème",
+        "translation": "so"
+      },
+      {
+        "text": "远",
+        "pinyin": "yuǎn",
+        "translation": "far"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "路",
+        "pinyin": "lù",
+        "translation": "road"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "经过",
+        "pinyin": "jīngguò",
+        "translation": "pass through"
+      },
+      {
+        "text": "这么",
+        "pinyin": "zhème",
+        "translation": "so"
+      },
+      {
+        "text": "多",
+        "pinyin": "duō",
+        "translation": "many"
+      },
+      {
+        "text": "城市",
+        "pinyin": "chéngshì",
+        "translation": "cities"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "一定",
+        "pinyin": "yídìng",
+        "translation": "must"
+      },
+      {
+        "text": "有",
+        "pinyin": "yǒu",
+        "translation": "have"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "多",
+        "pinyin": "duō",
+        "translation": "many"
+      },
+      {
+        "text": "故事",
+        "pinyin": "gùshi",
+        "translation": "stories"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "爸爸",
+        "pinyin": "bàba",
+        "translation": "dad"
+      },
+      {
+        "text": "走",
+        "pinyin": "zǒu",
+        "translation": "walk"
+      },
+      {
+        "text": "进来",
+        "pinyin": "jìnlái",
+        "translation": "come in"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "say"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "你",
+        "pinyin": "nǐ",
+        "translation": "your"
+      },
+      {
+        "text": "爷爷",
+        "pinyin": "yéye",
+        "translation": "grandfather"
+      },
+      {
+        "text": "常常",
+        "pinyin": "chángcháng",
+        "translation": "often"
+      },
+      {
+        "text": "跟",
+        "pinyin": "gēn",
+        "translation": "with"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "me"
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "say"
+      },
+      {
+        "text": "这些",
+        "pinyin": "zhèxiē",
+        "translation": "these"
+      },
+      {
+        "text": "故事",
+        "pinyin": "gùshi",
+        "translation": "stories"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "那",
+        "pinyin": "nà",
+        "translation": "that"
+      },
+      {
+        "text": "时候",
+        "pinyin": "shíhou",
+        "translation": "time"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "生活",
+        "pinyin": "shēnghuó",
+        "translation": "life"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "不",
+        "pinyin": "bù",
+        "translation": "not"
+      },
+      {
+        "text": "容易",
+        "pinyin": "róngyì",
+        "translation": "easy"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "但是",
+        "pinyin": "dànshì",
+        "translation": "but"
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "努力",
+        "pinyin": "nǔlì",
+        "translation": "work hard"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "问",
+        "pinyin": "wèn",
+        "translation": "ask"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我们",
+        "pinyin": "wǒmen",
+        "translation": "we"
+      },
+      {
+        "text": "可以",
+        "pinyin": "kěyǐ",
+        "translation": "can"
+      },
+      {
+        "text": "一起",
+        "pinyin": "yìqǐ",
+        "translation": "together"
+      },
+      {
+        "text": "去",
+        "pinyin": "qù",
+        "translation": "go"
+      },
+      {
+        "text": "这些",
+        "pinyin": "zhèxiē",
+        "translation": "these"
+      },
+      {
+        "text": "地方",
+        "pinyin": "dìfang",
+        "translation": "places"
+      },
+      {
+        "text": "吗",
+        "pinyin": "ma",
+        "translation": "(question particle)"
+      },
+      {
+        "text": "？",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "爸爸",
+        "pinyin": "bàba",
+        "translation": "dad"
+      },
+      {
+        "text": "笑",
+        "pinyin": "xiào",
+        "translation": "smile"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "好",
+        "pinyin": "hǎo",
+        "translation": "good/okay"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我们",
+        "pinyin": "wǒmen",
+        "translation": "we"
+      },
+      {
+        "text": "下",
+        "pinyin": "xià",
+        "translation": "next"
+      },
+      {
+        "text": "个",
+        "pinyin": "gè",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "月",
+        "pinyin": "yuè",
+        "translation": "month"
+      },
+      {
+        "text": "就",
+        "pinyin": "jiù",
+        "translation": "then"
+      },
+      {
+        "text": "去",
+        "pinyin": "qù",
+        "translation": "go"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "带",
+        "pinyin": "dài",
+        "translation": "bring"
+      },
+      {
+        "text": "着",
+        "pinyin": "zhe",
+        "translation": "(continuous state)"
+      },
+      {
+        "text": "这",
+        "pinyin": "zhè",
+        "translation": "this"
+      },
+      {
+        "text": "张",
+        "pinyin": "zhāng",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "地图",
+        "pinyin": "dìtú",
+        "translation": "map"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ]
+  ]
+}

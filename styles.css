@@ -215,6 +215,14 @@ body {
     text-align: justify;
 }
 
+.text-content .paragraph {
+    margin-bottom: 1.2em;
+}
+
+.text-content .paragraph:last-child {
+    margin-bottom: 0;
+}
+
 /* ── Hoverable Words ── */
 .word {
     position: relative;

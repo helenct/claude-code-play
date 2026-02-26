@@ -1,0 +1,1033 @@
+{
+  "id": "hsk2-scifi-smart-alarm",
+  "title": "聪明的闹钟",
+  "title_segments": [
+    {
+      "text": "聪明",
+      "pinyin": "cōngmíng",
+      "translation": "smart"
+    },
+    {
+      "text": "的",
+      "pinyin": "de",
+      "translation": "'s"
+    },
+    {
+      "text": "闹钟",
+      "pinyin": "nàozhōng",
+      "translation": "alarm clock"
+    }
+  ],
+  "genre": "Sci-Fi",
+  "level": 2,
+  "content": [
+    [
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "手机",
+        "pinyin": "shǒujī",
+        "translation": "mobile phone"
+      },
+      {
+        "text": "闹钟",
+        "pinyin": "nàozhōng",
+        "translation": "alarm clock"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "奇怪",
+        "pinyin": "qíguài",
+        "translation": "strange"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "昨天",
+        "pinyin": "zuótiān",
+        "translation": "yesterday"
+      },
+      {
+        "text": "晚上",
+        "pinyin": "wǎnshang",
+        "translation": "evening"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "想",
+        "pinyin": "xiǎng",
+        "translation": "want"
+      },
+      {
+        "text": "早上",
+        "pinyin": "zǎoshang",
+        "translation": "morning"
+      },
+      {
+        "text": "七",
+        "pinyin": "qī",
+        "translation": "seven"
+      },
+      {
+        "text": "点",
+        "pinyin": "diǎn",
+        "translation": "o'clock"
+      },
+      {
+        "text": "起床",
+        "pinyin": "qǐchuáng",
+        "translation": "get up"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "但是",
+        "pinyin": "dànshì",
+        "translation": "but"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "闹钟",
+        "pinyin": "nàozhōng",
+        "translation": "alarm"
+      },
+      {
+        "text": "六",
+        "pinyin": "liù",
+        "translation": "six"
+      },
+      {
+        "text": "点",
+        "pinyin": "diǎn",
+        "translation": "o'clock"
+      },
+      {
+        "text": "就",
+        "pinyin": "jiù",
+        "translation": "already"
+      },
+      {
+        "text": "响",
+        "pinyin": "xiǎng",
+        "translation": "ring/sound"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "起床",
+        "pinyin": "qǐchuáng",
+        "translation": "get up"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "生气",
+        "pinyin": "shēngqì",
+        "translation": "angry"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "为什么",
+        "pinyin": "wèishénme",
+        "translation": "why"
+      },
+      {
+        "text": "这么",
+        "pinyin": "zhème",
+        "translation": "so"
+      },
+      {
+        "text": "早",
+        "pinyin": "zǎo",
+        "translation": "early"
+      },
+      {
+        "text": "？",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "想",
+        "pinyin": "xiǎng",
+        "translation": "think"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "后来",
+        "pinyin": "hòulái",
+        "translation": "later"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "发现",
+        "pinyin": "fāxiàn",
+        "translation": "discover"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "公司",
+        "pinyin": "gōngsī",
+        "translation": "company"
+      },
+      {
+        "text": "今天",
+        "pinyin": "jīntiān",
+        "translation": "today"
+      },
+      {
+        "text": "有",
+        "pinyin": "yǒu",
+        "translation": "have"
+      },
+      {
+        "text": "重要",
+        "pinyin": "zhòngyào",
+        "translation": "important"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "会议",
+        "pinyin": "huìyì",
+        "translation": "meeting"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "六",
+        "pinyin": "liù",
+        "translation": "six"
+      },
+      {
+        "text": "点",
+        "pinyin": "diǎn",
+        "translation": "o'clock"
+      },
+      {
+        "text": "半",
+        "pinyin": "bàn",
+        "translation": "half"
+      },
+      {
+        "text": "开始",
+        "pinyin": "kāishǐ",
+        "translation": "start"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "差点儿",
+        "pinyin": "chàdiǎnr",
+        "translation": "almost"
+      },
+      {
+        "text": "忘",
+        "pinyin": "wàng",
+        "translation": "forget"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "上",
+        "pinyin": "shàng",
+        "translation": "last"
+      },
+      {
+        "text": "星期",
+        "pinyin": "xīngqī",
+        "translation": "week"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "闹钟",
+        "pinyin": "nàozhōng",
+        "translation": "alarm"
+      },
+      {
+        "text": "又",
+        "pinyin": "yòu",
+        "translation": "again"
+      },
+      {
+        "text": "响",
+        "pinyin": "xiǎng",
+        "translation": "ring"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "不是",
+        "pinyin": "bú shì",
+        "translation": "not"
+      },
+      {
+        "text": "早上",
+        "pinyin": "zǎoshang",
+        "translation": "morning"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "is"
+      },
+      {
+        "text": "下午",
+        "pinyin": "xiàwǔ",
+        "translation": "afternoon"
+      },
+      {
+        "text": "三",
+        "pinyin": "sān",
+        "translation": "three"
+      },
+      {
+        "text": "点",
+        "pinyin": "diǎn",
+        "translation": "o'clock"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "在",
+        "pinyin": "zài",
+        "translation": "at"
+      },
+      {
+        "text": "睡觉",
+        "pinyin": "shuìjiào",
+        "translation": "sleep"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "为什么",
+        "pinyin": "wèishénme",
+        "translation": "why"
+      },
+      {
+        "text": "响",
+        "pinyin": "xiǎng",
+        "translation": "ring"
+      },
+      {
+        "text": "？",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "不",
+        "pinyin": "bù",
+        "translation": "not"
+      },
+      {
+        "text": "高兴",
+        "pinyin": "gāoxìng",
+        "translation": "happy"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "后来",
+        "pinyin": "hòulái",
+        "translation": "later"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "妈妈",
+        "pinyin": "māma",
+        "translation": "mom"
+      },
+      {
+        "text": "打",
+        "pinyin": "dǎ",
+        "translation": "make (a call)"
+      },
+      {
+        "text": "电话",
+        "pinyin": "diànhuà",
+        "translation": "phone call"
+      },
+      {
+        "text": "来",
+        "pinyin": "lái",
+        "translation": "come"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "她",
+        "pinyin": "tā",
+        "translation": "she"
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "say"
+      },
+      {
+        "text": "她",
+        "pinyin": "tā",
+        "translation": "she"
+      },
+      {
+        "text": "身体",
+        "pinyin": "shēntǐ",
+        "translation": "body/health"
+      },
+      {
+        "text": "不",
+        "pinyin": "bù",
+        "translation": "not"
+      },
+      {
+        "text": "舒服",
+        "pinyin": "shūfu",
+        "translation": "comfortable"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "马上",
+        "pinyin": "mǎshàng",
+        "translation": "immediately"
+      },
+      {
+        "text": "去",
+        "pinyin": "qù",
+        "translation": "go"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "医院",
+        "pinyin": "yīyuàn",
+        "translation": "hospital"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "幸好",
+        "pinyin": "xìnghǎo",
+        "translation": "fortunately"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "没有",
+        "pinyin": "méiyǒu",
+        "translation": "didn't"
+      },
+      {
+        "text": "睡",
+        "pinyin": "shuì",
+        "translation": "sleep"
+      },
+      {
+        "text": "太",
+        "pinyin": "tài",
+        "translation": "too"
+      },
+      {
+        "text": "多",
+        "pinyin": "duō",
+        "translation": "much"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "今天",
+        "pinyin": "jīntiān",
+        "translation": "today"
+      },
+      {
+        "text": "早上",
+        "pinyin": "zǎoshang",
+        "translation": "morning"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "闹钟",
+        "pinyin": "nàozhōng",
+        "translation": "alarm"
+      },
+      {
+        "text": "又",
+        "pinyin": "yòu",
+        "translation": "again"
+      },
+      {
+        "text": "响",
+        "pinyin": "xiǎng",
+        "translation": "ring"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "五",
+        "pinyin": "wǔ",
+        "translation": "five"
+      },
+      {
+        "text": "点",
+        "pinyin": "diǎn",
+        "translation": "o'clock"
+      },
+      {
+        "text": "半",
+        "pinyin": "bàn",
+        "translation": "half"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "太",
+        "pinyin": "tài",
+        "translation": "too"
+      },
+      {
+        "text": "早",
+        "pinyin": "zǎo",
+        "translation": "early"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(change of state)"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "但是",
+        "pinyin": "dànshì",
+        "translation": "but"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "起来",
+        "pinyin": "qǐlái",
+        "translation": "get up"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "看",
+        "pinyin": "kàn",
+        "translation": "look"
+      },
+      {
+        "text": "窗户",
+        "pinyin": "chuānghu",
+        "translation": "window"
+      },
+      {
+        "text": "外面",
+        "pinyin": "wàimiàn",
+        "translation": "outside"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "下雨",
+        "pinyin": "xiàyǔ",
+        "translation": "rain"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "大",
+        "pinyin": "dà",
+        "translation": "big"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "雨",
+        "pinyin": "yǔ",
+        "translation": "rain"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "路上",
+        "pinyin": "lùshang",
+        "translation": "on the road"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "多",
+        "pinyin": "duō",
+        "translation": "many"
+      },
+      {
+        "text": "水",
+        "pinyin": "shuǐ",
+        "translation": "water"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "如果",
+        "pinyin": "rúguǒ",
+        "translation": "if"
+      },
+      {
+        "text": "七",
+        "pinyin": "qī",
+        "translation": "seven"
+      },
+      {
+        "text": "点",
+        "pinyin": "diǎn",
+        "translation": "o'clock"
+      },
+      {
+        "text": "出门",
+        "pinyin": "chūmén",
+        "translation": "go out"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "会",
+        "pinyin": "huì",
+        "translation": "will"
+      },
+      {
+        "text": "迟到",
+        "pinyin": "chídào",
+        "translation": "be late"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "开始",
+        "pinyin": "kāishǐ",
+        "translation": "start"
+      },
+      {
+        "text": "明白",
+        "pinyin": "míngbai",
+        "translation": "understand"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "手机",
+        "pinyin": "shǒujī",
+        "translation": "phone"
+      },
+      {
+        "text": "闹钟",
+        "pinyin": "nàozhōng",
+        "translation": "alarm"
+      },
+      {
+        "text": "知道",
+        "pinyin": "zhīdào",
+        "translation": "know"
+      },
+      {
+        "text": "什么",
+        "pinyin": "shénme",
+        "translation": "what"
+      },
+      {
+        "text": "时候",
+        "pinyin": "shíhou",
+        "translation": "time/when"
+      },
+      {
+        "text": "重要",
+        "pinyin": "zhòngyào",
+        "translation": "important"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "它",
+        "pinyin": "tā",
+        "translation": "it"
+      },
+      {
+        "text": "帮助",
+        "pinyin": "bāngzhù",
+        "translation": "help"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "me"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "现在",
+        "pinyin": "xiànzài",
+        "translation": "now"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "每天",
+        "pinyin": "měitiān",
+        "translation": "every day"
+      },
+      {
+        "text": "晚上",
+        "pinyin": "wǎnshang",
+        "translation": "evening"
+      },
+      {
+        "text": "都",
+        "pinyin": "dōu",
+        "translation": "all"
+      },
+      {
+        "text": "对",
+        "pinyin": "duì",
+        "translation": "to"
+      },
+      {
+        "text": "手机",
+        "pinyin": "shǒujī",
+        "translation": "phone"
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "say"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "谢谢",
+        "pinyin": "xièxie",
+        "translation": "thank you"
+      },
+      {
+        "text": "你",
+        "pinyin": "nǐ",
+        "translation": "you"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "明天",
+        "pinyin": "míngtiān",
+        "translation": "tomorrow"
+      },
+      {
+        "text": "见",
+        "pinyin": "jiàn",
+        "translation": "see"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      }
+    ]
+  ]
+}

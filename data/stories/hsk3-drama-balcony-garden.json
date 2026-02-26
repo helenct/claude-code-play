@@ -1,0 +1,1458 @@
+{
+  "id": "hsk3-drama-balcony-garden",
+  "title": "阳台花园",
+  "title_segments": [
+    {
+      "text": "阳台",
+      "pinyin": "yángtái",
+      "translation": "balcony"
+    },
+    {
+      "text": "花园",
+      "pinyin": "huāyuán",
+      "translation": "garden"
+    }
+  ],
+  "genre": "Drama",
+  "level": 3,
+  "content": [
+    [
+      {
+        "text": "搬",
+        "pinyin": "bān",
+        "translation": "move"
+      },
+      {
+        "text": "到",
+        "pinyin": "dào",
+        "translation": "to"
+      },
+      {
+        "text": "新",
+        "pinyin": "xīn",
+        "translation": "new"
+      },
+      {
+        "text": "公寓",
+        "pinyin": "gōngyù",
+        "translation": "apartment"
+      },
+      {
+        "text": "后",
+        "pinyin": "hòu",
+        "translation": "after"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "每天",
+        "pinyin": "měitiān",
+        "translation": "every day"
+      },
+      {
+        "text": "都",
+        "pinyin": "dōu",
+        "translation": "all"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "忙",
+        "pinyin": "máng",
+        "translation": "busy"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "工作",
+        "pinyin": "gōngzuò",
+        "translation": "work"
+      },
+      {
+        "text": "压力",
+        "pinyin": "yālì",
+        "translation": "pressure"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "大",
+        "pinyin": "dà",
+        "translation": "big"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "总是",
+        "pinyin": "zǒngshì",
+        "translation": "always"
+      },
+      {
+        "text": "觉得",
+        "pinyin": "juédé",
+        "translation": "feel"
+      },
+      {
+        "text": "时间",
+        "pinyin": "shíjiān",
+        "translation": "time"
+      },
+      {
+        "text": "不",
+        "pinyin": "bù",
+        "translation": "not"
+      },
+      {
+        "text": "够",
+        "pinyin": "gòu",
+        "translation": "enough"
+      },
+      {
+        "text": "用",
+        "pinyin": "yòng",
+        "translation": "use"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "隔壁",
+        "pinyin": "gébì",
+        "translation": "next door"
+      },
+      {
+        "text": "住",
+        "pinyin": "zhù",
+        "translation": "live"
+      },
+      {
+        "text": "着",
+        "pinyin": "zhe",
+        "translation": "(particle)"
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "位",
+        "pinyin": "wèi",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "老",
+        "pinyin": "lǎo",
+        "translation": "old"
+      },
+      {
+        "text": "奶奶",
+        "pinyin": "nǎinai",
+        "translation": "grandmother"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "她",
+        "pinyin": "tā",
+        "translation": "she"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "阳台",
+        "pinyin": "yángtái",
+        "translation": "balcony"
+      },
+      {
+        "text": "上",
+        "pinyin": "shàng",
+        "translation": "on"
+      },
+      {
+        "text": "种",
+        "pinyin": "zhòng",
+        "translation": "planted"
+      },
+      {
+        "text": "满",
+        "pinyin": "mǎn",
+        "translation": "full"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "花",
+        "pinyin": "huā",
+        "translation": "flowers"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "有",
+        "pinyin": "yǒu",
+        "translation": "have"
+      },
+      {
+        "text": "一天",
+        "pinyin": "yītiān",
+        "translation": "one day"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "她",
+        "pinyin": "tā",
+        "translation": "she"
+      },
+      {
+        "text": "敲",
+        "pinyin": "qiāo",
+        "translation": "knock"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "my"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "门",
+        "pinyin": "mén",
+        "translation": "door"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "said"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "“",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "年轻人",
+        "pinyin": "niánqīngrén",
+        "translation": "young person"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "要",
+        "pinyin": "yào",
+        "translation": "want"
+      },
+      {
+        "text": "不要",
+        "pinyin": "bùyào",
+        "translation": "not want"
+      },
+      {
+        "text": "来",
+        "pinyin": "lái",
+        "translation": "come"
+      },
+      {
+        "text": "帮",
+        "pinyin": "bāng",
+        "translation": "help"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "me"
+      },
+      {
+        "text": "照顾",
+        "pinyin": "zhàogù",
+        "translation": "take care"
+      },
+      {
+        "text": "花",
+        "pinyin": "huā",
+        "translation": "flowers"
+      },
+      {
+        "text": "？",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "“",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "其实",
+        "pinyin": "qíshí",
+        "translation": "actually"
+      },
+      {
+        "text": "不",
+        "pinyin": "bù",
+        "translation": "not"
+      },
+      {
+        "text": "太",
+        "pinyin": "tài",
+        "translation": "too"
+      },
+      {
+        "text": "想",
+        "pinyin": "xiǎng",
+        "translation": "want"
+      },
+      {
+        "text": "去",
+        "pinyin": "qù",
+        "translation": "go"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "但是",
+        "pinyin": "dànshì",
+        "translation": "but"
+      },
+      {
+        "text": "看到",
+        "pinyin": "kàndào",
+        "translation": "saw"
+      },
+      {
+        "text": "她",
+        "pinyin": "tā",
+        "translation": "her"
+      },
+      {
+        "text": "温柔",
+        "pinyin": "wēnróu",
+        "translation": "gentle"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "笑容",
+        "pinyin": "xiàoróng",
+        "translation": "smile"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "就",
+        "pinyin": "jiù",
+        "translation": "then"
+      },
+      {
+        "text": "答应",
+        "pinyin": "dāying",
+        "translation": "agreed"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "奶奶",
+        "pinyin": "nǎinai",
+        "translation": "grandmother"
+      },
+      {
+        "text": "教",
+        "pinyin": "jiāo",
+        "translation": "teach"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "me"
+      },
+      {
+        "text": "怎么",
+        "pinyin": "zěnme",
+        "translation": "how"
+      },
+      {
+        "text": "给",
+        "pinyin": "gěi",
+        "translation": "to"
+      },
+      {
+        "text": "花",
+        "pinyin": "huā",
+        "translation": "flowers"
+      },
+      {
+        "text": "浇水",
+        "pinyin": "jiāoshuǐ",
+        "translation": "water"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "怎么",
+        "pinyin": "zěnme",
+        "translation": "how"
+      },
+      {
+        "text": "修剪",
+        "pinyin": "xiūjiǎn",
+        "translation": "trim"
+      },
+      {
+        "text": "枝叶",
+        "pinyin": "zhīyè",
+        "translation": "branches"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "她",
+        "pinyin": "tā",
+        "translation": "she"
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "said"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "“",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "种",
+        "pinyin": "zhòng",
+        "translation": "planting"
+      },
+      {
+        "text": "花",
+        "pinyin": "huā",
+        "translation": "flowers"
+      },
+      {
+        "text": "需要",
+        "pinyin": "xūyào",
+        "translation": "needs"
+      },
+      {
+        "text": "耐心",
+        "pinyin": "nàixīn",
+        "translation": "patience"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "不能",
+        "pinyin": "bùnéng",
+        "translation": "cannot"
+      },
+      {
+        "text": "着急",
+        "pinyin": "zháojí",
+        "translation": "anxious"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "“",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "慢慢",
+        "pinyin": "mànmàn",
+        "translation": "slowly"
+      },
+      {
+        "text": "地",
+        "pinyin": "de",
+        "translation": "(adverb marker)"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "开始",
+        "pinyin": "kāishǐ",
+        "translation": "start"
+      },
+      {
+        "text": "喜欢",
+        "pinyin": "xǐhuān",
+        "translation": "like"
+      },
+      {
+        "text": "上",
+        "pinyin": "shàng",
+        "translation": "(result complement)"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "在",
+        "pinyin": "zài",
+        "translation": "(progressive marker)"
+      },
+      {
+        "text": "阳台",
+        "pinyin": "yángtái",
+        "translation": "balcony"
+      },
+      {
+        "text": "上",
+        "pinyin": "shàng",
+        "translation": "on"
+      },
+      {
+        "text": "度过",
+        "pinyin": "dùguò",
+        "translation": "spend"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "时间",
+        "pinyin": "shíjiān",
+        "translation": "time"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "春天",
+        "pinyin": "chūntiān",
+        "translation": "spring"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我们",
+        "pinyin": "wǒmen",
+        "translation": "we"
+      },
+      {
+        "text": "一起",
+        "pinyin": "yīqǐ",
+        "translation": "together"
+      },
+      {
+        "text": "种",
+        "pinyin": "zhòng",
+        "translation": "plant"
+      },
+      {
+        "text": "下",
+        "pinyin": "xià",
+        "translation": "(directional complement)"
+      },
+      {
+        "text": "新",
+        "pinyin": "xīn",
+        "translation": "new"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "种子",
+        "pinyin": "zhǒngzi",
+        "translation": "seeds"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "夏天",
+        "pinyin": "xiàtiān",
+        "translation": "summer"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "每天",
+        "pinyin": "měitiān",
+        "translation": "every day"
+      },
+      {
+        "text": "早晚",
+        "pinyin": "zǎowǎn",
+        "translation": "morning and evening"
+      },
+      {
+        "text": "都",
+        "pinyin": "dōu",
+        "translation": "all"
+      },
+      {
+        "text": "去",
+        "pinyin": "qù",
+        "translation": "go"
+      },
+      {
+        "text": "浇水",
+        "pinyin": "jiāoshuǐ",
+        "translation": "water"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "秋天",
+        "pinyin": "qiūtiān",
+        "translation": "autumn"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "花",
+        "pinyin": "huā",
+        "translation": "flowers"
+      },
+      {
+        "text": "开",
+        "pinyin": "kāi",
+        "translation": "bloom"
+      },
+      {
+        "text": "得",
+        "pinyin": "de",
+        "translation": "(complement marker)"
+      },
+      {
+        "text": "最",
+        "pinyin": "zuì",
+        "translation": "most"
+      },
+      {
+        "text": "美",
+        "pinyin": "měi",
+        "translation": "beautiful"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "在",
+        "pinyin": "zài",
+        "translation": "(progressive marker)"
+      },
+      {
+        "text": "照顾",
+        "pinyin": "zhàogù",
+        "translation": "caring for"
+      },
+      {
+        "text": "花",
+        "pinyin": "huā",
+        "translation": "flowers"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "过程",
+        "pinyin": "guòchéng",
+        "translation": "process"
+      },
+      {
+        "text": "中",
+        "pinyin": "zhōng",
+        "translation": "in"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "奶奶",
+        "pinyin": "nǎinai",
+        "translation": "grandmother"
+      },
+      {
+        "text": "常常",
+        "pinyin": "chángcháng",
+        "translation": "often"
+      },
+      {
+        "text": "跟",
+        "pinyin": "gēn",
+        "translation": "with"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "me"
+      },
+      {
+        "text": "聊天",
+        "pinyin": "liáotiān",
+        "translation": "chat"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "她",
+        "pinyin": "tā",
+        "translation": "she"
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "said"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "“",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "生活",
+        "pinyin": "shēnghuó",
+        "translation": "life"
+      },
+      {
+        "text": "就",
+        "pinyin": "jiù",
+        "translation": "just"
+      },
+      {
+        "text": "像",
+        "pinyin": "xiàng",
+        "translation": "like"
+      },
+      {
+        "text": "种",
+        "pinyin": "zhòng",
+        "translation": "planting"
+      },
+      {
+        "text": "花",
+        "pinyin": "huā",
+        "translation": "flowers"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "不能",
+        "pinyin": "bùnéng",
+        "translation": "cannot"
+      },
+      {
+        "text": "总",
+        "pinyin": "zǒng",
+        "translation": "always"
+      },
+      {
+        "text": "想着",
+        "pinyin": "xiǎngzhe",
+        "translation": "thinking"
+      },
+      {
+        "text": "结果",
+        "pinyin": "jiéguǒ",
+        "translation": "results"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "要",
+        "pinyin": "yào",
+        "translation": "must"
+      },
+      {
+        "text": "享受",
+        "pinyin": "xiǎngshòu",
+        "translation": "enjoy"
+      },
+      {
+        "text": "过程",
+        "pinyin": "guòchéng",
+        "translation": "process"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "“",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "她",
+        "pinyin": "tā",
+        "translation": "she"
+      },
+      {
+        "text": "还",
+        "pinyin": "hái",
+        "translation": "also"
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "said"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "“",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "有些",
+        "pinyin": "yǒuxiē",
+        "translation": "some"
+      },
+      {
+        "text": "东西",
+        "pinyin": "dōngxi",
+        "translation": "things"
+      },
+      {
+        "text": "急",
+        "pinyin": "jí",
+        "translation": "hurry"
+      },
+      {
+        "text": "不",
+        "pinyin": "bù",
+        "translation": "not"
+      },
+      {
+        "text": "来",
+        "pinyin": "lái",
+        "translation": "(complement)"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "需要",
+        "pinyin": "xūyào",
+        "translation": "need"
+      },
+      {
+        "text": "时间",
+        "pinyin": "shíjiān",
+        "translation": "time"
+      },
+      {
+        "text": "慢慢",
+        "pinyin": "mànmàn",
+        "translation": "slowly"
+      },
+      {
+        "text": "成长",
+        "pinyin": "chéngzhǎng",
+        "translation": "grow"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "“",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "听",
+        "pinyin": "tīng",
+        "translation": "listening"
+      },
+      {
+        "text": "着",
+        "pinyin": "zhe",
+        "translation": "(particle)"
+      },
+      {
+        "text": "这些",
+        "pinyin": "zhèxiē",
+        "translation": "these"
+      },
+      {
+        "text": "话",
+        "pinyin": "huà",
+        "translation": "words"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "突然",
+        "pinyin": "tūrán",
+        "translation": "suddenly"
+      },
+      {
+        "text": "明白",
+        "pinyin": "míngbái",
+        "translation": "understood"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "很多",
+        "pinyin": "hěnduō",
+        "translation": "many"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "一直",
+        "pinyin": "yīzhí",
+        "translation": "always"
+      },
+      {
+        "text": "在",
+        "pinyin": "zài",
+        "translation": "(progressive marker)"
+      },
+      {
+        "text": "追求",
+        "pinyin": "zhuīqiú",
+        "translation": "pursue"
+      },
+      {
+        "text": "快速",
+        "pinyin": "kuàisù",
+        "translation": "fast"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "成功",
+        "pinyin": "chénggōng",
+        "translation": "success"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "却",
+        "pinyin": "què",
+        "translation": "but"
+      },
+      {
+        "text": "忘记",
+        "pinyin": "wàngjì",
+        "translation": "forgot"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "享受",
+        "pinyin": "xiǎngshòu",
+        "translation": "enjoy"
+      },
+      {
+        "text": "现在",
+        "pinyin": "xiànzài",
+        "translation": "present"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "现在",
+        "pinyin": "xiànzài",
+        "translation": "now"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "每当",
+        "pinyin": "měidāng",
+        "translation": "whenever"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "感到",
+        "pinyin": "gǎndào",
+        "translation": "feel"
+      },
+      {
+        "text": "焦虑",
+        "pinyin": "jiāolǜ",
+        "translation": "anxious"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "时候",
+        "pinyin": "shíhòu",
+        "translation": "when"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "就",
+        "pinyin": "jiù",
+        "translation": "then"
+      },
+      {
+        "text": "会",
+        "pinyin": "huì",
+        "translation": "will"
+      },
+      {
+        "text": "去",
+        "pinyin": "qù",
+        "translation": "go"
+      },
+      {
+        "text": "阳台",
+        "pinyin": "yángtái",
+        "translation": "balcony"
+      },
+      {
+        "text": "看看",
+        "pinyin": "kànkàn",
+        "translation": "look at"
+      },
+      {
+        "text": "花",
+        "pinyin": "huā",
+        "translation": "flowers"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "那些",
+        "pinyin": "nàxiē",
+        "translation": "those"
+      },
+      {
+        "text": "安静",
+        "pinyin": "ānjìng",
+        "translation": "quietly"
+      },
+      {
+        "text": "生长",
+        "pinyin": "shēngzhǎng",
+        "translation": "growing"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "植物",
+        "pinyin": "zhíwù",
+        "translation": "plants"
+      },
+      {
+        "text": "提醒",
+        "pinyin": "tíxǐng",
+        "translation": "remind"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "me"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "生命",
+        "pinyin": "shēngmìng",
+        "translation": "life"
+      },
+      {
+        "text": "需要",
+        "pinyin": "xūyào",
+        "translation": "needs"
+      },
+      {
+        "text": "耐心",
+        "pinyin": "nàixīn",
+        "translation": "patience"
+      },
+      {
+        "text": "和",
+        "pinyin": "hé",
+        "translation": "and"
+      },
+      {
+        "text": "等待",
+        "pinyin": "děngdài",
+        "translation": "waiting"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "这",
+        "pinyin": "zhè",
+        "translation": "this"
+      },
+      {
+        "text": "个",
+        "pinyin": "gè",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "小小的",
+        "pinyin": "xiǎoxiǎode",
+        "translation": "small"
+      },
+      {
+        "text": "阳台",
+        "pinyin": "yángtái",
+        "translation": "balcony"
+      },
+      {
+        "text": "花园",
+        "pinyin": "huāyuán",
+        "translation": "garden"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "成",
+        "pinyin": "chéng",
+        "translation": "became"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "my"
+      },
+      {
+        "text": "最",
+        "pinyin": "zuì",
+        "translation": "most"
+      },
+      {
+        "text": "珍贵",
+        "pinyin": "zhēnguì",
+        "translation": "precious"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "地方",
+        "pinyin": "dìfāng",
+        "translation": "place"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "奶奶",
+        "pinyin": "nǎinai",
+        "translation": "grandmother"
+      },
+      {
+        "text": "用",
+        "pinyin": "yòng",
+        "translation": "with"
+      },
+      {
+        "text": "她",
+        "pinyin": "tā",
+        "translation": "her"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "智慧",
+        "pinyin": "zhìhuì",
+        "translation": "wisdom"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "教",
+        "pinyin": "jiāo",
+        "translation": "taught"
+      },
+      {
+        "text": "会",
+        "pinyin": "huì",
+        "translation": "(result complement)"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "me"
+      },
+      {
+        "text": "人生",
+        "pinyin": "rénshēng",
+        "translation": "life"
+      },
+      {
+        "text": "最",
+        "pinyin": "zuì",
+        "translation": "most"
+      },
+      {
+        "text": "重要",
+        "pinyin": "zhòngyào",
+        "translation": "important"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "课",
+        "pinyin": "kè",
+        "translation": "lesson"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ]
+  ]
+}

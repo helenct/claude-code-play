@@ -1,0 +1,1326 @@
+{
+  "id": "hsk3-magical-honest-bicycle",
+  "title": "诚实的自行车",
+  "title_segments": [
+    {
+      "text": "诚实",
+      "pinyin": "chéngshí",
+      "translation": "honest"
+    },
+    {
+      "text": "的",
+      "pinyin": "de",
+      "translation": "'s"
+    },
+    {
+      "text": "自行车",
+      "pinyin": "zìxíngchē",
+      "translation": "bicycle"
+    }
+  ],
+  "genre": "Magical Realism",
+  "level": 3,
+  "content": [
+    [
+      {
+        "text": "上",
+        "pinyin": "shàng",
+        "translation": "last"
+      },
+      {
+        "text": "个",
+        "pinyin": "gè",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "月",
+        "pinyin": "yuè",
+        "translation": "month"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "买",
+        "pinyin": "mǎi",
+        "translation": "bought"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "辆",
+        "pinyin": "liàng",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "旧",
+        "pinyin": "jiù",
+        "translation": "old"
+      },
+      {
+        "text": "自行车",
+        "pinyin": "zìxíngchē",
+        "translation": "bicycle"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "卖",
+        "pinyin": "mài",
+        "translation": "seller"
+      },
+      {
+        "text": "车",
+        "pinyin": "chē",
+        "translation": "vehicle"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "老",
+        "pinyin": "lǎo",
+        "translation": "old"
+      },
+      {
+        "text": "人",
+        "pinyin": "rén",
+        "translation": "person"
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "said"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "“",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "这",
+        "pinyin": "zhè",
+        "translation": "this"
+      },
+      {
+        "text": "辆",
+        "pinyin": "liàng",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "车",
+        "pinyin": "chē",
+        "translation": "bike"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "特别",
+        "pinyin": "tèbié",
+        "translation": "special"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "你",
+        "pinyin": "nǐ",
+        "translation": "you"
+      },
+      {
+        "text": "要",
+        "pinyin": "yào",
+        "translation": "must"
+      },
+      {
+        "text": "对",
+        "pinyin": "duì",
+        "translation": "to"
+      },
+      {
+        "text": "它",
+        "pinyin": "tā",
+        "translation": "it"
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "tell"
+      },
+      {
+        "text": "真",
+        "pinyin": "zhēn",
+        "translation": "true"
+      },
+      {
+        "text": "话",
+        "pinyin": "huà",
+        "translation": "words"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "“",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "觉得",
+        "pinyin": "juédé",
+        "translation": "felt"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "奇怪",
+        "pinyin": "qíguài",
+        "translation": "strange"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "怎么",
+        "pinyin": "zěnme",
+        "translation": "how"
+      },
+      {
+        "text": "对",
+        "pinyin": "duì",
+        "translation": "to"
+      },
+      {
+        "text": "自行车",
+        "pinyin": "zìxíngchē",
+        "translation": "bicycle"
+      },
+      {
+        "text": "说话",
+        "pinyin": "shuōhuà",
+        "translation": "speak"
+      },
+      {
+        "text": "？",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "第一天",
+        "pinyin": "dìyītiān",
+        "translation": "first day"
+      },
+      {
+        "text": "骑",
+        "pinyin": "qí",
+        "translation": "ride"
+      },
+      {
+        "text": "车",
+        "pinyin": "chē",
+        "translation": "bike"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "时候",
+        "pinyin": "shíhòu",
+        "translation": "when"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "试",
+        "pinyin": "shì",
+        "translation": "tried"
+      },
+      {
+        "text": "着",
+        "pinyin": "zhe",
+        "translation": "(particle)"
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "say"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "“",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "今天",
+        "pinyin": "jīntiān",
+        "translation": "today"
+      },
+      {
+        "text": "天气",
+        "pinyin": "tiānqì",
+        "translation": "weather"
+      },
+      {
+        "text": "真",
+        "pinyin": "zhēn",
+        "translation": "really"
+      },
+      {
+        "text": "好",
+        "pinyin": "hǎo",
+        "translation": "good"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "“",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "车",
+        "pinyin": "chē",
+        "translation": "bike"
+      },
+      {
+        "text": "骑",
+        "pinyin": "qí",
+        "translation": "rode"
+      },
+      {
+        "text": "得",
+        "pinyin": "de",
+        "translation": "(complement marker)"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "顺利",
+        "pinyin": "shùnlì",
+        "translation": "smoothly"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "但是",
+        "pinyin": "dànshì",
+        "translation": "but"
+      },
+      {
+        "text": "当",
+        "pinyin": "dāng",
+        "translation": "when"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "said"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "“",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "昨天",
+        "pinyin": "zuótiān",
+        "translation": "yesterday"
+      },
+      {
+        "text": "看",
+        "pinyin": "kàn",
+        "translation": "watched"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "部",
+        "pinyin": "bù",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "好看",
+        "pinyin": "hǎokàn",
+        "translation": "good"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "电影",
+        "pinyin": "diànyǐng",
+        "translation": "movie"
+      },
+      {
+        "text": "“",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "时",
+        "pinyin": "shí",
+        "translation": "when"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "车",
+        "pinyin": "chē",
+        "translation": "bike"
+      },
+      {
+        "text": "突然",
+        "pinyin": "tūrán",
+        "translation": "suddenly"
+      },
+      {
+        "text": "停",
+        "pinyin": "tíng",
+        "translation": "stopped"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "怎么",
+        "pinyin": "zěnme",
+        "translation": "no matter how"
+      },
+      {
+        "text": "蹬",
+        "pinyin": "dēng",
+        "translation": "pedal"
+      },
+      {
+        "text": "都",
+        "pinyin": "dōu",
+        "translation": "all"
+      },
+      {
+        "text": "不",
+        "pinyin": "bù",
+        "translation": "not"
+      },
+      {
+        "text": "动",
+        "pinyin": "dòng",
+        "translation": "move"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "突然",
+        "pinyin": "tūrán",
+        "translation": "suddenly"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "想起来",
+        "pinyin": "xiǎngqǐlái",
+        "translation": "remembered"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "昨天",
+        "pinyin": "zuótiān",
+        "translation": "yesterday"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "其实",
+        "pinyin": "qíshí",
+        "translation": "actually"
+      },
+      {
+        "text": "在",
+        "pinyin": "zài",
+        "translation": "(progressive marker)"
+      },
+      {
+        "text": "家",
+        "pinyin": "jiā",
+        "translation": "home"
+      },
+      {
+        "text": "睡觉",
+        "pinyin": "shuìjiào",
+        "translation": "sleep"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "没",
+        "pinyin": "méi",
+        "translation": "not"
+      },
+      {
+        "text": "看",
+        "pinyin": "kàn",
+        "translation": "watch"
+      },
+      {
+        "text": "电影",
+        "pinyin": "diànyǐng",
+        "translation": "movie"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "改口",
+        "pinyin": "gǎikǒu",
+        "translation": "corrected"
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "said"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "“",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "对不起",
+        "pinyin": "duìbùqǐ",
+        "translation": "sorry"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "昨天",
+        "pinyin": "zuótiān",
+        "translation": "yesterday"
+      },
+      {
+        "text": "其实",
+        "pinyin": "qíshí",
+        "translation": "actually"
+      },
+      {
+        "text": "在",
+        "pinyin": "zài",
+        "translation": "(progressive marker)"
+      },
+      {
+        "text": "睡觉",
+        "pinyin": "shuìjiào",
+        "translation": "sleeping"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "“",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "车",
+        "pinyin": "chē",
+        "translation": "bike"
+      },
+      {
+        "text": "又",
+        "pinyin": "yòu",
+        "translation": "again"
+      },
+      {
+        "text": "可以",
+        "pinyin": "kěyǐ",
+        "translation": "could"
+      },
+      {
+        "text": "动",
+        "pinyin": "dòng",
+        "translation": "move"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "从",
+        "pinyin": "cóng",
+        "translation": "from"
+      },
+      {
+        "text": "那",
+        "pinyin": "nà",
+        "translation": "that"
+      },
+      {
+        "text": "以后",
+        "pinyin": "yǐhòu",
+        "translation": "after"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "明白",
+        "pinyin": "míngbái",
+        "translation": "understood"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "这",
+        "pinyin": "zhè",
+        "translation": "this"
+      },
+      {
+        "text": "真",
+        "pinyin": "zhēn",
+        "translation": "really"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "is"
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "辆",
+        "pinyin": "liàng",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "诚实",
+        "pinyin": "chéngshí",
+        "translation": "honest"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "自行车",
+        "pinyin": "zìxíngchē",
+        "translation": "bicycle"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "每天",
+        "pinyin": "měitiān",
+        "translation": "every day"
+      },
+      {
+        "text": "骑",
+        "pinyin": "qí",
+        "translation": "riding"
+      },
+      {
+        "text": "车",
+        "pinyin": "chē",
+        "translation": "bike"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "时候",
+        "pinyin": "shíhòu",
+        "translation": "when"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "开始",
+        "pinyin": "kāishǐ",
+        "translation": "start"
+      },
+      {
+        "text": "跟",
+        "pinyin": "gēn",
+        "translation": "with"
+      },
+      {
+        "text": "它",
+        "pinyin": "tā",
+        "translation": "it"
+      },
+      {
+        "text": "分享",
+        "pinyin": "fēnxiǎng",
+        "translation": "share"
+      },
+      {
+        "text": "真实",
+        "pinyin": "zhēnshí",
+        "translation": "true"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "故事",
+        "pinyin": "gùshì",
+        "translation": "stories"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "told"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "my"
+      },
+      {
+        "text": "小时候",
+        "pinyin": "xiǎoshíhòu",
+        "translation": "childhood"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "记忆",
+        "pinyin": "jìyì",
+        "translation": "memories"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "told"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "my"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "梦想",
+        "pinyin": "mèngxiǎng",
+        "translation": "dreams"
+      },
+      {
+        "text": "和",
+        "pinyin": "hé",
+        "translation": "and"
+      },
+      {
+        "text": "担心",
+        "pinyin": "dānxīn",
+        "translation": "worries"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "有时候",
+        "pinyin": "yǒushíhòu",
+        "translation": "sometimes"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "会",
+        "pinyin": "huì",
+        "translation": "would"
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "tell"
+      },
+      {
+        "text": "一些",
+        "pinyin": "yīxiē",
+        "translation": "some"
+      },
+      {
+        "text": "难过",
+        "pinyin": "nánguò",
+        "translation": "sad"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "事情",
+        "pinyin": "shìqíng",
+        "translation": "things"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "车",
+        "pinyin": "chē",
+        "translation": "bike"
+      },
+      {
+        "text": "会",
+        "pinyin": "huì",
+        "translation": "would"
+      },
+      {
+        "text": "骑",
+        "pinyin": "qí",
+        "translation": "ride"
+      },
+      {
+        "text": "得",
+        "pinyin": "de",
+        "translation": "(complement marker)"
+      },
+      {
+        "text": "慢",
+        "pinyin": "màn",
+        "translation": "slowly"
+      },
+      {
+        "text": "一些",
+        "pinyin": "yīxiē",
+        "translation": "a bit"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "好像",
+        "pinyin": "hǎoxiàng",
+        "translation": "as if"
+      },
+      {
+        "text": "在",
+        "pinyin": "zài",
+        "translation": "(progressive marker)"
+      },
+      {
+        "text": "安慰",
+        "pinyin": "ānwèi",
+        "translation": "comforting"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "me"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "tell"
+      },
+      {
+        "text": "开心",
+        "pinyin": "kāixīn",
+        "translation": "happy"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "事",
+        "pinyin": "shì",
+        "translation": "things"
+      },
+      {
+        "text": "时",
+        "pinyin": "shí",
+        "translation": "when"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "车",
+        "pinyin": "chē",
+        "translation": "bike"
+      },
+      {
+        "text": "就",
+        "pinyin": "jiù",
+        "translation": "then"
+      },
+      {
+        "text": "骑",
+        "pinyin": "qí",
+        "translation": "ride"
+      },
+      {
+        "text": "得",
+        "pinyin": "de",
+        "translation": "(complement marker)"
+      },
+      {
+        "text": "特别",
+        "pinyin": "tèbié",
+        "translation": "especially"
+      },
+      {
+        "text": "快",
+        "pinyin": "kuài",
+        "translation": "fast"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "这",
+        "pinyin": "zhè",
+        "translation": "this"
+      },
+      {
+        "text": "辆",
+        "pinyin": "liàng",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "自行车",
+        "pinyin": "zìxíngchē",
+        "translation": "bicycle"
+      },
+      {
+        "text": "教",
+        "pinyin": "jiāo",
+        "translation": "taught"
+      },
+      {
+        "text": "会",
+        "pinyin": "huì",
+        "translation": "(result complement)"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "me"
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "件",
+        "pinyin": "jiàn",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "事",
+        "pinyin": "shì",
+        "translation": "thing"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "telling"
+      },
+      {
+        "text": "真",
+        "pinyin": "zhēn",
+        "translation": "true"
+      },
+      {
+        "text": "话",
+        "pinyin": "huà",
+        "translation": "words"
+      },
+      {
+        "text": "让",
+        "pinyin": "ràng",
+        "translation": "makes"
+      },
+      {
+        "text": "人",
+        "pinyin": "rén",
+        "translation": "people"
+      },
+      {
+        "text": "更",
+        "pinyin": "gèng",
+        "translation": "more"
+      },
+      {
+        "text": "轻松",
+        "pinyin": "qīngsōng",
+        "translation": "relaxed"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "谎言",
+        "pinyin": "huǎngyán",
+        "translation": "lies"
+      },
+      {
+        "text": "只",
+        "pinyin": "zhǐ",
+        "translation": "only"
+      },
+      {
+        "text": "会",
+        "pinyin": "huì",
+        "translation": "will"
+      },
+      {
+        "text": "让",
+        "pinyin": "ràng",
+        "translation": "make"
+      },
+      {
+        "text": "生活",
+        "pinyin": "shēnghuó",
+        "translation": "life"
+      },
+      {
+        "text": "停",
+        "pinyin": "tíng",
+        "translation": "stop"
+      },
+      {
+        "text": "下来",
+        "pinyin": "xiàlái",
+        "translation": "(directional complement)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "现在",
+        "pinyin": "xiànzài",
+        "translation": "now"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "这",
+        "pinyin": "zhè",
+        "translation": "this"
+      },
+      {
+        "text": "辆",
+        "pinyin": "liàng",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "车",
+        "pinyin": "chē",
+        "translation": "bike"
+      },
+      {
+        "text": "不",
+        "pinyin": "bù",
+        "translation": "not"
+      },
+      {
+        "text": "只是",
+        "pinyin": "zhǐshì",
+        "translation": "only"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "my"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "交通工具",
+        "pinyin": "jiāotōng gōngjù",
+        "translation": "transportation"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "更",
+        "pinyin": "gèng",
+        "translation": "more"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "is"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "my"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "朋友",
+        "pinyin": "péngyǒu",
+        "translation": "friend"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ]
+  ]
+}

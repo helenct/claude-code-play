@@ -1,7 +1,9 @@
 // Application state
-let appData = null;
+let appIndex = null;    // from data/index.json
+let lexicon = null;     // from data/lexicon.json
 let currentLevel = null;
-let currentStory = null;
+let currentStoryId = null;
+const storyCache = {};  // id → full story data
 
 // Initialize the application
 document.addEventListener('DOMContentLoaded', async () => {
@@ -9,23 +11,43 @@ document.addEventListener('DOMContentLoaded', async () => {
     initApp();
 });
 
-// Load data from JSON file
+// Load index and lexicon in parallel
 async function loadData() {
     try {
-        const response = await fetch('data/texts.json');
-        if (!response.ok) {
-            throw new Error('Failed to load data');
-        }
-        appData = await response.json();
+        const [indexRes, lexiconRes] = await Promise.all([
+            fetch('data/index.json'),
+            fetch('data/lexicon.json'),
+        ]);
+        if (!indexRes.ok || !lexiconRes.ok) throw new Error('Failed to load data');
+        appIndex = await indexRes.json();
+        lexicon = await lexiconRes.json();
     } catch (error) {
         console.error('Error loading data:', error);
         document.getElementById('app').innerHTML = `
             <div style="padding: 2rem; text-align: center; grid-column: 1/-1;">
                 <h2 style="color: #e74c3c;">Error Loading Data</h2>
-                <p>Failed to load the texts. Please make sure the data file exists.</p>
+                <p>Failed to load the application data. Please refresh the page.</p>
             </div>
         `;
     }
+}
+
+// Fetch a story file (with caching)
+async function fetchStory(storyEntry) {
+    if (storyCache[storyEntry.id]) return storyCache[storyEntry.id];
+    const response = await fetch('data/' + storyEntry.file);
+    if (!response.ok) throw new Error('Failed to load story: ' + storyEntry.id);
+    const story = await response.json();
+    storyCache[storyEntry.id] = story;
+    return story;
+}
+
+// Check if a word is above the reader's current level
+function isAboveLevel(word, readerLevel) {
+    if (!lexicon || !readerLevel) return false;
+    const entry = lexicon[word];
+    if (!entry) return true;  // unknown word — flag it
+    return entry.level > readerLevel;
 }
 
 // Get HSK level number from level ID (e.g., "hsk2" -> 2)
@@ -44,9 +66,16 @@ function renderWords(segments, hskLevel) {
     }).join('');
 }
 
+// Render paragraphs (array of arrays of word segments)
+function renderParagraphs(paragraphs, hskLevel) {
+    return paragraphs.map(para =>
+        `<p class="paragraph">${renderWords(para, hskLevel)}</p>`
+    ).join('');
+}
+
 // Render a genre badge with word-segmented Chinese text
 function renderGenreBadge(genre) {
-    const segments = GENRE_DATA[genre];
+    const segments = appIndex.genres[genre];
     if (segments) {
         return `<span class="genre-badge">${renderWords(segments)}</span>`;
     }
@@ -56,7 +85,7 @@ function renderGenreBadge(genre) {
 // ── Sidebar/pane navigation ──
 
 function initApp() {
-    if (!appData || !appData.levels) {
+    if (!appIndex || !appIndex.levels) {
         document.getElementById('app').innerHTML = `
             <div style="padding: 2rem; text-align: center;">
                 <h2 style="color: #e74c3c;">Error</h2>
@@ -86,12 +115,12 @@ function initApp() {
 
     renderLevelNav();
     // Auto-select first level
-    selectLevel(appData.levels[0].id);
+    selectLevel(appIndex.levels[0].id);
 }
 
 function renderLevelNav() {
     const container = document.getElementById('level-nav');
-    container.innerHTML = appData.levels.map(level => {
+    container.innerHTML = appIndex.levels.map(level => {
         const count = level.stories.length;
         return `<button class="lv-item" data-level="${level.id}" onclick="selectLevel('${level.id}')">
             ${level.name}<span class="story-count">(${count})</span>
@@ -100,7 +129,7 @@ function renderLevelNav() {
 }
 
 function selectLevel(levelId) {
-    const level = appData.levels.find(l => l.id === levelId);
+    const level = appIndex.levels.find(l => l.id === levelId);
     if (!level) return;
     currentLevel = level;
 
@@ -120,7 +149,7 @@ function selectLevel(levelId) {
 function renderStoryList(level) {
     const container = document.getElementById('story-list');
     container.innerHTML = level.stories.map(story => {
-        const genreSegments = GENRE_DATA[story.genre];
+        const genreSegments = appIndex.genres[story.genre];
         const genreText = genreSegments ? genreSegments.map(s => s.text).join('') : story.genre;
         return `<button class="story-item" data-story="${story.id}" onclick="selectStory('${story.id}')">
             ${story.title}<span class="story-genre">${genreText}</span>
@@ -128,23 +157,33 @@ function renderStoryList(level) {
     }).join('');
 }
 
-function selectStory(storyId) {
-    const story = currentLevel.stories.find(s => s.id === storyId);
-    if (!story) return;
-    currentStory = story;
+async function selectStory(storyId) {
+    const storyEntry = currentLevel.stories.find(s => s.id === storyId);
+    if (!storyEntry) return;
+    currentStoryId = storyId;
 
     // Update active story highlight
     document.querySelectorAll('.story-item').forEach(el => {
         el.classList.toggle('active', el.dataset.story === storyId);
     });
 
-    renderReading(story);
+    try {
+        const story = await fetchStory(storyEntry);
+        // Guard: user may have clicked a different story while this one was loading
+        if (currentStoryId !== storyId) return;
+        renderReading(story);
+    } catch (error) {
+        console.error('Error loading story:', error);
+        if (currentStoryId !== storyId) return;
+        document.getElementById('main-pane').innerHTML = `
+            <div class="main-pane-empty">Failed to load story. Please try again.</div>
+        `;
+    }
 }
 
 function renderReading(story) {
     const pane = document.getElementById('main-pane');
     const hskLevel = getLevelNumber(currentLevel.id);
-    const textContent = renderWords(story.content, hskLevel);
 
     pane.innerHTML = `
         <h2 class="reading-title">${renderWords(story.title_segments, hskLevel)}</h2>
@@ -155,7 +194,7 @@ function renderReading(story) {
         <hr class="reading-divider">
         <p class="reading-instruction">Hover over words to see pinyin and translation. <span class="above-level-hint">Dotted underline</span> = above your level.</p>
         <div class="text-content">
-            ${textContent}
+            ${renderParagraphs(story.content, hskLevel)}
         </div>
     `;
 }

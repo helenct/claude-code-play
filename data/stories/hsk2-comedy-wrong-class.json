@@ -1,0 +1,1290 @@
+{
+  "id": "hsk2-comedy-wrong-class",
+  "title": "上错了课",
+  "title_segments": [
+    {
+      "text": "上",
+      "pinyin": "shàng",
+      "translation": "attend"
+    },
+    {
+      "text": "错",
+      "pinyin": "cuò",
+      "translation": "wrong"
+    },
+    {
+      "text": "了",
+      "pinyin": "le",
+      "translation": "(past tense)"
+    },
+    {
+      "text": "课",
+      "pinyin": "kè",
+      "translation": "class"
+    }
+  ],
+  "genre": "Comedy",
+  "level": 2,
+  "content": [
+    [
+      {
+        "text": "上",
+        "pinyin": "shàng",
+        "translation": "last"
+      },
+      {
+        "text": "个",
+        "pinyin": "gè",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "星期",
+        "pinyin": "xīngqī",
+        "translation": "week"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "报名",
+        "pinyin": "bàomíng",
+        "translation": "sign up"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "个",
+        "pinyin": "gè",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "舞蹈",
+        "pinyin": "wǔdǎo",
+        "translation": "dance"
+      },
+      {
+        "text": "课",
+        "pinyin": "kè",
+        "translation": "class"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "想",
+        "pinyin": "xiǎng",
+        "translation": "want"
+      },
+      {
+        "text": "学",
+        "pinyin": "xué",
+        "translation": "learn"
+      },
+      {
+        "text": "跳舞",
+        "pinyin": "tiàowǔ",
+        "translation": "dance"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "因为",
+        "pinyin": "yīnwèi",
+        "translation": "because"
+      },
+      {
+        "text": "跳舞",
+        "pinyin": "tiàowǔ",
+        "translation": "dancing"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "好玩儿",
+        "pinyin": "hǎowánr",
+        "translation": "fun"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "昨天",
+        "pinyin": "zuótiān",
+        "translation": "yesterday"
+      },
+      {
+        "text": "下午",
+        "pinyin": "xiàwǔ",
+        "translation": "afternoon"
+      },
+      {
+        "text": "三",
+        "pinyin": "sān",
+        "translation": "three"
+      },
+      {
+        "text": "点",
+        "pinyin": "diǎn",
+        "translation": "o'clock"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "去",
+        "pinyin": "qù",
+        "translation": "go"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "运动",
+        "pinyin": "yùndòng",
+        "translation": "sports"
+      },
+      {
+        "text": "中心",
+        "pinyin": "zhōngxīn",
+        "translation": "center"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "那里",
+        "pinyin": "nàlǐ",
+        "translation": "there"
+      },
+      {
+        "text": "有",
+        "pinyin": "yǒu",
+        "translation": "have"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "多",
+        "pinyin": "duō",
+        "translation": "many"
+      },
+      {
+        "text": "教室",
+        "pinyin": "jiàoshì",
+        "translation": "classrooms"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "走",
+        "pinyin": "zǒu",
+        "translation": "walk"
+      },
+      {
+        "text": "进",
+        "pinyin": "jìn",
+        "translation": "into"
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "个",
+        "pinyin": "gè",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "教室",
+        "pinyin": "jiàoshì",
+        "translation": "classroom"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "里面",
+        "pinyin": "lǐmiàn",
+        "translation": "inside"
+      },
+      {
+        "text": "有",
+        "pinyin": "yǒu",
+        "translation": "have"
+      },
+      {
+        "text": "十",
+        "pinyin": "shí",
+        "translation": "ten"
+      },
+      {
+        "text": "几",
+        "pinyin": "jǐ",
+        "translation": "several"
+      },
+      {
+        "text": "个",
+        "pinyin": "gè",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "人",
+        "pinyin": "rén",
+        "translation": "people"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "看",
+        "pinyin": "kàn",
+        "translation": "see"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "看",
+        "pinyin": "kàn",
+        "translation": "look"
+      },
+      {
+        "text": "他们",
+        "pinyin": "tāmen",
+        "translation": "them"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "都",
+        "pinyin": "dōu",
+        "translation": "all"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "are"
+      },
+      {
+        "text": "老",
+        "pinyin": "lǎo",
+        "translation": "old"
+      },
+      {
+        "text": "人",
+        "pinyin": "rén",
+        "translation": "people"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "但是",
+        "pinyin": "dànshì",
+        "translation": "but"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "想",
+        "pinyin": "xiǎng",
+        "translation": "think"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "没",
+        "pinyin": "méi",
+        "translation": "not"
+      },
+      {
+        "text": "关系",
+        "pinyin": "guānxi",
+        "translation": "matter"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "上课",
+        "pinyin": "shàngkè",
+        "translation": "start class"
+      },
+      {
+        "text": "开始",
+        "pinyin": "kāishǐ",
+        "translation": "begin"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "老师",
+        "pinyin": "lǎoshī",
+        "translation": "teacher"
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "say"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "今天",
+        "pinyin": "jīntiān",
+        "translation": "today"
+      },
+      {
+        "text": "我们",
+        "pinyin": "wǒmen",
+        "translation": "we"
+      },
+      {
+        "text": "练习",
+        "pinyin": "liànxí",
+        "translation": "practice"
+      },
+      {
+        "text": "太极",
+        "pinyin": "tàijí",
+        "translation": "tai chi"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "太极",
+        "pinyin": "tàijí",
+        "translation": "tai chi"
+      },
+      {
+        "text": "？",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "不是",
+        "pinyin": "bú shì",
+        "translation": "not"
+      },
+      {
+        "text": "舞蹈",
+        "pinyin": "wǔdǎo",
+        "translation": "dance"
+      },
+      {
+        "text": "课",
+        "pinyin": "kè",
+        "translation": "class"
+      },
+      {
+        "text": "吗",
+        "pinyin": "ma",
+        "translation": "(question particle)"
+      },
+      {
+        "text": "？",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "上",
+        "pinyin": "shàng",
+        "translation": "attend"
+      },
+      {
+        "text": "错",
+        "pinyin": "cuò",
+        "translation": "wrong"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "课",
+        "pinyin": "kè",
+        "translation": "class"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "有点儿",
+        "pinyin": "yǒudiǎnr",
+        "translation": "a little"
+      },
+      {
+        "text": "不",
+        "pinyin": "bù",
+        "translation": "not"
+      },
+      {
+        "text": "好意思",
+        "pinyin": "hǎoyìsi",
+        "translation": "embarrassed"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "大家",
+        "pinyin": "dàjiā",
+        "translation": "everyone"
+      },
+      {
+        "text": "都",
+        "pinyin": "dōu",
+        "translation": "all"
+      },
+      {
+        "text": "在",
+        "pinyin": "zài",
+        "translation": "at"
+      },
+      {
+        "text": "看",
+        "pinyin": "kàn",
+        "translation": "look"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "me"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "不",
+        "pinyin": "bù",
+        "translation": "not"
+      },
+      {
+        "text": "能",
+        "pinyin": "néng",
+        "translation": "can"
+      },
+      {
+        "text": "现在",
+        "pinyin": "xiànzài",
+        "translation": "now"
+      },
+      {
+        "text": "走",
+        "pinyin": "zǒu",
+        "translation": "leave"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "太",
+        "pinyin": "tài",
+        "translation": "too"
+      },
+      {
+        "text": "不",
+        "pinyin": "bù",
+        "translation": "not"
+      },
+      {
+        "text": "好意思",
+        "pinyin": "hǎoyìsi",
+        "translation": "embarrassing"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(change of state)"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "只",
+        "pinyin": "zhǐ",
+        "translation": "only"
+      },
+      {
+        "text": "好",
+        "pinyin": "hǎo",
+        "translation": "have to"
+      },
+      {
+        "text": "跟着",
+        "pinyin": "gēnzhe",
+        "translation": "follow"
+      },
+      {
+        "text": "他们",
+        "pinyin": "tāmen",
+        "translation": "them"
+      },
+      {
+        "text": "一起",
+        "pinyin": "yìqǐ",
+        "translation": "together"
+      },
+      {
+        "text": "做",
+        "pinyin": "zuò",
+        "translation": "do"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "慢慢",
+        "pinyin": "mànmàn",
+        "translation": "slowly"
+      },
+      {
+        "text": "地",
+        "pinyin": "de",
+        "translation": "(adverb marker)"
+      },
+      {
+        "text": "动",
+        "pinyin": "dòng",
+        "translation": "move"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "左边",
+        "pinyin": "zuǒbian",
+        "translation": "left side"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "右边",
+        "pinyin": "yòubian",
+        "translation": "right side"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "后来",
+        "pinyin": "hòulái",
+        "translation": "later"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "件",
+        "pinyin": "jiàn",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "奇怪",
+        "pinyin": "qíguài",
+        "translation": "strange"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "事",
+        "pinyin": "shì",
+        "translation": "thing"
+      },
+      {
+        "text": "发生",
+        "pinyin": "fāshēng",
+        "translation": "happen"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "觉得",
+        "pinyin": "juéde",
+        "translation": "feel"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "舒服",
+        "pinyin": "shūfu",
+        "translation": "comfortable"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "身体",
+        "pinyin": "shēntǐ",
+        "translation": "body"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "放松",
+        "pinyin": "fàngsōng",
+        "translation": "relaxed"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "腰",
+        "pinyin": "yāo",
+        "translation": "waist"
+      },
+      {
+        "text": "不",
+        "pinyin": "bù",
+        "translation": "not"
+      },
+      {
+        "text": "疼",
+        "pinyin": "téng",
+        "translation": "hurt"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(change of state)"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "下课",
+        "pinyin": "xiàkè",
+        "translation": "finish class"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "时候",
+        "pinyin": "shíhou",
+        "translation": "time"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "位",
+        "pinyin": "wèi",
+        "translation": "(measure word for people)"
+      },
+      {
+        "text": "老",
+        "pinyin": "lǎo",
+        "translation": "old"
+      },
+      {
+        "text": "奶奶",
+        "pinyin": "nǎinai",
+        "translation": "grandma"
+      },
+      {
+        "text": "过来",
+        "pinyin": "guòlái",
+        "translation": "come over"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "她",
+        "pinyin": "tā",
+        "translation": "she"
+      },
+      {
+        "text": "说",
+        "pinyin": "shuō",
+        "translation": "say"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "年轻人",
+        "pinyin": "niánqīngrén",
+        "translation": "young person"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "你",
+        "pinyin": "nǐ",
+        "translation": "you"
+      },
+      {
+        "text": "学",
+        "pinyin": "xué",
+        "translation": "study"
+      },
+      {
+        "text": "得",
+        "pinyin": "de",
+        "translation": "(complement marker)"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "好",
+        "pinyin": "hǎo",
+        "translation": "good"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "很少",
+        "pinyin": "hěnshǎo",
+        "translation": "rarely"
+      },
+      {
+        "text": "有",
+        "pinyin": "yǒu",
+        "translation": "have"
+      },
+      {
+        "text": "年轻人",
+        "pinyin": "niánqīngrén",
+        "translation": "young people"
+      },
+      {
+        "text": "来",
+        "pinyin": "lái",
+        "translation": "come"
+      },
+      {
+        "text": "学",
+        "pinyin": "xué",
+        "translation": "study"
+      },
+      {
+        "text": "太极",
+        "pinyin": "tàijí",
+        "translation": "tai chi"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "笑",
+        "pinyin": "xiào",
+        "translation": "laugh"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "告诉",
+        "pinyin": "gàosu",
+        "translation": "tell"
+      },
+      {
+        "text": "她",
+        "pinyin": "tā",
+        "translation": "her"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "上",
+        "pinyin": "shàng",
+        "translation": "attend"
+      },
+      {
+        "text": "错",
+        "pinyin": "cuò",
+        "translation": "wrong"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "课",
+        "pinyin": "kè",
+        "translation": "class"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "大家",
+        "pinyin": "dàjiā",
+        "translation": "everyone"
+      },
+      {
+        "text": "都",
+        "pinyin": "dōu",
+        "translation": "all"
+      },
+      {
+        "text": "笑",
+        "pinyin": "xiào",
+        "translation": "laugh"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "但是",
+        "pinyin": "dànshì",
+        "translation": "but"
+      },
+      {
+        "text": "他们",
+        "pinyin": "tāmen",
+        "translation": "they"
+      },
+      {
+        "text": "都",
+        "pinyin": "dōu",
+        "translation": "all"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "热情",
+        "pinyin": "rèqíng",
+        "translation": "enthusiastic"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "现在",
+        "pinyin": "xiànzài",
+        "translation": "now"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "不",
+        "pinyin": "bù",
+        "translation": "not"
+      },
+      {
+        "text": "去",
+        "pinyin": "qù",
+        "translation": "go"
+      },
+      {
+        "text": "学",
+        "pinyin": "xué",
+        "translation": "learn"
+      },
+      {
+        "text": "跳舞",
+        "pinyin": "tiàowǔ",
+        "translation": "dancing"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(change of state)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "每",
+        "pinyin": "měi",
+        "translation": "every"
+      },
+      {
+        "text": "个",
+        "pinyin": "gè",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "星期",
+        "pinyin": "xīngqī",
+        "translation": "week"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "都",
+        "pinyin": "dōu",
+        "translation": "all"
+      },
+      {
+        "text": "去",
+        "pinyin": "qù",
+        "translation": "go"
+      },
+      {
+        "text": "上",
+        "pinyin": "shàng",
+        "translation": "attend"
+      },
+      {
+        "text": "太极",
+        "pinyin": "tàijí",
+        "translation": "tai chi"
+      },
+      {
+        "text": "课",
+        "pinyin": "kè",
+        "translation": "class"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "还",
+        "pinyin": "hái",
+        "translation": "also"
+      },
+      {
+        "text": "认识",
+        "pinyin": "rènshi",
+        "translation": "meet"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(completed action)"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "多",
+        "pinyin": "duō",
+        "translation": "many"
+      },
+      {
+        "text": "新",
+        "pinyin": "xīn",
+        "translation": "new"
+      },
+      {
+        "text": "朋友",
+        "pinyin": "péngyou",
+        "translation": "friends"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "有时候",
+        "pinyin": "yǒushíhou",
+        "translation": "sometimes"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "错误",
+        "pinyin": "cuòwù",
+        "translation": "mistakes"
+      },
+      {
+        "text": "也",
+        "pinyin": "yě",
+        "translation": "also"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "are"
+      },
+      {
+        "text": "好",
+        "pinyin": "hǎo",
+        "translation": "good"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      }
+    ]
+  ]
+}

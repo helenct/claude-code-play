@@ -1,0 +1,1413 @@
+{
+  "id": "hsk3-comedy-wrong-phone",
+  "title": "错误的手机",
+  "title_segments": [
+    {
+      "text": "错误",
+      "pinyin": "cuòwù",
+      "translation": "wrong"
+    },
+    {
+      "text": "的",
+      "pinyin": "de",
+      "translation": "'s"
+    },
+    {
+      "text": "手机",
+      "pinyin": "shǒujī",
+      "translation": "phone"
+    }
+  ],
+  "genre": "Comedy",
+  "level": 3,
+  "content": [
+    [
+      {
+        "text": "上",
+        "pinyin": "shàng",
+        "translation": "last"
+      },
+      {
+        "text": "周",
+        "pinyin": "zhōu",
+        "translation": "week"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "在",
+        "pinyin": "zài",
+        "translation": "at"
+      },
+      {
+        "text": "咖啡店",
+        "pinyin": "kāfēidiàn",
+        "translation": "coffee shop"
+      },
+      {
+        "text": "发生",
+        "pinyin": "fāshēng",
+        "translation": "happened"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "件",
+        "pinyin": "jiàn",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "有意思",
+        "pinyin": "yǒuyìsi",
+        "translation": "interesting"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "事",
+        "pinyin": "shì",
+        "translation": "thing"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "拿",
+        "pinyin": "ná",
+        "translation": "took"
+      },
+      {
+        "text": "错",
+        "pinyin": "cuò",
+        "translation": "wrong"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "别人",
+        "pinyin": "biérén",
+        "translation": "someone else's"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "手机",
+        "pinyin": "shǒujī",
+        "translation": "phone"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "因为",
+        "pinyin": "yīnwèi",
+        "translation": "because"
+      },
+      {
+        "text": "我们",
+        "pinyin": "wǒmen",
+        "translation": "we"
+      },
+      {
+        "text": "两",
+        "pinyin": "liǎng",
+        "translation": "two"
+      },
+      {
+        "text": "个",
+        "pinyin": "gè",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "人",
+        "pinyin": "rén",
+        "translation": "people"
+      },
+      {
+        "text": "都",
+        "pinyin": "dōu",
+        "translation": "both"
+      },
+      {
+        "text": "叫",
+        "pinyin": "jiào",
+        "translation": "called"
+      },
+      {
+        "text": "李明",
+        "pinyin": "Lǐ Míng",
+        "translation": "Li Ming"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "用",
+        "pinyin": "yòng",
+        "translation": "use"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "也",
+        "pinyin": "yě",
+        "translation": "also"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "is"
+      },
+      {
+        "text": "一样",
+        "pinyin": "yīyàng",
+        "translation": "same"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "手机",
+        "pinyin": "shǒujī",
+        "translation": "phone"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "连",
+        "pinyin": "lián",
+        "translation": "even"
+      },
+      {
+        "text": "手机壳",
+        "pinyin": "shǒujīké",
+        "translation": "phone case"
+      },
+      {
+        "text": "都",
+        "pinyin": "dōu",
+        "translation": "all"
+      },
+      {
+        "text": "一样",
+        "pinyin": "yīyàng",
+        "translation": "same"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "回",
+        "pinyin": "huí",
+        "translation": "return"
+      },
+      {
+        "text": "家",
+        "pinyin": "jiā",
+        "translation": "home"
+      },
+      {
+        "text": "后",
+        "pinyin": "hòu",
+        "translation": "after"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "手机",
+        "pinyin": "shǒujī",
+        "translation": "phone"
+      },
+      {
+        "text": "开始",
+        "pinyin": "kāishǐ",
+        "translation": "start"
+      },
+      {
+        "text": "收到",
+        "pinyin": "shōudào",
+        "translation": "receive"
+      },
+      {
+        "text": "奇怪",
+        "pinyin": "qíguài",
+        "translation": "strange"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "信息",
+        "pinyin": "xìnxī",
+        "translation": "messages"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "“",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "李",
+        "pinyin": "Lǐ",
+        "translation": "Li"
+      },
+      {
+        "text": "医生",
+        "pinyin": "yīshēng",
+        "translation": "doctor"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "明天",
+        "pinyin": "míngtiān",
+        "translation": "tomorrow"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "手术",
+        "pinyin": "shǒushù",
+        "translation": "surgery"
+      },
+      {
+        "text": "改",
+        "pinyin": "gǎi",
+        "translation": "changed"
+      },
+      {
+        "text": "到",
+        "pinyin": "dào",
+        "translation": "to"
+      },
+      {
+        "text": "下午",
+        "pinyin": "xiàwǔ",
+        "translation": "afternoon"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "“",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "医生",
+        "pinyin": "yīshēng",
+        "translation": "doctor"
+      },
+      {
+        "text": "？",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "不",
+        "pinyin": "bù",
+        "translation": "not"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "am"
+      },
+      {
+        "text": "医生",
+        "pinyin": "yīshēng",
+        "translation": "doctor"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "am"
+      },
+      {
+        "text": "厨师",
+        "pinyin": "chúshī",
+        "translation": "chef"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "然后",
+        "pinyin": "ránhòu",
+        "translation": "then"
+      },
+      {
+        "text": "又",
+        "pinyin": "yòu",
+        "translation": "again"
+      },
+      {
+        "text": "来",
+        "pinyin": "lái",
+        "translation": "came"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "条",
+        "pinyin": "tiáo",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "：",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "“",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "李",
+        "pinyin": "Lǐ",
+        "translation": "Li"
+      },
+      {
+        "text": "大厨",
+        "pinyin": "dàchú",
+        "translation": "chef"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "今晚",
+        "pinyin": "jīnwǎn",
+        "translation": "tonight"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "婚宴",
+        "pinyin": "hūnyàn",
+        "translation": "wedding banquet"
+      },
+      {
+        "text": "准备",
+        "pinyin": "zhǔnbèi",
+        "translation": "prepare"
+      },
+      {
+        "text": "好",
+        "pinyin": "hǎo",
+        "translation": "well"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "吗",
+        "pinyin": "ma",
+        "translation": "(question particle)"
+      },
+      {
+        "text": "？",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "“",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "这",
+        "pinyin": "zhè",
+        "translation": "this"
+      },
+      {
+        "text": "下",
+        "pinyin": "xià",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "更",
+        "pinyin": "gèng",
+        "translation": "even more"
+      },
+      {
+        "text": "糊涂",
+        "pinyin": "hútu",
+        "translation": "confused"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "原来",
+        "pinyin": "yuánlái",
+        "translation": "turns out"
+      },
+      {
+        "text": "另",
+        "pinyin": "lìng",
+        "translation": "other"
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "个",
+        "pinyin": "gè",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "李明",
+        "pinyin": "Lǐ Míng",
+        "translation": "Li Ming"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "is"
+      },
+      {
+        "text": "医生",
+        "pinyin": "yīshēng",
+        "translation": "doctor"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "am"
+      },
+      {
+        "text": "厨师",
+        "pinyin": "chúshī",
+        "translation": "chef"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "手机",
+        "pinyin": "shǒujī",
+        "translation": "phone"
+      },
+      {
+        "text": "收到",
+        "pinyin": "shōudào",
+        "translation": "receiving"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "my"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "信息",
+        "pinyin": "xìnxī",
+        "translation": "messages"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "手机",
+        "pinyin": "shǒujī",
+        "translation": "phone"
+      },
+      {
+        "text": "收到",
+        "pinyin": "shōudào",
+        "translation": "receiving"
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "his"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "信息",
+        "pinyin": "xìnxī",
+        "translation": "messages"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "更",
+        "pinyin": "gèng",
+        "translation": "even more"
+      },
+      {
+        "text": "麻烦",
+        "pinyin": "máfan",
+        "translation": "troublesome"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "是",
+        "pinyin": "shì",
+        "translation": "is"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "电话",
+        "pinyin": "diànhuà",
+        "translation": "phone calls"
+      },
+      {
+        "text": "也",
+        "pinyin": "yě",
+        "translation": "also"
+      },
+      {
+        "text": "开始",
+        "pinyin": "kāishǐ",
+        "translation": "start"
+      },
+      {
+        "text": "打",
+        "pinyin": "dǎ",
+        "translation": "coming"
+      },
+      {
+        "text": "来",
+        "pinyin": "lái",
+        "translation": "in"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "个",
+        "pinyin": "gè",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "病人",
+        "pinyin": "bìngrén",
+        "translation": "patient"
+      },
+      {
+        "text": "问",
+        "pinyin": "wèn",
+        "translation": "ask"
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "me"
+      },
+      {
+        "text": "检查",
+        "pinyin": "jiǎnchá",
+        "translation": "examination"
+      },
+      {
+        "text": "结果",
+        "pinyin": "jiéguǒ",
+        "translation": "results"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "完全",
+        "pinyin": "wánquán",
+        "translation": "completely"
+      },
+      {
+        "text": "不",
+        "pinyin": "bù",
+        "translation": "not"
+      },
+      {
+        "text": "懂",
+        "pinyin": "dǒng",
+        "translation": "understand"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "个",
+        "pinyin": "gè",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "餐厅",
+        "pinyin": "cāntīng",
+        "translation": "restaurant"
+      },
+      {
+        "text": "老板",
+        "pinyin": "lǎobǎn",
+        "translation": "owner"
+      },
+      {
+        "text": "跟",
+        "pinyin": "gēn",
+        "translation": "with"
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "him"
+      },
+      {
+        "text": "讨论",
+        "pinyin": "tǎolùn",
+        "translation": "discuss"
+      },
+      {
+        "text": "菜单",
+        "pinyin": "càidān",
+        "translation": "menu"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "也",
+        "pinyin": "yě",
+        "translation": "also"
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "头",
+        "pinyin": "tóu",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "雾水",
+        "pinyin": "wùshuǐ",
+        "translation": "foggy water"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我们",
+        "pinyin": "wǒmen",
+        "translation": "we"
+      },
+      {
+        "text": "必须",
+        "pinyin": "bìxū",
+        "translation": "must"
+      },
+      {
+        "text": "赶快",
+        "pinyin": "gǎnkuài",
+        "translation": "quickly"
+      },
+      {
+        "text": "换",
+        "pinyin": "huàn",
+        "translation": "exchange"
+      },
+      {
+        "text": "回",
+        "pinyin": "huí",
+        "translation": "back"
+      },
+      {
+        "text": "手机",
+        "pinyin": "shǒujī",
+        "translation": "phones"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "在",
+        "pinyin": "zài",
+        "translation": "(progressive marker)"
+      },
+      {
+        "text": "这",
+        "pinyin": "zhè",
+        "translation": "this"
+      },
+      {
+        "text": "个",
+        "pinyin": "gè",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "手机",
+        "pinyin": "shǒujī",
+        "translation": "phone"
+      },
+      {
+        "text": "里",
+        "pinyin": "lǐ",
+        "translation": "in"
+      },
+      {
+        "text": "找",
+        "pinyin": "zhǎo",
+        "translation": "find"
+      },
+      {
+        "text": "到",
+        "pinyin": "dào",
+        "translation": "(result complement)"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "his"
+      },
+      {
+        "text": "自己",
+        "pinyin": "zìjǐ",
+        "translation": "own"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(possessive)"
+      },
+      {
+        "text": "号码",
+        "pinyin": "hàomǎ",
+        "translation": "number"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "给",
+        "pinyin": "gěi",
+        "translation": "to"
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "him"
+      },
+      {
+        "text": "打",
+        "pinyin": "dǎ",
+        "translation": "call"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "电话",
+        "pinyin": "diànhuà",
+        "translation": "phone"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "接",
+        "pinyin": "jiē",
+        "translation": "answered"
+      },
+      {
+        "text": "电话",
+        "pinyin": "diànhuà",
+        "translation": "phone"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "时候",
+        "pinyin": "shíhòu",
+        "translation": "when"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我们",
+        "pinyin": "wǒmen",
+        "translation": "we"
+      },
+      {
+        "text": "两",
+        "pinyin": "liǎng",
+        "translation": "two"
+      },
+      {
+        "text": "个",
+        "pinyin": "gè",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "都",
+        "pinyin": "dōu",
+        "translation": "both"
+      },
+      {
+        "text": "笑",
+        "pinyin": "xiào",
+        "translation": "laugh"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      }
+    ],
+    [
+      {
+        "text": "第二天",
+        "pinyin": "dìèrtiān",
+        "translation": "next day"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我们",
+        "pinyin": "wǒmen",
+        "translation": "we"
+      },
+      {
+        "text": "约",
+        "pinyin": "yuē",
+        "translation": "arranged"
+      },
+      {
+        "text": "在",
+        "pinyin": "zài",
+        "translation": "at"
+      },
+      {
+        "text": "咖啡店",
+        "pinyin": "kāfēidiàn",
+        "translation": "coffee shop"
+      },
+      {
+        "text": "见面",
+        "pinyin": "jiànmiàn",
+        "translation": "meet"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "换",
+        "pinyin": "huàn",
+        "translation": "exchange"
+      },
+      {
+        "text": "回",
+        "pinyin": "huí",
+        "translation": "back"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "手机",
+        "pinyin": "shǒujī",
+        "translation": "phones"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我们",
+        "pinyin": "wǒmen",
+        "translation": "we"
+      },
+      {
+        "text": "聊",
+        "pinyin": "liáo",
+        "translation": "chat"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "很久",
+        "pinyin": "hěnjiǔ",
+        "translation": "long time"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "发现",
+        "pinyin": "fāxiàn",
+        "translation": "discover"
+      },
+      {
+        "text": "虽然",
+        "pinyin": "suīrán",
+        "translation": "although"
+      },
+      {
+        "text": "名字",
+        "pinyin": "míngzi",
+        "translation": "name"
+      },
+      {
+        "text": "一样",
+        "pinyin": "yīyàng",
+        "translation": "same"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "但是",
+        "pinyin": "dànshì",
+        "translation": "but"
+      },
+      {
+        "text": "生活",
+        "pinyin": "shēnghuó",
+        "translation": "life"
+      },
+      {
+        "text": "完全",
+        "pinyin": "wánquán",
+        "translation": "completely"
+      },
+      {
+        "text": "不同",
+        "pinyin": "bùtóng",
+        "translation": "different"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "他",
+        "pinyin": "tā",
+        "translation": "he"
+      },
+      {
+        "text": "对",
+        "pinyin": "duì",
+        "translation": "to"
+      },
+      {
+        "text": "做",
+        "pinyin": "zuò",
+        "translation": "cooking"
+      },
+      {
+        "text": "菜",
+        "pinyin": "cài",
+        "translation": "food"
+      },
+      {
+        "text": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+      },
+      {
+        "text": "感兴趣",
+        "pinyin": "gǎn xìngqù",
+        "translation": "interested"
+      },
+      {
+        "text": "，",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+      },
+      {
+        "text": "对",
+        "pinyin": "duì",
+        "translation": "in"
+      },
+      {
+        "text": "医学",
+        "pinyin": "yīxué",
+        "translation": "medicine"
+      },
+      {
+        "text": "也",
+        "pinyin": "yě",
+        "translation": "also"
+      },
+      {
+        "text": "有",
+        "pinyin": "yǒu",
+        "translation": "have"
+      },
+      {
+        "text": "兴趣",
+        "pinyin": "xìngqù",
+        "translation": "interest"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "后来",
+        "pinyin": "hòulái",
+        "translation": "later"
+      },
+      {
+        "text": "我们",
+        "pinyin": "wǒmen",
+        "translation": "we"
+      },
+      {
+        "text": "成",
+        "pinyin": "chéng",
+        "translation": "became"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "好",
+        "pinyin": "hǎo",
+        "translation": "good"
+      },
+      {
+        "text": "朋友",
+        "pinyin": "péngyǒu",
+        "translation": "friends"
+      },
+      {
+        "text": "。",
+        "pinyin": null,
+        "translation": null
+      },
+      {
+        "text": "这",
+        "pinyin": "zhè",
+        "translation": "this"
+      },
+      {
+        "text": "个",
+        "pinyin": "gè",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "错误",
+        "pinyin": "cuòwù",
+        "translation": "mistake"
+      },
+      {
+        "text": "反而",
+        "pinyin": "fǎn'ér",
+        "translation": "instead"
+      },
+      {
+        "text": "带",
+        "pinyin": "dài",
+        "translation": "brought"
+      },
+      {
+        "text": "来",
+        "pinyin": "lái",
+        "translation": "(directional complement)"
+      },
+      {
+        "text": "了",
+        "pinyin": "le",
+        "translation": "(particle)"
+      },
+      {
+        "text": "一",
+        "pinyin": "yī",
+        "translation": "one"
+      },
+      {
+        "text": "段",
+        "pinyin": "duàn",
+        "translation": "(measure word)"
+      },
+      {
+        "text": "有趣",
+        "pinyin": "yǒuqù",
+        "translation": "interesting"
+      },
+      {
+        "text": "的",
+        "pinyin": "de",
+        "translation": "(particle)"
+      },
+      {
+        "text": "友谊",
+        "pinyin": "yǒuyì",
+        "translation": "friendship"
+      },
+      {
+        "text": "！",
+        "pinyin": null,
+        "translation": null
+      }
+    ]
+  ]
+}

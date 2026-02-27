@@ -1,12 +1,12 @@
 # Chinese Graded Reader - Project Status
-**Last Updated:** February 24, 2026
+**Last Updated:** February 27, 2026
 
 ## Current State
 
 All 20 stories are integrated into the app. The UI uses the **Jade Split** theme — a persistent two-pane sidebar layout with a dark teal sidebar and light mint reading pane.
 
 **Live site:** https://helenct.github.io/claude-code-play/
-**Active branch:** `refactor-plan` — structural refactor in progress (Phases 1-3 complete, not yet merged to main)
+**Active branch:** `main` — Phases 1-4 complete and merged
 
 ### Navigation Model
 - Dark teal sidebar: logo, HSK level nav (vertical stack), scrollable story list
@@ -50,8 +50,13 @@ See `REFACTOR_PLAN.md` for the full plan. Summary of what's done and what's next
 - Removed `hsk_vocab.js` dependency
 - **Not yet tested in browser** — needs manual verification
 
-### Phase 4: Add Validation Script — TODO
-- Script to check all stories against lexicon, flag mismatches
+### Phase 4: Add Validation Script — DONE
+- Created `scripts/validate.py` — validates all story files against lexicon and checks structural correctness
+- Checks: index.json structure, orphan files, story schema, token structure, pinyin consistency, translation coverage
+- Cross-story stats: vocabulary coverage per level, single-story word count
+- `--verbose` flag for full per-story output; default shows only stories with issues
+- Exit code 0 on clean/warnings-only, 1 on errors
+- Currently detects 179 pinyin mismatches (tone sandhi, neutral tones, lexicon reading inconsistencies — to be resolved separately)
 
 ## Stories (20 total)
 
@@ -101,7 +106,8 @@ claude-code-play/
 │       └── hsk4-philosophical-park-observer.json
 ├── scripts/
 │   ├── build-lexicon.py    (generates lexicon from stories + frequency data)
-│   └── split-stories.py    (splits texts.json into individual story files)
+│   ├── split-stories.py    (splits texts.json into individual story files)
+│   └── validate.py         (validates stories against lexicon + structural checks)
 ├── reference/              (gitignored — SUBTLEX-CH + hanziDB frequency data)
 ├── PROJECT_STATUS.md
 ├── REFACTOR_PLAN.md
@@ -131,8 +137,8 @@ Content is an array of paragraphs, each an array of word tokens.
 Punctuation: `{"text": "。", "pinyin": null, "translation": null}`
 
 ## Potential Next Steps
-- **Browser-test the refactor branch** — Phases 1-3 are code-complete but untested in browser
-- Phase 4: Add validation script
+- **Browser-test the app** — Phases 1-3 are code-complete but untested in browser
+- **Fix pinyin mismatches** — 179 inconsistencies between stories and lexicon detected by validate.py
 - Complete the 会说话的书 story
 - Add touch support for mobile (tap instead of hover for tooltips)
 - Add progress tracking / bookmarking

@@ -1,0 +1,353 @@
+=== Validating Chinese Graded Reader Data ===
+
+Loading data...
+  Lexicon: 828 words
+  Index: 4 levels, 20 stories
+  Orphan files: 0
+
+--- hsk1-scifi-talking-book ---
+  Schema: ERRORS
+  Tokens: 86 words, 45 unique, 3 paragraphs
+  Above-level: 6 (7.0%)
+  Errors:
+    [pinyin-mismatch] "你好": story has "nǐ hǎo", lexicon has "nǐhǎo"
+    [pinyin-mismatch] "谁": story has "shéi", lexicon has "shuí"
+    [pinyin-mismatch] "知道": story has "zhīdào", lexicon has "zhīdao"
+
+--- hsk1-historical-poets-tea ---
+  Schema: ERRORS
+  Tokens: 165 words, 56 unique, 6 paragraphs
+  Above-level: 20 (12.1%)
+  Errors:
+    [pinyin-mismatch] "谁": story has "shéi", lexicon has "shuí"
+    [pinyin-mismatch] "第二": story has "dì'èr", lexicon has "dìèr"
+
+--- hsk1-magical-shadow-friend ---
+  Schema: ERRORS
+  Tokens: 155 words, 53 unique, 6 paragraphs
+  Above-level: 26 (16.8%)
+  Errors:
+    [pinyin-mismatch] "谁": story has "shéi", lexicon has "shuí"
+    [pinyin-mismatch] "外面": story has "wàimiàn", lexicon has "wàimian"
+    [pinyin-mismatch] "一起": story has "yìqǐ", lexicon has "yīqǐ"
+
+--- hsk1-comedy-reading-dog ---
+  Schema: ERRORS
+  Tokens: 162 words, 61 unique, 6 paragraphs
+  Above-level: 30 (18.5%)
+  Errors:
+    [pinyin-mismatch] "只": story has "zhī", lexicon has "zhǐ"
+    [pinyin-mismatch] "可爱": story has "kě'ài", lexicon has "kěài"
+    [pinyin-mismatch] "上": story has "shàng", lexicon has "shǎng"
+    [pinyin-mismatch] "下去": story has "xiàqù", lexicon has "xiàqu"
+    [pinyin-mismatch] "下去": story has "xiàqù", lexicon has "xiàqu"
+    [pinyin-mismatch] "上": story has "shàng", lexicon has "shǎng"
+    [pinyin-mismatch] "上": story has "shàng", lexicon has "shǎng"
+    [pinyin-mismatch] "上": story has "shàng", lexicon has "shǎng"
+
+--- hsk1-slice-of-life-new-neighbors ---
+  Schema: ERRORS
+  Tokens: 146 words, 57 unique, 6 paragraphs
+  Above-level: 22 (15.1%)
+  Errors:
+    [pinyin-mismatch] "中文": story has "zhōngwén", lexicon has "Zhōngwén"
+    [pinyin-mismatch] "中文": story has "zhōngwén", lexicon has "Zhōngwén"
+    [pinyin-mismatch] "中文": story has "zhōngwén", lexicon has "Zhōngwén"
+    [pinyin-mismatch] "一起": story has "yìqǐ", lexicon has "yīqǐ"
+    [pinyin-mismatch] "一起": story has "yìqǐ", lexicon has "yīqǐ"
+    [pinyin-mismatch] "一起": story has "yìqǐ", lexicon has "yīqǐ"
+    [pinyin-mismatch] "中文": story has "zhōngwén", lexicon has "Zhōngwén"
+    [pinyin-mismatch] "知道": story has "zhīdào", lexicon has "zhīdao"
+
+--- hsk2-scifi-smart-alarm ---
+  Schema: ERRORS
+  Tokens: 156 words, 88 unique, 4 paragraphs
+  Above-level: 36 (23.1%)
+  Errors:
+    [pinyin-mismatch] "聪明": story has "cōngmíng", lexicon has "cōngming"
+    [pinyin-mismatch] "忘": story has "wàng", lexicon has "wáng"
+    [pinyin-mismatch] "上": story has "shàng", lexicon has "shǎng"
+    [pinyin-mismatch] "不是": story has "bú shì", lexicon has "bùshi"
+    [pinyin-mismatch] "打": story has "dǎ", lexicon has "dá"
+    [pinyin-mismatch] "起来": story has "qǐlái", lexicon has "qǐlai"
+    [pinyin-mismatch] "外面": story has "wàimiàn", lexicon has "wàimian"
+    [pinyin-mismatch] "知道": story has "zhīdào", lexicon has "zhīdao"
+
+--- hsk2-historical-grandfathers-map ---
+  Schema: ERRORS
+  Tokens: 154 words, 94 unique, 4 paragraphs
+  Above-level: 36 (23.4%)
+  Errors:
+    [pinyin-mismatch] "上": story has "shàng", lexicon has "shǎng"
+    [pinyin-mismatch] "上": story has "shàng", lexicon has "shǎng"
+    [pinyin-mismatch] "上面": story has "shàngmiàn", lexicon has "shàngmian"
+    [pinyin-mismatch] "从": story has "cóng", lexicon has "cōng"
+    [pinyin-mismatch] "上": story has "shàng", lexicon has "shǎng"
+    [pinyin-mismatch] "一定": story has "yídìng", lexicon has "yīdìng"
+    [pinyin-mismatch] "一起": story has "yìqǐ", lexicon has "yīqǐ"
+
+--- hsk2-magical-magic-kitchen ---
+  Schema: ERRORS
+  Tokens: 174 words, 96 unique, 5 paragraphs
+  Above-level: 46 (26.4%)
+  Errors:
+    [pinyin-mismatch] "不是": story has "bú shì", lexicon has "bùshi"
+    [pinyin-mismatch] "上": story has "shàng", lexicon has "shǎng"
+    [pinyin-mismatch] "下去": story has "xiàqù", lexicon has "xiàqu"
+    [pinyin-mismatch] "一点儿": story has "yìdiǎnr", lexicon has "yīdiǎnr"
+    [pinyin-mismatch] "教会": story has "jiāohuì", lexicon has "jiàohuì"
+
+--- hsk2-comedy-wrong-class ---
+  Schema: ERRORS
+  Tokens: 201 words, 103 unique, 5 paragraphs
+  Above-level: 35 (17.4%)
+  Errors:
+    [pinyin-mismatch] "上": story has "shàng", lexicon has "shǎng"
+    [pinyin-mismatch] "上": story has "shàng", lexicon has "shǎng"
+    [pinyin-mismatch] "好玩儿": story has "hǎowánr", lexicon has "hǎowáner"
+    [pinyin-mismatch] "那里": story has "nàlǐ", lexicon has "nàli"
+    [pinyin-mismatch] "几": story has "jǐ", lexicon has "jī"
+    [pinyin-mismatch] "关系": story has "guānxi", lexicon has "guānxì"
+    [pinyin-mismatch] "不是": story has "bú shì", lexicon has "bùshi"
+    [pinyin-mismatch] "上": story has "shàng", lexicon has "shǎng"
+    [pinyin-mismatch] "一起": story has "yìqǐ", lexicon has "yīqǐ"
+    [pinyin-mismatch] "左边": story has "zuǒbian", lexicon has "zuǒbiān"
+    [pinyin-mismatch] "上": story has "shàng", lexicon has "shǎng"
+    [pinyin-mismatch] "上": story has "shàng", lexicon has "shǎng"
+
+--- hsk2-mystery-lunch-thief ---
+  Schema: ERRORS
+  Tokens: 203 words, 94 unique, 6 paragraphs
+  Above-level: 44 (21.7%)
+  Errors:
+    [pinyin-mismatch] "不见": story has "bújiàn", lexicon has "bùjiàn"
+    [pinyin-mismatch] "不见": story has "bújiàn", lexicon has "bùjiàn"
+    [pinyin-mismatch] "谁": story has "shéi", lexicon has "shuí"
+    [pinyin-mismatch] "只": story has "zhī", lexicon has "zhǐ"
+    [pinyin-mismatch] "只": story has "zhī", lexicon has "zhǐ"
+    [pinyin-mismatch] "知道": story has "zhīdào", lexicon has "zhīdao"
+    [pinyin-mismatch] "只": story has "zhī", lexicon has "zhǐ"
+
+--- hsk3-scifi-label-glasses ---
+  Schema: ERRORS
+  Tokens: 155 words, 99 unique, 3 paragraphs
+  Above-level: 29 (18.7%)
+  Errors:
+    [pinyin-mismatch] "上": story has "shàng", lexicon has "shǎng"
+    [pinyin-mismatch] "上面": story has "shàngmiàn", lexicon has "shàngmian"
+    [pinyin-mismatch] "上": story has "shàng", lexicon has "shǎng"
+    [pinyin-mismatch] "告诉": story has "gàosù", lexicon has "gàosu"
+    [pinyin-mismatch] "更": story has "gèng", lexicon has "gēng"
+    [pinyin-mismatch] "喜欢": story has "xǐhuān", lexicon has "xǐhuan"
+    [pinyin-mismatch] "故事": story has "gùshì", lexicon has "gùshi"
+    [pinyin-mismatch] "时候": story has "shíhòu", lexicon has "shíhou"
+    [pinyin-mismatch] "上": story has "shàng", lexicon has "shǎng"
+    [pinyin-mismatch] "明白": story has "míngbái", lexicon has "míngbai"
+    [pinyin-mismatch] "更": story has "gèng", lexicon has "gēng"
+
+--- hsk3-historical-moving-to-city ---
+  Schema: ERRORS
+  Tokens: 171 words, 111 unique, 4 paragraphs
+  Above-level: 42 (24.6%)
+  Errors:
+    [word-missing-pinyin] title_segments: word " - 1985" has empty or null pinyin
+    [word-missing-translation] title_segments: word " - 1985" has empty or null translation
+    [pinyin-mismatch] "几": story has "jǐ", lexicon has "jī"
+    [pinyin-mismatch] "衣服": story has "yīfú", lexicon has "yīfu"
+    [pinyin-mismatch] "时候": story has "shíhòu", lexicon has "shíhou"
+    [pinyin-mismatch] "街上": story has "jiēshàng", lexicon has "jiēshang"
+    [pinyin-mismatch] "早上": story has "zǎoshàng", lexicon has "zǎoshang"
+    [pinyin-mismatch] "晚上": story has "wǎnshàng", lexicon has "wǎnshang"
+    [pinyin-mismatch] "觉得": story has "juédé", lexicon has "juéde"
+    [pinyin-mismatch] "告诉": story has "gàosù", lexicon has "gàosu"
+    [pinyin-mismatch] "晚上": story has "wǎnshàng", lexicon has "wǎnshang"
+    [pinyin-mismatch] "知道": story has "zhīdào", lexicon has "zhīdao"
+
+--- hsk3-magical-honest-bicycle ---
+  Schema: ERRORS
+  Tokens: 211 words, 105 unique, 3 paragraphs
+  Above-level: 23 (10.9%)
+  Warnings:
+    [translation-not-in-meanings] "看": "watched" not in lexicon meanings
+    [translation-not-in-meanings] "看": "watch" not in lexicon meanings
+  Errors:
+    [pinyin-mismatch] "上": story has "shàng", lexicon has "shǎng"
+    [pinyin-mismatch] "觉得": story has "juédé", lexicon has "juéde"
+    [pinyin-mismatch] "时候": story has "shíhòu", lexicon has "shíhou"
+    [pinyin-mismatch] "对不起": story has "duìbùqǐ", lexicon has "duìbuqǐ"
+    [pinyin-mismatch] "从": story has "cóng", lexicon has "cōng"
+    [pinyin-mismatch] "明白": story has "míngbái", lexicon has "míngbai"
+    [pinyin-mismatch] "时候": story has "shíhòu", lexicon has "shíhou"
+    [pinyin-mismatch] "故事": story has "gùshì", lexicon has "gùshi"
+    [pinyin-mismatch] "小时候": story has "xiǎoshíhòu", lexicon has "xiǎoshíhou"
+    [pinyin-mismatch] "有时候": story has "yǒushíhòu", lexicon has "yǒushíhou"
+    [pinyin-mismatch] "更": story has "gèng", lexicon has "gēng"
+    [pinyin-mismatch] "下来": story has "xiàlái", lexicon has "xiàlai"
+    [pinyin-mismatch] "更": story has "gèng", lexicon has "gēng"
+    [pinyin-mismatch] "朋友": story has "péngyǒu", lexicon has "péngyou"
+
+--- hsk3-comedy-wrong-phone ---
+  Schema: ERRORS
+  Tokens: 230 words, 118 unique, 4 paragraphs
+  Above-level: 32 (13.9%)
+  Errors:
+    [pinyin-mismatch] "上": story has "shàng", lexicon has "shǎng"
+    [pinyin-mismatch] "李明": story has "Lǐ Míng", lexicon has "lǐmíng"
+    [pinyin-mismatch] "李": story has "Lǐ", lexicon has "lǐ"
+    [pinyin-mismatch] "李": story has "Lǐ", lexicon has "lǐ"
+    [pinyin-mismatch] "更": story has "gèng", lexicon has "gēng"
+    [pinyin-mismatch] "李明": story has "Lǐ Míng", lexicon has "lǐmíng"
+    [pinyin-mismatch] "更": story has "gèng", lexicon has "gēng"
+    [pinyin-mismatch] "打": story has "dǎ", lexicon has "dá"
+    [pinyin-mismatch] "打": story has "dǎ", lexicon has "dá"
+    [pinyin-mismatch] "时候": story has "shíhòu", lexicon has "shíhou"
+    [pinyin-mismatch] "感兴趣": story has "gǎn xìngqù", lexicon has "gǎnxìngqù"
+    [pinyin-mismatch] "兴趣": story has "xìngqù", lexicon has "xìngqu"
+    [pinyin-mismatch] "朋友": story has "péngyǒu", lexicon has "péngyou"
+    [pinyin-mismatch] "反而": story has "fǎn'ér", lexicon has "fǎnér"
+
+--- hsk3-drama-balcony-garden ---
+  Schema: ERRORS
+  Tokens: 229 words, 137 unique, 4 paragraphs
+  Above-level: 55 (24.0%)
+  Errors:
+    [pinyin-mismatch] "觉得": story has "juédé", lexicon has "juéde"
+    [pinyin-mismatch] "上": story has "shàng", lexicon has "shǎng"
+    [pinyin-mismatch] "种": story has "zhòng", lexicon has "zhǒng"
+    [pinyin-mismatch] "照顾": story has "zhàogù", lexicon has "zhàogu"
+    [pinyin-mismatch] "种": story has "zhòng", lexicon has "zhǒng"
+    [pinyin-mismatch] "喜欢": story has "xǐhuān", lexicon has "xǐhuan"
+    [pinyin-mismatch] "上": story has "shàng", lexicon has "shǎng"
+    [pinyin-mismatch] "上": story has "shàng", lexicon has "shǎng"
+    [pinyin-mismatch] "种": story has "zhòng", lexicon has "zhǒng"
+    [pinyin-mismatch] "照顾": story has "zhàogù", lexicon has "zhàogu"
+    [pinyin-mismatch] "种": story has "zhòng", lexicon has "zhǒng"
+    [pinyin-mismatch] "明白": story has "míngbái", lexicon has "míngbai"
+    [pinyin-mismatch] "焦虑": story has "jiāolǜ", lexicon has "jiāolù:"
+    [pinyin-mismatch] "时候": story has "shíhòu", lexicon has "shíhou"
+    [pinyin-mismatch] "看看": story has "kànkàn", lexicon has "kànkan"
+    [pinyin-mismatch] "地方": story has "dìfāng", lexicon has "dìfang"
+
+--- hsk4-scifi-tomorrows-tea ---
+  Schema: ERRORS
+  Tokens: 192 words, 114 unique, 3 paragraphs
+  Above-level: 23 (12.0%)
+  Errors:
+    [pinyin-mismatch] "事情": story has "shìqing", lexicon has "shìqíng"
+    [pinyin-mismatch] "那个": story has "nàgè", lexicon has "nèigè"
+    [pinyin-mismatch] "不是": story has "bùshì", lexicon has "bùshi"
+    [pinyin-mismatch] "那个": story has "nàgè", lexicon has "nèigè"
+    [pinyin-mismatch] "第二": story has "dì'èr", lexicon has "dìèr"
+    [pinyin-mismatch] "不是": story has "bùshì", lexicon has "bùshi"
+    [pinyin-mismatch] "哪个": story has "nǎgè", lexicon has "nǎge"
+    [pinyin-mismatch] "过去": story has "guòqù", lexicon has "guòqu"
+    [pinyin-mismatch] "正是": story has "zhèngshì", lexicon has "zhēng"
+    [pinyin-mismatch] "知道": story has "zhīdào", lexicon has "zhīdao"
+    [pinyin-mismatch] "第二": story has "dì'èr", lexicon has "dìèr"
+
+--- hsk4-historical-calligraphers-choice ---
+  Schema: ERRORS
+  Tokens: 183 words, 124 unique, 4 paragraphs
+  Above-level: 35 (19.1%)
+  Errors:
+    [pinyin-mismatch] "王": story has "Wáng", lexicon has "wáng"
+    [pinyin-mismatch] "王": story has "Wáng", lexicon has "wáng"
+    [pinyin-mismatch] "王": story has "Wáng", lexicon has "wáng"
+    [pinyin-mismatch] "过": story has "guo", lexicon has "guò"
+    [pinyin-mismatch] "第二": story has "dì'èr", lexicon has "dìèr"
+    [pinyin-mismatch] "精神": story has "jīngshén", lexicon has "jīngshen"
+    [pinyin-mismatch] "下去": story has "xiàqù", lexicon has "xiàqu"
+
+--- hsk4-magical-memory-teahouse ---
+  Schema: ERRORS
+  Tokens: 220 words, 128 unique, 4 paragraphs
+  Above-level: 33 (15.0%)
+  Errors:
+    [pinyin-mismatch] "处": story has "chù", lexicon has "chǔ"
+    [pinyin-mismatch] "上面": story has "shàngmiàn", lexicon has "shàngmian"
+    [pinyin-mismatch] "茉莉花茶": story has "mòlìhuāchá", lexicon has "mòlihuāchá"
+    [pinyin-mismatch] "乌龙茶": story has "wūlóngchá", lexicon has "wū"
+    [pinyin-mismatch] "更": story has "gèng", lexicon has "gēng"
+    [pinyin-mismatch] "从": story has "cóng", lexicon has "cōng"
+    [pinyin-mismatch] "茉莉花茶": story has "mòlìhuāchá", lexicon has "mòlihuāchá"
+    [pinyin-mismatch] "知道": story has "zhīdào", lexicon has "zhīdao"
+    [pinyin-mismatch] "突然": story has "túrán", lexicon has "tūrán"
+    [pinyin-mismatch] "从": story has "cóng", lexicon has "cōng"
+    [pinyin-mismatch] "上": story has "shàng", lexicon has "shǎng"
+    [pinyin-mismatch] "心里": story has "xīnlǐ", lexicon has "xīnli"
+    [pinyin-mismatch] "不是": story has "bùshì", lexicon has "bùshi"
+    [pinyin-mismatch] "部分": story has "bùfen", lexicon has "bùfèn"
+
+--- hsk4-comedy-grandma-goes-digital ---
+  Schema: ERRORS
+  Tokens: 198 words, 126 unique, 3 paragraphs
+  Above-level: 29 (14.6%)
+  Errors:
+    [pinyin-mismatch] "突然": story has "túrán", lexicon has "tūrán"
+    [pinyin-mismatch] "几": story has "jǐ", lexicon has "jī"
+    [pinyin-mismatch] "上": story has "shàng", lexicon has "shǎng"
+    [pinyin-mismatch] "可爱": story has "kě'ài", lexicon has "kěài"
+    [pinyin-mismatch] "更": story has "gèng", lexicon has "gēng"
+    [pinyin-mismatch] "不是": story has "bùshì", lexicon has "bùshi"
+    [pinyin-mismatch] "与": story has "yǔ", lexicon has "yú"
+
+--- hsk4-philosophical-park-observer ---
+  Schema: ERRORS
+  Tokens: 226 words, 150 unique, 4 paragraphs
+  Above-level: 37 (16.4%)
+  Warnings:
+    [translation-not-in-meanings] "看": "watch" not in lexicon meanings
+  Errors:
+    [pinyin-mismatch] "打": story has "dǎ", lexicon has "dá"
+    [pinyin-mismatch] "脸上": story has "liǎnshàng", lexicon has "liǎnshǎng"
+    [pinyin-mismatch] "过": story has "guo", lexicon has "guò"
+    [pinyin-mismatch] "事情": story has "shìqing", lexicon has "shìqíng"
+    [pinyin-mismatch] "从容": story has "cóngróng", lexicon has "cōngróng"
+    [pinyin-mismatch] "跑": story has "pǎo", lexicon has "páo"
+    [pinyin-mismatch] "起来": story has "qǐlái", lexicon has "qǐlai"
+    [pinyin-mismatch] "几十": story has "jǐshí", lexicon has "jī"
+    [pinyin-mismatch] "不是": story has "bùshì", lexicon has "bùshi"
+    [pinyin-mismatch] "不是": story has "bùshì", lexicon has "bùshi"
+    [pinyin-mismatch] "每个": story has "měigè", lexicon has "měigě"
+    [pinyin-mismatch] "每个": story has "měigè", lexicon has "měigě"
+
+=== Cross-Story Stats ===
+Level 1: 97/160 lexicon words used (60.6%)
+Level 2: 68/169 lexicon words used (40.2%)
+Level 3: 48/113 lexicon words used (42.5%)
+Level 4: 53/106 lexicon words used (50.0%)
+Level 5: 0/126 lexicon words used (0.0%)
+Level 6: 0/154 lexicon words used (0.0%)
+Words appearing in only 1 story: 513
+
+=== Summary ===
+Story                                         Words  Unique  Above%  Err  Warn
+hsk1-scifi-talking-book                          86      45    7.0%    3     0
+hsk1-historical-poets-tea                       165      56   12.1%    2     0
+hsk1-magical-shadow-friend                      155      53   16.8%    3     0
+hsk1-comedy-reading-dog                         162      61   18.5%    8     0
+hsk1-slice-of-life-new-neighbors                146      57   15.1%    8     0
+hsk2-scifi-smart-alarm                          156      88   23.1%    8     0
+hsk2-historical-grandfathers-map                154      94   23.4%    7     0
+hsk2-magical-magic-kitchen                      174      96   26.4%    5     0
+hsk2-comedy-wrong-class                         201     103   17.4%   12     0
+hsk2-mystery-lunch-thief                        203      94   21.7%    7     0
+hsk3-scifi-label-glasses                        155      99   18.7%   11     0
+hsk3-historical-moving-to-city                  171     111   24.6%   12     0
+hsk3-magical-honest-bicycle                     211     105   10.9%   14     2
+hsk3-comedy-wrong-phone                         230     118   13.9%   14     0
+hsk3-drama-balcony-garden                       229     137   24.0%   16     0
+hsk4-scifi-tomorrows-tea                        192     114   12.0%   11     0
+hsk4-historical-calligraphers-choice            183     124   19.1%    7     0
+hsk4-magical-memory-teahouse                    220     128   15.0%   14     0
+hsk4-comedy-grandma-goes-digital                198     126   14.6%    7     0
+hsk4-philosophical-park-observer                226     150   16.4%   12     1
+
+Errors: 181
+Warnings: 3
+  pinyin-mismatch: 179
+  word-missing-pinyin: 1
+  word-missing-translation: 1
+  translation-not-in-meanings: 3
+
+Result: FAIL (181 errors)

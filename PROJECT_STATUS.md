@@ -17,10 +17,11 @@ All 20 stories are integrated into the app. The UI uses the **Jade Split** theme
 ### Known Issue
 - 会说话的书 (HSK 1, Sci-Fi) is incomplete (~120 word entries vs ~200+ for other stories). The full version was never finished during story creation.
 
-### Recent Changes (main branch)
+### Recent Changes
+- Phase 4 validation script added — see `validation-report.txt` for latest run (179 pinyin mismatches to fix next session)
 - Readability QoL improvements: bumped small font sizes (sidebar genre tags, story list heading, reading instruction, tooltips), increased mobile text sizes, added `max-width: 720px` to reading content
 
-## Refactor In Progress
+## Refactor Complete
 
 See `REFACTOR_PLAN.md` for the full plan. Summary of what's done and what's next:
 
@@ -136,9 +137,15 @@ claude-code-play/
 Content is an array of paragraphs, each an array of word tokens.
 Punctuation: `{"text": "。", "pinyin": null, "translation": null}`
 
-## Potential Next Steps
+## Next Steps
+- **Fix pinyin mismatches** — 179 errors detected by validate.py; categories:
+  - Lexicon bugs: wrong SUBTLEX reading picked (上 "shǎng"→"shàng", 从 "cōng"→"cóng", 更 "gēng"→"gèng", 打 "dá"→"dǎ", 跑 "páo"→"pǎo")
+  - Neutral tone: stories use full tones, lexicon uses neutral (知道, 时候, 明白, 告诉, etc.)
+  - Tone sandhi: stories apply sandhi rules (一起 yìqǐ, 不是 bú shì), lexicon uses citation tones
+  - Capitalization: proper nouns (中文, 王, 李明)
+  - Spacing/apostrophes: 你好 "nǐ hǎo" vs "nǐhǎo", 可爱 "kě'ài" vs "kěài"
+  - Title segment: " - 1985" in 进城 has null pinyin/translation
 - **Browser-test the app** — Phases 1-3 are code-complete but untested in browser
-- **Fix pinyin mismatches** — 179 inconsistencies between stories and lexicon detected by validate.py
 - Complete the 会说话的书 story
 - Add touch support for mobile (tap instead of hover for tooltips)
 - Add progress tracking / bookmarking
